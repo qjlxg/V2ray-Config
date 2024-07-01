@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - 海外用户专用-新加坡
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '600'
-
-
-rules:
- - DOMAIN,renzhe.cloud,🌐 访问官网
- - DOMAIN,renzhecloud.com,🌐 访问官网
- - DOMAIN,knowledgebase.renzhecloud.link,🌐 访问官网
- - DOMAIN,status.renzhecloud.link,🌐 访问官网
- - DOMAIN,renzhesubconverter.com,🌐 访问官网
  - DOMAIN,share.renzhe.cloud,🌐 访问官网
  - DOMAIN,merchant.renzhe.cloud,🌐 访问官网
  - DOMAIN,chat.openai.com.cdn.cloudflare.net,🤖 OpenAI
@@ -603,3 +591,15 @@ rules:
  - DOMAIN-SUFFIX,yadro.ru,🛑 广告拦截
  - DOMAIN-SUFFIX,yengo.com,🛑 广告拦截
  - DOMAIN-SUFFIX,zedo.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,zemanta.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,11h5.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,1kxun.mobi,🛑 广告拦截
+ - DOMAIN-SUFFIX,26zsd.cn,🛑 广告拦截
+ - DOMAIN-SUFFIX,519397.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,626uc.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,915.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,appget.cn,🛑 广告拦截
+ - DOMAIN-SUFFIX,appuu.cn,🛑 广告拦截
+ - DOMAIN-SUFFIX,coinhive.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,huodonghezi.cn,🛑 广告拦截
+ - DOMAIN-SUFFIX,vcbn65.xyz,🛑 广告拦截

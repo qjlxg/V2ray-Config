@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    name: Premium|广港|IEPL|01
-    type: ss
-    server: pr1.jymzffbquawl.com
-    port: 3600
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
     name: Premium|广港|IEPL|02
     type: ss
     server: pr1.jymzffbquawl.com
@@ -595,6 +583,18 @@
     type: ss
     server: bs3.jymzffbquawl.com
     port: 5605
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|07
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5606
     cipher: rc4-md5
     password: RenzheCloudSS
     udp: true
