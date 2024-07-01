@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,188.131.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,203.195.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,203.205.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,210.4.138.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.128.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.132.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.148.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,212.64.0.0/17,🎯 全球直连,no-resolve
  - IP-CIDR,212.129.128.0/17,🎯 全球直连,no-resolve
  - IP-CIDR,45.113.192.0/22,🎯 全球直连,no-resolve
  - IP-CIDR,63.217.23.0/24,🎯 全球直连,no-resolve
@@ -197,7 +209,7 @@
  - GEOIP,CN,🎯 全球直连
  - MATCH,🕹 规则之外
 #---------------------------------------------------#
-## 更新：2024-07-01 04:12:29
+## 更新：2024-07-01 05:11:32
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 ## 链接：https://yiyosub.com/link/J6OpSJ9lfi1YHzQI?clash=1
 #---------------------------------------------------#
@@ -591,15 +603,3 @@ rules:
 - DOMAIN-SUFFIX,zmzapi.net,Domestic
 # > 蛋蛋赞
 - DOMAIN-SUFFIX,baduziyuan.com,Domestic
-- DOMAIN-SUFFIX,com-hs-hkdy.com,Domestic
-- DOMAIN-SUFFIX,czybjz.com,Domestic
-- DOMAIN-SUFFIX,dandanzan.com,Domestic
-- DOMAIN-SUFFIX,fjhps.com,Domestic
-- DOMAIN-SUFFIX,kuyunbo.club,Domestic
-# > Baidu
-- DOMAIN-SUFFIX,baidu.com,Domestic
-- DOMAIN-SUFFIX,baidubcr.com,Domestic
-- DOMAIN-SUFFIX,bdstatic.com,Domestic
-# > ChinaNet
-- DOMAIN-SUFFIX,189.cn,Domestic
-- DOMAIN-SUFFIX,21cn.com,Domestic
