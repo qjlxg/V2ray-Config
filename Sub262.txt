@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-- IP-CIDR,100.64.0.0/10,DIRECT
-
-# > IQIYI
-- IP-CIDR,101.227.0.0/16,AsianTV
-- IP-CIDR,101.224.0.0/13,AsianTV
-- IP-CIDR,119.176.0.0/12,AsianTV
-
-# > Youku
-- IP-CIDR,106.11.0.0/16,AsianTV
-
-# > Telegram
-- IP-CIDR,67.198.55.0/24,Proxy
-- IP-CIDR,91.108.4.0/22,Proxy
-- IP-CIDR,91.108.8.0/22,Proxy
-- IP-CIDR,91.108.12.0/22,Proxy
-- IP-CIDR,91.108.16.0/22,Proxy
-- IP-CIDR,91.108.56.0/22,Proxy
-- IP-CIDR,109.239.140.0/24,Proxy
-- IP-CIDR,149.154.160.0/20,Proxy
-- IP-CIDR,205.172.60.0/22,Proxy
-
-# (Extra IP-CIRD)
-# > Google
-- IP-CIDR,35.190.247.0/24,Proxy
-- IP-CIDR,64.233.160.0/19,Proxy
-- IP-CIDR,66.102.0.0/20,Proxy
 - IP-CIDR,66.249.80.0/20,Proxy
 - IP-CIDR,72.14.192.0/18,Proxy
 - IP-CIDR,74.125.0.0/16,Proxy
