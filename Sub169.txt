@@ -3,6 +3,74 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
     </ul>
   </nav>
 </footer>
@@ -535,71 +603,3 @@ rules:
     - 'DOMAIN-SUFFIX,jshint.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,jtvnw.net,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,justgetflux.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,kat.cr,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,klip.me,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,libsyn.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,linkedin.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,line-apps.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,linode.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,lithium.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,littlehj.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,live.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,live.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,livefilestore.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,llnwd.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,macid.co,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,macromedia.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,macrumors.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mashable.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mathjax.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,medium.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mega.co.nz,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mega.nz,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,megaupload.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,microsofttranslator.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mindnode.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,mobile01.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,modmyi.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,msedge.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,myfontastic.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,name.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,nextmedia.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,nsstatic.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,nssurge.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,nyt.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,nytimes.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,omnigroup.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,onedrive.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,onenote.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,ooyala.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,openvpn.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,openwrt.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,orkut.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,osxdaily.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,outlook.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,ow.ly,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,paddleapi.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,parallels.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,parse.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pdfexpert.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,periscope.tv,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pinboard.in,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pinterest.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pixelmator.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pixiv.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,playpcesor.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,playstation.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,playstation.com.hk,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,playstation.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,playstationnetwork.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,pushwoosh.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,rime.im,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,servebom.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,sfx.ms,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,shadowsocks.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,sharethis.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,shazam.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,skype.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,smartdns❤️vpnhat❤️.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,smartmailcloud.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,sndcdn.com,❤️vpnhat❤️'
