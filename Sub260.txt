@@ -3,55 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - {"name":"日本08-Japan08","type":"ssr","server":"cm01.newcome.xyz","port":3707,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"日本09-Japan09","type":"ssr","server":"cm01.newcome.xyz","port":3708,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"日本10-Japan10","type":"ssr","server":"cm01.newcome.xyz","port":3709,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国01-Usa01","type":"ssr","server":"cm01.newcome.xyz","port":7700,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国02-Usa02","type":"ssr","server":"cm01.newcome.xyz","port":7701,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国03-Usa03","type":"ssr","server":"cm01.newcome.xyz","port":7702,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国04-Usa04","type":"ssr","server":"cm01.newcome.xyz","port":7703,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国05-Usa05","type":"ssr","server":"cm01.newcome.xyz","port":7704,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国06-Usa06","type":"ssr","server":"cm01.newcome.xyz","port":7705,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国07-Usa07","type":"ssr","server":"cm01.newcome.xyz","port":7706,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国08-Usa08","type":"ssr","server":"cm01.newcome.xyz","port":7707,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国09-Usa09","type":"ssr","server":"cm01.newcome.xyz","port":7708,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"美国10-Usa10","type":"ssr","server":"cm01.newcome.xyz","port":7709,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港01-Hongkong01","type":"ssr","server":"zx01.endhigh.xyz","port":2400,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港02-Hongkong02","type":"ssr","server":"zx01.endhigh.xyz","port":2401,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港03-Hongkong03","type":"ssr","server":"zx01.endhigh.xyz","port":2402,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港04-Hongkong04","type":"ssr","server":"zx01.endhigh.xyz","port":2403,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港05-Hongkong05","type":"ssr","server":"zx01.endhigh.xyz","port":2404,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港06-Hongkong06","type":"ssr","server":"zx02.endhigh.xyz","port":2405,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港07-Hongkong07","type":"ssr","server":"zx02.endhigh.xyz","port":2406,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港08-Hongkong08","type":"ssr","server":"zx02.endhigh.xyz","port":2407,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港09-Hongkong09","type":"ssr","server":"zx02.endhigh.xyz","port":2408,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-  - {"name":"香港10-Hongkong10","type":"ssr","server":"zx02.endhigh.xyz","port":2409,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
-
-proxy-groups:
--
-  name: Proxy
-  type: select
-  proxies:
-    - '/海外专用/ 台湾-TROJAN-01(Trojan Taiwan01)'
-    - '/海外专用/ 台湾-TROJAN-02(Trojan Taiwan02)'
-    - '/海外专用/ 新加坡-TROJAN-01(Trojan Singapore01)'
-    - '/海外专用/ 新加坡-TROJAN-02(Trojan Singapore02)'
-    - '/海外专用/ 日本-TROJAN-01(Trojan Japan01)'
-    - '/海外专用/ 日本-TROJAN-02(Trojan Japan02)'
-    - '/海外专用/ 美国-TROJAN-01(Trojan USA01)'
-    - '/海外专用/ 美国-TROJAN-02(Trojan USA02)'
-    - 台湾01-Taiwan01
-    - 台湾02-Taiwan02
-    - 台湾03-Taiwan03
-    - 台湾04-Taiwan04
-    - 台湾05-Taiwan05
-    - 台湾06-Taiwan06
-    - 新加坡01-Singapore01
-    - 新加坡02-Singapore02
-    - 新加坡03-Singapore03
-    - 新加坡04-Singapore04
-    - 新加坡05-Singapore05
-    - 新加坡06-Singapore06
     - 新加坡07-Singapore07
     - 新加坡08-Singapore08
     - 新加坡09-Singapore09
@@ -603,3 +554,52 @@ rules:
 - DOMAIN-SUFFIX,pureapk.com,Proxy
 - DOMAIN-SUFFIX,quora.com,Proxy
 - DOMAIN-SUFFIX,quoracdn.net,Proxy
+- DOMAIN-SUFFIX,rakuten.co.jp,Proxy
+- DOMAIN-SUFFIX,reddit.com,Proxy
+- DOMAIN-SUFFIX,redditmedia.com,Proxy
+- DOMAIN-SUFFIX,resilio.com,Proxy
+- DOMAIN-SUFFIX,reuters.com,Proxy
+- DOMAIN-SUFFIX,scmp.com,Proxy
+- DOMAIN-SUFFIX,scribd.com,Proxy
+- DOMAIN-SUFFIX,seatguru.com,Proxy
+- DOMAIN-SUFFIX,shadowsocks.org,Proxy
+- DOMAIN-SUFFIX,slideshare.net,Proxy
+- DOMAIN-SUFFIX,soundcloud.com,Proxy
+- DOMAIN-SUFFIX,startpage.com,Proxy
+- DOMAIN-SUFFIX,steamcommunity.com,Proxy
+- DOMAIN-SUFFIX,steemit.com,Proxy
+- DOMAIN-SUFFIX,t66y.com,Proxy
+- DOMAIN-SUFFIX,teco-hk.org,Proxy
+- DOMAIN-SUFFIX,teco-mo.org,Proxy
+- DOMAIN-SUFFIX,teddysun.com,Proxy
+- DOMAIN-SUFFIX,theinitium.com,Proxy
+- DOMAIN-SUFFIX,tineye.com,Proxy
+- DOMAIN-SUFFIX,torproject.org,Proxy
+- DOMAIN-SUFFIX,tumblr.com,Proxy
+- DOMAIN-SUFFIX,turbobit.net,Proxy
+- DOMAIN-SUFFIX,twitch.tv,Proxy
+- DOMAIN-SUFFIX,udn.com,Proxy
+- DOMAIN-SUFFIX,unseen.is,Proxy
+- DOMAIN-SUFFIX,upmedia.mg,Proxy
+- DOMAIN-SUFFIX,uptodown.com,Proxy
+- DOMAIN-SUFFIX,ustream.tv,Proxy
+- DOMAIN-SUFFIX,uwants.com,Proxy
+- DOMAIN-SUFFIX,v2ray.com,Proxy
+- DOMAIN-SUFFIX,viber.com,Proxy
+- DOMAIN-SUFFIX,videopress.com,Proxy
+- DOMAIN-SUFFIX,vimeo.com,Proxy
+- DOMAIN-SUFFIX,voxer.com,Proxy
+- DOMAIN-SUFFIX,vzw.com,Proxy
+- DOMAIN-SUFFIX,w3schools.com,Proxy
+- DOMAIN-SUFFIX,wattpad.com,Proxy
+- DOMAIN-SUFFIX,whoer.net,Proxy
+- DOMAIN-SUFFIX,wikimapia.org,Proxy
+- DOMAIN-SUFFIX,wikipedia.org,Proxy
+- DOMAIN-SUFFIX,wire.com,Proxy
+- DOMAIN-SUFFIX,worldcat.org,Proxy
+- DOMAIN-SUFFIX,wsj.com,Proxy
+- DOMAIN-SUFFIX,wsj.net,Proxy
+- DOMAIN-SUFFIX,xboxlive.com,Proxy
+- DOMAIN-SUFFIX,xvideos.com,Proxy
+- DOMAIN-SUFFIX,yahoo.com,Proxy
+- DOMAIN-SUFFIX,yesasia.com,Proxy
