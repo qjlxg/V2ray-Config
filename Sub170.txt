@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    - 'DOMAIN-KEYWORD,github,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,globalsign.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,gmodules.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,godaddy.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,golang.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,gongm.in,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,goo.gl,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,goodreaders.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,goodreads.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,gravatar.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,gstatic.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,gvt0.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,hockeyapp.net,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,hotmail.com,❤️vpnhat❤️'
@@ -226,7 +215,7 @@
     - 'MATCH,❤️vpnhat❤️'
 
 #---------------------------------------------------#
-## 上次更新于：2024-07-01 06:11:20
+## 上次更新于：2024-07-01 07:07:53
 #---------------------------------------------------#
 
 port: 7890
@@ -603,3 +592,14 @@ proxies:
     type: ss
     server: pr3.jymzffbquawl.com
     port: 5610
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Premium|广美|IEPL|04
+    type: ss
+    server: pr3.jymzffbquawl.com
