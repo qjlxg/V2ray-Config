@@ -3,6 +3,50 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    port: 3056
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Premium|广新|IEPL|01
+    type: ss
+    server: pr3.jymzffbquawl.com
+    port: 6606
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Premium|广新|IEPL|02
+    type: ss
+    server: pr3.jymzffbquawl.com
+    port: 6607
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Premium|广新|IEPL|03
+    type: ss
+    server: pr3.jymzffbquawl.com
+    port: 6608
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
   -
     name: Premium|广新|IEPL|04
     type: ss
@@ -559,47 +603,3 @@
     name: Standard|广港|IEPL|02
     type: ss
     server: bs1.jymzffbquawl.com
-    port: 3601
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广港|IEPL|03
-    type: ss
-    server: bs1.jymzffbquawl.com
-    port: 3602
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广港|IEPL|04
-    type: ss
-    server: bs1.jymzffbquawl.com
-    port: 3603
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广港|IEPL|05
-    type: ss
-    server: bs1.jymzffbquawl.com
-    port: 3604
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
