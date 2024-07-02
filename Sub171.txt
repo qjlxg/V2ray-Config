@@ -3,6 +3,142 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  -
+    name: Standard|广港|IEPL|06
+    type: ss
+    server: bs1.jymzffbquawl.com
+    port: 3605
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广港|IEPL|07
+    type: ss
+    server: bs1.jymzffbquawl.com
+    port: 3606
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广港|IEPL|08
+    type: ss
+    server: bs1.jymzffbquawl.com
+    port: 3607
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广港|IEPL|09
+    type: ss
+    server: bs1.jymzffbquawl.com
+    port: 3608
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广港|IEPL|10
+    type: ss
+    server: bs1.jymzffbquawl.com
+    port: 3609
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|01
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5600
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|02
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5601
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|03
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5602
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|04
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5603
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|05
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5604
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|06
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 5605
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广美|IEPL|07
+    type: ss
+    server: bs3.jymzffbquawl.com
     port: 5606
     cipher: rc4-md5
     password: RenzheCloudSS
@@ -467,139 +603,3 @@ proxy-groups:
       - Standard|广日|IEPL|02
       - Standard|广日|IEPL|03
       - Standard|广日|IEPL|04
-      - Standard|广日|IEPL|05
-      - Standard|广日|IEPL|06
-      - Standard|广日|IEPL|07
-      - Standard|广日|IEPL|08
-      - Standard|广日|IEPL|09
-      - Standard|广日|IEPL|10
-      - Standard|广港|IEPL|01
-      - Standard|广港|IEPL|02
-      - Standard|广港|IEPL|03
-      - Standard|广港|IEPL|04
-      - Standard|广港|IEPL|05
-      - Standard|广港|IEPL|06
-      - Standard|广港|IEPL|07
-      - Standard|广港|IEPL|08
-      - Standard|广港|IEPL|09
-      - Standard|广港|IEPL|10
-      - Standard|广美|IEPL|01
-      - Standard|广美|IEPL|02
-      - Standard|广美|IEPL|03
-      - Standard|广美|IEPL|04
-      - Standard|广美|IEPL|05
-      - Standard|广美|IEPL|06
-      - Standard|广美|IEPL|07
-      - Standard|广美|IEPL|08
-      - 海外用户专用-新加坡
-      - 海外用户专用-日本
-      - 海外用户专用-美国
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '300'
-  -
-    name: '🇭🇰 香港节点'
-    type: url-test
-    proxies:
-      - Premium|广港|IEPL|01
-      - Premium|广港|IEPL|02
-      - Premium|广港|IEPL|03
-      - Premium|广港|IEPL|04
-      - Premium|广港|IEPL|05
-      - Premium|广港|IEPL|06
-      - Premium|广港|IEPL|07
-      - Premium|广港|IEPL|08
-      - Premium|广港|IEPL|09
-      - Premium|广港|IEPL|10
-      - Standard|广港|IEPL|01
-      - Standard|广港|IEPL|02
-      - Standard|广港|IEPL|03
-      - Standard|广港|IEPL|04
-      - Standard|广港|IEPL|05
-      - Standard|广港|IEPL|06
-      - Standard|广港|IEPL|07
-      - Standard|广港|IEPL|08
-      - Standard|广港|IEPL|09
-      - Standard|广港|IEPL|10
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '600'
-  -
-    name: '🇹🇼 台湾节点'
-    type: url-test
-    proxies:
-      - Premium|广台|IEPL|01
-      - Premium|广台|IEPL|02
-      - Premium|广台|IEPL|03
-      - Premium|广台|IEPL|04
-      - Standard|广台|IEPL|01
-      - Standard|广台|IEPL|02
-      - Standard|广台|IEPL|03
-      - Standard|广台|IEPL|04
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '600'
-  -
-    name: '🇺🇲 美国节点'
-    type: url-test
-    proxies:
-      - Premium|广美|IEPL|01
-      - Premium|广美|IEPL|02
-      - Premium|广美|IEPL|03
-      - Premium|广美|IEPL|04
-      - Standard|广美|IEPL|01
-      - Standard|广美|IEPL|02
-      - Standard|广美|IEPL|03
-      - Standard|广美|IEPL|04
-      - Standard|广美|IEPL|05
-      - Standard|广美|IEPL|06
-      - Standard|广美|IEPL|07
-      - Standard|广美|IEPL|08
-      - 海外用户专用-美国
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '600'
-  -
-    name: '🇯🇵 日本节点'
-    type: url-test
-    proxies:
-      - Premium|广日|IEPL|01
-      - Premium|广日|IEPL|02
-      - Premium|广日|IEPL|03
-      - Premium|广日|IEPL|04
-      - Premium|广日|IEPL|05
-      - Premium|广日|IEPL|06
-      - Premium|广日|IEPL|07
-      - Premium|广日|IEPL|08
-      - Premium|广日|IEPL|09
-      - Premium|广日|IEPL|10
-      - Standard|广日|IEPL|01
-      - Standard|广日|IEPL|02
-      - Standard|广日|IEPL|03
-      - Standard|广日|IEPL|04
-      - Standard|广日|IEPL|05
-      - Standard|广日|IEPL|06
-      - Standard|广日|IEPL|07
-      - Standard|广日|IEPL|08
-      - Standard|广日|IEPL|09
-      - Standard|广日|IEPL|10
-      - 海外用户专用-日本
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
-    interval: '600'
-  -
-    name: '🇸🇬 新加坡节点'
-    type: url-test
-    proxies:
-      - Premium|广新|IEPL|01
-      - Premium|广新|IEPL|02
-      - Premium|广新|IEPL|03
-      - Premium|广新|IEPL|04
-      - Standard|广新|IEPL|01
-      - Standard|广新|IEPL|02
-      - Standard|广新|IEPL|03
-      - Standard|广新|IEPL|04
-      - Standard|广新|IEPL|05
-      - Standard|广新|IEPL|06
-      - 海外用户专用-新加坡
-      - '✈️ 手动切换'
-    url: 'http://www.gstatic.com/generate_204'
