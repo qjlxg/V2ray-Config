@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-- DOMAIN-SUFFIX,tp.m-team.cc,Domestic
-- DOMAIN-SUFFIX,udacity.com,Domestic
-- DOMAIN-SUFFIX,xmcdn.com,Domestic
-- DOMAIN-SUFFIX,yangkeduo.com,Domestic
-- DOMAIN-SUFFIX,zhihu.com,Domestic
-- DOMAIN-SUFFIX,zhimg.com,Domestic
-#USER-AGENT,NeteaseMusic*,Domestic
-#USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,Domestic
-
-# (DNS Cache Pollution Protection)
-# > Google
-- DOMAIN-SUFFIX,appspot.com,Proxy
-- DOMAIN-SUFFIX,blogger.com,Proxy
-- DOMAIN-SUFFIX,getoutline.org,Proxy
-- DOMAIN-SUFFIX,gvt0.com,Proxy
-- DOMAIN-SUFFIX,gvt1.com,Proxy
-- DOMAIN-SUFFIX,gvt3.com,Proxy
-- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
-- DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-KEYWORD,blogspot,Proxy
 # > Facebook
 - DOMAIN-SUFFIX,cdninstagram.com,Proxy
