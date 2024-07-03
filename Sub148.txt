@@ -3,15 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVXJENEZ6bER5ejBEUHV0VzIyTFBW@paris.telegavpn.com:9802#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+paris.telegavpn.com-9802+%7C+159.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQak1aREl1ZDhBMUNFYVJ1UzRsTUZj@hellblade.gameir10.online:12739#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+hellblade.gameir10.online-12739+%7C+132.14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.varzesh360.co-443+%7C+271.35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.samanehha.co-443+%7C+286.26ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU1MTQ1YS1iMWI1LTQ0M2EtODk3Ny02NzBmNmJkMTBmMDI=@bgroup.node2.s.nodelist-gfwairport2.top:50001#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+bgroup.node2.s.nodelist-gfwairport2.top-50001+%7C+465.8ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZkVrWHRibEV4SXRBb2txU1ZBQmJp@45.159.249.42:7843#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+45.159.249.42-7843+%7C+131.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU1MTQ1YS1iMWI1LTQ0M2EtODk3Ny02NzBmNmJkMTBmMDI=@bgroup.node2.s.nodelist-gfwairport2.top:50001#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+bgroup.node2.s.nodelist-gfwairport2.top-50001+%7C+291.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZkVrWHRibEV4SXRBb2txU1ZBQmJp@45.159.249.42:7843#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+45.159.249.42-7843+%7C+182.35ms
 
 #---------------------------------------------------#
-## 更新：2024-07-03 10:11:23
+## 更新：2024-07-03 11:11:16
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 ## 链接：https://yiyosub.com/link/J6OpSJ9lfi1YHzQI?clash=1
 #---------------------------------------------------#
@@ -603,3 +599,7 @@ rules:
 - DOMAIN-SUFFIX,dns2go.com,Proxy
 - DOMAIN-SUFFIX,dropbox.com,Proxy
 - DOMAIN-SUFFIX,dropboxusercontent.com,Proxy
+- DOMAIN-SUFFIX,duckduckgo.com,Proxy
+- DOMAIN-SUFFIX,dw.com,Proxy
+- DOMAIN-SUFFIX,dynu.com,Proxy
+- DOMAIN-SUFFIX,earthcam.com,Proxy
