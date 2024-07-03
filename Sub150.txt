@@ -3,6 +3,35 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+# > Tencent
+#USER-AGENT,MicroMessenger%20Client,Domestic
+#USER-AGENT,WeChat*,Domestic
+- DOMAIN-SUFFIX,qq.com,Domestic
+- DOMAIN-SUFFIX,qpic.cn,Domestic
+- DOMAIN-SUFFIX,tencent.com,Domestic
+# > Alibaba
+- DOMAIN-SUFFIX,alibaba.com,Domestic
+- DOMAIN-SUFFIX,alicdn.com,Domestic
+- DOMAIN-SUFFIX,amap.com,Domestic
+- DOMAIN-SUFFIX,dingtalk.com,Domestic
+- DOMAIN-SUFFIX,taobao.com,Domestic
+- DOMAIN-SUFFIX,tmall.com,Domestic
+- DOMAIN-SUFFIX,ykimg.com,Domestic
+- DOMAIN-SUFFIX,youku.com,Domestic
+- DOMAIN-SUFFIX,xiami.com,Domestic
+- DOMAIN-SUFFIX,xiami.net,Domestic
+# > NetEase
+- DOMAIN-SUFFIX,163.com,Domestic
+- DOMAIN-SUFFIX,126.net,Domestic
+- DOMAIN-SUFFIX,163yun.com,Domestic
+# > Sohu
+- DOMAIN-SUFFIX,sohu.com.cn,Domestic
+- DOMAIN-SUFFIX,itc.cn,Domestic
+- DOMAIN-SUFFIX,sohu.com,Domestic
+- DOMAIN-SUFFIX,v-56.com,Domestic
+# > Sina
+- DOMAIN-SUFFIX,weibo.com,Domestic
+- DOMAIN-SUFFIX,weibo.cn,Domestic
 # > JD
 - DOMAIN-SUFFIX,jd.com,Domestic
 - DOMAIN-SUFFIX,jd.hk,Domestic
@@ -574,32 +603,3 @@
 
 # (Extra IP-CIRD)
 # > Google
-- IP-CIDR,35.190.247.0/24,Proxy
-- IP-CIDR,64.233.160.0/19,Proxy
-- IP-CIDR,66.102.0.0/20,Proxy
-- IP-CIDR,66.249.80.0/20,Proxy
-- IP-CIDR,72.14.192.0/18,Proxy
-- IP-CIDR,74.125.0.0/16,Proxy
-- IP-CIDR,108.177.8.0/21,Proxy
-- IP-CIDR,172.217.0.0/16,Proxy
-- IP-CIDR,173.194.0.0/16,Proxy
-- IP-CIDR,209.85.128.0/17,Proxy
-- IP-CIDR,216.58.192.0/19,Proxy
-- IP-CIDR,216.239.32.0/19,Proxy
-# > Facebook
-- IP-CIDR,31.13.24.0/21,Proxy
-- IP-CIDR,31.13.64.0/18,Proxy
-- IP-CIDR,45.64.40.0/22,Proxy
-- IP-CIDR,66.220.144.0/20,Proxy
-- IP-CIDR,69.63.176.0/20,Proxy
-- IP-CIDR,69.171.224.0/19,Proxy
-- IP-CIDR,74.119.76.0/22,Proxy
-- IP-CIDR,103.4.96.0/22,Proxy
-- IP-CIDR,129.134.0.0/17,Proxy
-- IP-CIDR,157.240.0.0/17,Proxy
-- IP-CIDR,173.252.64.0/19,Proxy
-- IP-CIDR,173.252.96.0/19,Proxy
-- IP-CIDR,179.60.192.0/22,Proxy
-- IP-CIDR,185.60.216.0/22,Proxy
-- IP-CIDR,204.15.20.0/22,Proxy
-# > Twitter
