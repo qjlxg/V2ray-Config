@@ -3,6 +3,59 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+# Linux 和 macOS 的 redir 代理端口
+redir-port: 7892 
+
+# 允许局域网的连接
+allow-lan: true
+
+# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
+mode: rule
+
+# 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
+# 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
+log-level: silent
+# Clash 的 RESTful API
+external-controller: '0.0.0.0:9090'
+
+# RESTful API 的口令
+secret: '' 
+
+# 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
+# 参数应填写配置目录的相对路径或绝对路径。
+# external-ui: folder
+
+
+proxies:
+  - {"name":"/海外专用/ 台湾-TROJAN-01(Trojan Taiwan01)","type":"trojan","server":"tj-tw01.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-tw01.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 台湾-TROJAN-02(Trojan Taiwan02)","type":"trojan","server":"tj-tw02.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-tw02.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 新加坡-TROJAN-01(Trojan Singapore01)","type":"trojan","server":"tj-sg01.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-sg01.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 新加坡-TROJAN-02(Trojan Singapore02)","type":"trojan","server":"tj-sg02.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-sg02.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 日本-TROJAN-01(Trojan Japan01)","type":"trojan","server":"tj-jp01.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-jp01.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 日本-TROJAN-02(Trojan Japan02)","type":"trojan","server":"tj-jp02.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-jp02.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 美国-TROJAN-01(Trojan USA01)","type":"trojan","server":"tj-us01.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-us01.yiyo2way.xyz"}
+  - {"name":"/海外专用/ 美国-TROJAN-02(Trojan USA02)","type":"trojan","server":"tj-us02.yiyo2way.xyz","port":9980,"password":"4179ca8a-d210-34c2-9d17-125377a5abd2","sni":"tj-us02.yiyo2way.xyz"}
+  - {"name":"台湾01-Taiwan01","type":"ssr","server":"cm01.newcome.xyz","port":5700,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"台湾02-Taiwan02","type":"ssr","server":"cm01.newcome.xyz","port":5701,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"台湾03-Taiwan03","type":"ssr","server":"cm01.newcome.xyz","port":5702,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"台湾04-Taiwan04","type":"ssr","server":"cm01.newcome.xyz","port":5703,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"台湾05-Taiwan05","type":"ssr","server":"cm01.newcome.xyz","port":5704,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"台湾06-Taiwan06","type":"ssr","server":"cm01.newcome.xyz","port":5705,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡01-Singapore01","type":"ssr","server":"cm03.newcome.xyz","port":6700,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡02-Singapore02","type":"ssr","server":"cm03.newcome.xyz","port":6701,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡03-Singapore03","type":"ssr","server":"cm03.newcome.xyz","port":6702,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡04-Singapore04","type":"ssr","server":"cm03.newcome.xyz","port":6703,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡05-Singapore05","type":"ssr","server":"cm03.newcome.xyz","port":6704,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡06-Singapore06","type":"ssr","server":"cm03.newcome.xyz","port":6705,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡07-Singapore07","type":"ssr","server":"cm03.newcome.xyz","port":6706,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡08-Singapore08","type":"ssr","server":"cm03.newcome.xyz","port":6707,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡09-Singapore09","type":"ssr","server":"cm03.newcome.xyz","port":6708,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"新加坡10-Singapore10","type":"ssr","server":"cm03.newcome.xyz","port":6709,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"日本01-Japan01","type":"ssr","server":"cm01.newcome.xyz","port":3700,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"日本02-Japan02","type":"ssr","server":"cm01.newcome.xyz","port":3701,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"日本03-Japan03","type":"ssr","server":"cm01.newcome.xyz","port":3702,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"日本04-Japan04","type":"ssr","server":"cm01.newcome.xyz","port":3703,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"日本05-Japan05","type":"ssr","server":"cm01.newcome.xyz","port":3704,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
   - {"name":"日本06-Japan06","type":"ssr","server":"cm01.newcome.xyz","port":3705,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
   - {"name":"日本07-Japan07","type":"ssr","server":"cm01.newcome.xyz","port":3706,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
   - {"name":"日本08-Japan08","type":"ssr","server":"cm01.newcome.xyz","port":3707,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
@@ -550,56 +603,3 @@ rules:
 - DOMAIN-SUFFIX,friday.tw,Proxy
 - DOMAIN-SUFFIX,gate.io,Proxy
 - DOMAIN-SUFFIX,getlantern.org,Proxy
-- DOMAIN-SUFFIX,getsync.com,Proxy
-- DOMAIN-SUFFIX,globalvoices.org,Proxy
-- DOMAIN-SUFFIX,goo.ne.jp,Proxy
-- DOMAIN-SUFFIX,goodreads.com,Proxy
-- DOMAIN-SUFFIX,gov.tw,Proxy
-- DOMAIN-SUFFIX,gumroad.com,Proxy
-- DOMAIN-SUFFIX,hbg.com,Proxy
-- DOMAIN-SUFFIX,hightail.com,Proxy
-- DOMAIN-SUFFIX,hk01.com,Proxy
-- DOMAIN-SUFFIX,hkbf.org,Proxy
-- DOMAIN-SUFFIX,hkbookcity.com,Proxy
-- DOMAIN-SUFFIX,hkej.com,Proxy
-- DOMAIN-SUFFIX,hket.com,Proxy
-- DOMAIN-SUFFIX,hkgolden.com,Proxy
-- DOMAIN-SUFFIX,hootsuite.com,Proxy
-- DOMAIN-SUFFIX,hudson.org,Proxy
-- DOMAIN-SUFFIX,huobi.pro,Proxy
-- DOMAIN-SUFFIX,initiummall.com,Proxy
-- DOMAIN-SUFFIX,ipfs.io,Proxy
-- DOMAIN-SUFFIX,issuu.com,Proxy
-- DOMAIN-SUFFIX,japantimes.co.jp,Proxy
-- DOMAIN-SUFFIX,jiji.com,Proxy
-- DOMAIN-SUFFIX,jinx.com,Proxy
-- DOMAIN-SUFFIX,jkforum.net,Proxy
-- DOMAIN-SUFFIX,joinmastodon.org,Proxy
-- DOMAIN-SUFFIX,kakao.com,Proxy
-- DOMAIN-SUFFIX,lihkg.com,Proxy
-- DOMAIN-SUFFIX,live.com,Proxy
-- DOMAIN-SUFFIX,mail.ru,Proxy
-- DOMAIN-SUFFIX,matters.news,Proxy
-- DOMAIN-SUFFIX,medium.com,Proxy
-- DOMAIN-SUFFIX,mega.nz,Proxy
-- DOMAIN-SUFFIX,mil,Proxy
-- DOMAIN-SUFFIX,mobile01.com,Proxy
-- DOMAIN-SUFFIX,naver.com,Proxy
-- DOMAIN-SUFFIX,nikkei.com,Proxy
-- DOMAIN-SUFFIX,nofile.io,Proxy
-- DOMAIN-SUFFIX,now.com,Proxy
-- DOMAIN-SUFFIX,nyt.com,Proxy
-- DOMAIN-SUFFIX,nytchina.com,Proxy
-- DOMAIN-SUFFIX,nytcn.me,Proxy
-- DOMAIN-SUFFIX,nytco.com,Proxy
-- DOMAIN-SUFFIX,nytimes.com,Proxy
-- DOMAIN-SUFFIX,nytimg.com,Proxy
-- DOMAIN-SUFFIX,nytlog.com,Proxy
-- DOMAIN-SUFFIX,nytstyle.com,Proxy
-- DOMAIN-SUFFIX,ok.ru,Proxy
-- DOMAIN-SUFFIX,okex.com,Proxy
-- DOMAIN-SUFFIX,pcloud.com,Proxy
-- DOMAIN-SUFFIX,pinimg.com,Proxy
-- DOMAIN-SUFFIX,pixiv.net,Proxy
-- DOMAIN-SUFFIX,pornhub.com,Proxy
-- DOMAIN-SUFFIX,pureapk.com,Proxy
