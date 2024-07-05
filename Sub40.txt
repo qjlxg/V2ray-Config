@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=/details&fp=chrome&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
+vless://0e95bc0d-e48c-457b-9287-715f46f6dd44@104.168.107.230:6794?security=reality&flow=xtls-rprx-vision&sni=paysitesreviews.net&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6794
+vless://9051be1a-d915-4788-ad53-1c724ca031a1@51.77.110.3:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=xyz&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇫🇷 FR-51.77.110.3:1210
+vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://a03bece2-d0ad-4032-b44d-0e08e6749e30@104.168.107.230:5738?security=reality&flow=xtls-rprx-vision&sni=addtoany.com&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5738
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@141.105.130.31:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-141.105.130.31:17552
 vless://b7a3a5b8-fa6d-4339-a0e9-2bff4fe15f1f@104.168.107.230:8443?security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8443
@@ -599,7 +603,3 @@ trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&t
 trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:8443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.187:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.187:2087
-trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.45:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.45:2087
-trojan://telegram-id-privatevpns@35.181.189.228:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.189.228:22222
-trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443

@@ -3,6 +3,57 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "geoip": "ir",
+        "outbound": "bypass"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:6756",
+      "secret": "chdfOWXugSsABIuL"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vless://bc827d67-f095-4c65-9327-33039decb888@mcic.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#02-bit-clean-mcic
+vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&path=%2Fws5%2F8082#00-bit-clean
+vless://bc827d67-f095-4c65-9327-33039decb888@mci.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#01-bit-clean-mci
+vless://bc827d67-f095-4c65-9327-33039decb888@mtn.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#03-bit-clean-mtn
+vless://bc827d67-f095-4c65-9327-33039decb888@mtnc.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#04-bit-clean-mtnc
+vless://bc827d67-f095-4c65-9327-33039decb888@rtl.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#05-bit-clean-rtl
+vless://bc827d67-f095-4c65-9327-33039decb888@rtlc.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#06-bit-clean-rtlc
+vless://bc827d67-f095-4c65-9327-33039decb888@mkh.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#07-bit-clean-mkh
+vless://bc827d67-f095-4c65-9327-33039decb888@mkhc.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#08-bit-clean-mkhc
+vless://bc827d67-f095-4c65-9327-33039decb888@hwb.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#09-bit-clean-hwb
+vless://bc827d67-f095-4c65-9327-33039decb888@ast.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#10-bit-clean-ast
+vless://bc827d67-f095-4c65-9327-33039decb888@sht.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#11-bit-clean-sht
+vless://bc827d67-f095-4c65-9327-33039decb888@prs.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#12-bit-clean-prs
+vless://bc827d67-f095-4c65-9327-33039decb888@mbt.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#13-bit-clean-mbt
+vless://bc827d67-f095-4c65-9327-33039decb888@ask.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#14-bit-clean-ask
+vless://bc827d67-f095-4c65-9327-33039decb888@rsp.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#15-bit-clean-rsp
 vless://bc827d67-f095-4c65-9327-33039decb888@afn.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#16-bit-clean-afn
 vless://bc827d67-f095-4c65-9327-33039decb888@psm.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#17-bit-clean-psm
 vless://bc827d67-f095-4c65-9327-33039decb888@arx.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#18-bit-clean-arx
@@ -552,54 +603,3 @@ trojan://telegram-id-privatevpns@13.60.148.10:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.60.146.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 164
 trojan://telegram-id-privatevpns@13.60.143.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 163
 trojan://telegram-id-privatevpns@13.60.128.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 162
-trojan://telegram-id-privatevpns@13.60.114.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 161
-trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 160
-trojan://telegram-id-privatevpns@13.60.112.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 159
-trojan://telegram-id-privatevpns@13.53.247.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 158
-trojan://telegram-id-privatevpns@13.51.142.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 157
-trojan://telegram-id-privatevpns@13.51.0.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 156
-trojan://telegram-id-privatevpns@13.50.161.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 155
-trojan://telegram-id-privatevpns@13.43.127.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 154
-trojan://telegram-id-privatevpns@13.42.252.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 153
-trojan://telegram-id-privatevpns@13.42.111.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 152
-trojan://telegram-id-privatevpns@13.41.148.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 151
-trojan://telegram-id-privatevpns@13.41.124.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 150
-trojan://telegram-id-privatevpns@13.39.90.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 149
-trojan://telegram-id-privatevpns@13.39.236.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 148
-trojan://telegram-id-privatevpns@13.39.219.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 147
-trojan://telegram-id-privatevpns@13.38.236.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 146
-trojan://telegram-id-privatevpns@13.38.232.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 145
-trojan://telegram-id-privatevpns@13.37.201.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 144
-trojan://telegram-id-privatevpns@13.37.180.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 143
-trojan://telegram-id-privatevpns@13.37.13.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 142
-trojan://telegram-id-privatevpns@13.36.35.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 141
-trojan://telegram-id-privatevpns@13.36.35.65:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 140
-trojan://telegram-id-privatevpns@108.128.13.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 139
-trojan://telegram-id-privatevpns@108.128.13.131:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 138
-trojan://telegram-id-directvpn@99.79.81.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 137
-trojan://telegram-id-directvpn@54.75.207.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 136
-trojan://telegram-id-directvpn@54.170.124.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 135
-trojan://telegram-id-directvpn@54.146.127.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 134
-trojan://telegram-id-directvpn@54.144.47.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 133
-trojan://telegram-id-directvpn@52.60.226.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 132
-trojan://telegram-id-directvpn@52.215.113.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 131
-trojan://telegram-id-directvpn@52.212.195.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 130
-trojan://telegram-id-directvpn@52.210.148.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 129
-trojan://telegram-id-directvpn@51.44.66.46:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 128
-trojan://telegram-id-directvpn@51.44.29.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 127
-trojan://telegram-id-directvpn@51.21.123.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 126
-trojan://telegram-id-directvpn@51.21.116.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 125
-trojan://telegram-id-directvpn@51.21.100.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 124
-trojan://telegram-id-directvpn@51.20.196.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 123
-trojan://telegram-id-directvpn@51.20.150.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 122
-trojan://telegram-id-directvpn@51.20.101.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 121
-trojan://telegram-id-directvpn@50.112.25.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 120
-trojan://telegram-id-directvpn@46.137.43.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 119
-trojan://telegram-id-directvpn@35.182.32.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 118
-trojan://telegram-id-directvpn@35.182.182.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 117
-trojan://telegram-id-directvpn@35.181.90.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 116
-trojan://telegram-id-directvpn@35.181.250.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 115
-trojan://telegram-id-directvpn@35.181.109.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 114
-trojan://telegram-id-directvpn@35.176.24.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 113
-trojan://telegram-id-directvpn@34.251.187.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 112
-trojan://telegram-id-directvpn@34.240.66.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 111
