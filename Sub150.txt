@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,appsto.re,Proxy
+# > TestFlight
+- DOMAIN,beta.itunes.apple.com,Proxy
+# > iBooks Store download
+- DOMAIN,books.itunes.apple.com,Proxy
+# > iTunes Store Moveis Trailers
+- DOMAIN,hls.itunes.apple.com,Proxy
+# App Store Preview
+- DOMAIN,itunes.apple.com,Proxy
+# > Spotlight
+- DOMAIN,api-glb-sea.smoot.apple.com,Proxy
+# > Dictionary
+- DOMAIN,lookup-api.apple.com,Proxy
+#PROCESS-NAME,LookupViewService,Proxy
+# > Google
+- DOMAIN-SUFFIX,abc.xyz,Proxy
+- DOMAIN-SUFFIX,android.com,Proxy
+- DOMAIN-SUFFIX,androidify.com,Proxy
+- DOMAIN-SUFFIX,dialogflow.com,Proxy
+- DOMAIN-SUFFIX,autodraw.com,Proxy
 - DOMAIN-SUFFIX,capitalg.com,Proxy
 - DOMAIN-SUFFIX,certificate-transparency.org,Proxy
 - DOMAIN-SUFFIX,chrome.com,Proxy
