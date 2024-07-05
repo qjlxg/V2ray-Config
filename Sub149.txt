@@ -3,6 +3,50 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+
+# > HBO && HBO Go
+- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,hbo.com,GlobalTV
+- DOMAIN-SUFFIX,hboasia.com,GlobalTV
+- DOMAIN-SUFFIX,hbogo.com,GlobalTV
+- DOMAIN-SUFFIX,hbogoasia.hk,GlobalTV
+
+# > Hulu
+- DOMAIN-SUFFIX,happyon.jp,GlobalTV
+- DOMAIN-SUFFIX,hulu.com,GlobalTV
+- DOMAIN-SUFFIX,huluim.com,GlobalTV
+- DOMAIN-SUFFIX,hulustream.com,GlobalTV
+
+# > Imkan
+- DOMAIN-SUFFIX,imkan.tv,GlobalTV
+
+# > JOOX
+- DOMAIN-SUFFIX,joox.com,GlobalTV
+
+# > MytvSUPER
+- DOMAIN-KEYWORD,nowtv100,GlobalTV
+- DOMAIN-KEYWORD,rthklive,GlobalTV
+- DOMAIN-SUFFIX,mytvsuper.com,GlobalTV
+- DOMAIN-SUFFIX,tvb.com,GlobalTV
+
+# > Netflix
+- DOMAIN-SUFFIX,netflix.com,GlobalTV
+- DOMAIN-SUFFIX,netflix.net,GlobalTV
+- DOMAIN-SUFFIX,nflxext.com,GlobalTV
+- DOMAIN-SUFFIX,nflximg.com,GlobalTV
+- DOMAIN-SUFFIX,nflximg.net,GlobalTV
+- DOMAIN-SUFFIX,nflxso.net,GlobalTV
+- DOMAIN-SUFFIX,nflxvideo.net,GlobalTV
+
+# > Pandora
+- DOMAIN-SUFFIX,pandora.com,GlobalTV
+
+# > Sky GO
+- DOMAIN-SUFFIX,sky.com,GlobalTV
+- DOMAIN-SUFFIX,skygo.co.nz,GlobalTV
+
+# > Spotify
+- DOMAIN-KEYWORD,spotify,GlobalTV
 - DOMAIN-SUFFIX,scdn.co,GlobalTV
 - DOMAIN-SUFFIX,spoti.fi,GlobalTV
 
@@ -559,47 +603,3 @@
 - DOMAIN-SUFFIX,tensorflow.org,Proxy
 - DOMAIN-SUFFIX,tiltbrush.com,Proxy
 - DOMAIN-SUFFIX,waveprotocol.org,Proxy
-- DOMAIN-SUFFIX,waymo.com,Proxy
-- DOMAIN-SUFFIX,webmproject.org,Proxy
-- DOMAIN-SUFFIX,webrtc.org,Proxy
-- DOMAIN-SUFFIX,whatbrowser.org,Proxy
-- DOMAIN-SUFFIX,widevine.com,Proxy
-- DOMAIN-SUFFIX,x.company,Proxy
-- DOMAIN-SUFFIX,youtu.be,Proxy
-- DOMAIN-SUFFIX,yt.be,Proxy
-- DOMAIN-SUFFIX,ytimg.com,Proxy
-# > Steam
-- DOMAIN,media.steampowered.com,Proxy
-- DOMAIN,store.steampowered.com,Proxy
-# > Other
-- DOMAIN-SUFFIX,0rz.tw,Proxy
-- DOMAIN-SUFFIX,4bluestones.biz,Proxy
-- DOMAIN-SUFFIX,9bis.net,Proxy
-- DOMAIN-SUFFIX,allconnected.co,Proxy
-- DOMAIN-SUFFIX,amazonaws.com,Proxy
-- DOMAIN-SUFFIX,aol.com,Proxy
-- DOMAIN-SUFFIX,bcc.com.tw,Proxy
-- DOMAIN-SUFFIX,bit.ly,Proxy
-- DOMAIN-SUFFIX,bitshare.com,Proxy
-- DOMAIN-SUFFIX,blog.jp,Proxy
-- DOMAIN-SUFFIX,blogimg.jp,Proxy
-- DOMAIN-SUFFIX,blogtd.org,Proxy
-- DOMAIN-SUFFIX,broadcast.co.nz,Proxy
-- DOMAIN-SUFFIX,camfrog.com,Proxy
-- DOMAIN-SUFFIX,cfos.de,Proxy
-- DOMAIN-SUFFIX,citypopulation.de,Proxy
-- DOMAIN-SUFFIX,cloudfront.net,Proxy
-- DOMAIN-SUFFIX,ctitv.com.tw,Proxy
-- DOMAIN-SUFFIX,cuhk.edu.hk,Proxy
-- DOMAIN-SUFFIX,cusu.hk,Proxy
-- DOMAIN-SUFFIX,discuss.com.hk,Proxy
-- DOMAIN-SUFFIX,dropboxapi.com,Proxy
-- DOMAIN-SUFFIX,edditstatic.com,Proxy
-- DOMAIN-SUFFIX,flickriver.com,Proxy
-- DOMAIN-SUFFIX,focustaiwan.tw,Proxy
-- DOMAIN-SUFFIX,free.fr,Proxy
-- DOMAIN-SUFFIX,ftchinese.com,Proxy
-- DOMAIN-SUFFIX,gigacircle.com,Proxy
-- DOMAIN-SUFFIX,gov,Proxy
-- DOMAIN-SUFFIX,hk-pub.com,Proxy
-- DOMAIN-SUFFIX,hosting.co.uk,Proxy
