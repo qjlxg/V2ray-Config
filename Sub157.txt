@@ -3,6 +3,46 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,config.fox.com,GlobalTV
+- DOMAIN-SUFFIX,emome.net,GlobalTV
+- DOMAIN-SUFFIX,fox.com,GlobalTV
+- DOMAIN-SUFFIX,foxdcg.com,GlobalTV
+- DOMAIN-SUFFIX,foxnow.com,GlobalTV
+- DOMAIN-SUFFIX,foxplus.com,GlobalTV
+- DOMAIN-SUFFIX,foxplay.com,GlobalTV
+- DOMAIN-SUFFIX,ipinfo.io,GlobalTV
+- DOMAIN-SUFFIX,mstage.io,GlobalTV
+- DOMAIN-SUFFIX,now.com,GlobalTV
+- DOMAIN-SUFFIX,theplatform.com,GlobalTV
+- DOMAIN-SUFFIX,urlload.net,GlobalTV
+
+# > HBO && HBO Go
+- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,hbo.com,GlobalTV
+- DOMAIN-SUFFIX,hboasia.com,GlobalTV
+- DOMAIN-SUFFIX,hbogo.com,GlobalTV
+- DOMAIN-SUFFIX,hbogoasia.hk,GlobalTV
+
+# > Hulu
+- DOMAIN-SUFFIX,happyon.jp,GlobalTV
+- DOMAIN-SUFFIX,hulu.com,GlobalTV
+- DOMAIN-SUFFIX,huluim.com,GlobalTV
+- DOMAIN-SUFFIX,hulustream.com,GlobalTV
+
+# > Imkan
+- DOMAIN-SUFFIX,imkan.tv,GlobalTV
+
+# > JOOX
+- DOMAIN-SUFFIX,joox.com,GlobalTV
+
+# > MytvSUPER
+- DOMAIN-KEYWORD,nowtv100,GlobalTV
+- DOMAIN-KEYWORD,rthklive,GlobalTV
+- DOMAIN-SUFFIX,mytvsuper.com,GlobalTV
+- DOMAIN-SUFFIX,tvb.com,GlobalTV
+
+# > Netflix
+- DOMAIN-SUFFIX,netflix.com,GlobalTV
 - DOMAIN-SUFFIX,netflix.net,GlobalTV
 - DOMAIN-SUFFIX,nflxext.com,GlobalTV
 - DOMAIN-SUFFIX,nflximg.com,GlobalTV
@@ -563,43 +603,3 @@
 - DOMAIN-SUFFIX,golang.org,Proxy
 - DOMAIN-SUFFIX,gstatic.com,Proxy
 - DOMAIN-SUFFIX,gv.com,Proxy
-- DOMAIN-SUFFIX,gwtproject.org,Proxy
-- DOMAIN-SUFFIX,itasoftware.com,Proxy
-- DOMAIN-SUFFIX,madewithcode.com,Proxy
-- DOMAIN-SUFFIX,material.io,Proxy
-- DOMAIN-SUFFIX,polymer-project.org,Proxy
-- DOMAIN-SUFFIX,admin.recaptcha.net,Proxy
-- DOMAIN-SUFFIX,recaptcha.net,Proxy
-- DOMAIN-SUFFIX,shattered.io,Proxy
-- DOMAIN-SUFFIX,synergyse.com,Proxy
-- DOMAIN-SUFFIX,tensorflow.org,Proxy
-- DOMAIN-SUFFIX,tiltbrush.com,Proxy
-- DOMAIN-SUFFIX,waveprotocol.org,Proxy
-- DOMAIN-SUFFIX,waymo.com,Proxy
-- DOMAIN-SUFFIX,webmproject.org,Proxy
-- DOMAIN-SUFFIX,webrtc.org,Proxy
-- DOMAIN-SUFFIX,whatbrowser.org,Proxy
-- DOMAIN-SUFFIX,widevine.com,Proxy
-- DOMAIN-SUFFIX,x.company,Proxy
-- DOMAIN-SUFFIX,youtu.be,Proxy
-- DOMAIN-SUFFIX,yt.be,Proxy
-- DOMAIN-SUFFIX,ytimg.com,Proxy
-# > Steam
-- DOMAIN,media.steampowered.com,Proxy
-- DOMAIN,store.steampowered.com,Proxy
-# > Other
-- DOMAIN-SUFFIX,0rz.tw,Proxy
-- DOMAIN-SUFFIX,4bluestones.biz,Proxy
-- DOMAIN-SUFFIX,9bis.net,Proxy
-- DOMAIN-SUFFIX,allconnected.co,Proxy
-- DOMAIN-SUFFIX,amazonaws.com,Proxy
-- DOMAIN-SUFFIX,aol.com,Proxy
-- DOMAIN-SUFFIX,bcc.com.tw,Proxy
-- DOMAIN-SUFFIX,bit.ly,Proxy
-- DOMAIN-SUFFIX,bitshare.com,Proxy
-- DOMAIN-SUFFIX,blog.jp,Proxy
-- DOMAIN-SUFFIX,blogimg.jp,Proxy
-- DOMAIN-SUFFIX,blogtd.org,Proxy
-- DOMAIN-SUFFIX,broadcast.co.nz,Proxy
-- DOMAIN-SUFFIX,camfrog.com,Proxy
-- DOMAIN-SUFFIX,cfos.de,Proxy
