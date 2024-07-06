@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.154.98.43:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇳🇱 NL-45.154.98.43:4004
-vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
-vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.39:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.39:17552
-vless://702c098f-a29a-415d-af86-cf72a437c200@172.233.51.133:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇳🇱 NL-172.233.51.133:443
-vless://702c098f-a29a-415d-af86-cf72a437c200@51.21.128.4:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇸🇪 SE-51.21.128.4:443
-vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
-vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc#🔒 VL-TCP-RLT 🇩🇪 DE-89.23.108.139:443
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.115:2096
 vless://680ad48f-bc7f-42cf-8f76-fa0d834c90c8@185.219.84.208:2096?security=reality&flow=xtls-rprx-vision&sni=zdnet.com&type=tcp&fp=chrome&pbk=cbRCuIX4kwEZCHs7lh_LQxrJQRrUR1NWpbUSwASs-iE&sid=4177d9c9#🔒 VL-TCP-RLT 🇩🇪 DE-185.219.84.208:2096
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
 vless://3934f954-59f9-4f8e-9eb8-cdc50fd026d8@104.168.107.230:6722?security=reality&flow=xtls-rprx-vision&sni=js.hsforms.net&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6722
@@ -603,3 +595,11 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@104.17.61.6:443?security=tls&sni=jobsc
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.22.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.22.46:443
+trojan://telegram-id-privatevpns@15.188.227.118:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.227.118:22222
+trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
+trojan://ZJU29smXwp@172.67.176.206:2053?sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.176.206:2053
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
+trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.66.40.117:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.40.117:443
+trojan://telegram-id-directvpn@3.134.49.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.134.49.66:22222
