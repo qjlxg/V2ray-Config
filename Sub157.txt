@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-- DOMAIN-KEYWORD,qiyi,AsianTV
-- DOMAIN-SUFFIX,qy.net,AsianTV
-
-# > letv
-- DOMAIN-SUFFIX,api.mob.app.letv.com,AsianTV
-
 # > NeteaseMusic
 - DOMAIN-SUFFIX,163yun.com,AsianTV
 - DOMAIN-SUFFIX,music.126.net,AsianTV
@@ -603,3 +597,9 @@
 - DOMAIN-SUFFIX,dler.cloud,Proxy
 
 # Local Area Network
+- DOMAIN-KEYWORD,announce,DIRECT
+- DOMAIN-KEYWORD,torrent,DIRECT
+- DOMAIN-KEYWORD,tracker,DIRECT
+- DOMAIN-SUFFIX,smtp,DIRECT
+- DOMAIN-SUFFIX,local,DIRECT
+- IP-CIDR,192.168.0.0/16,DIRECT
