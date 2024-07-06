@@ -3,6 +3,69 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  name: AsianTV
+  type: select
+  proxies:
+    - Domestic
+    - Proxy
+-
+  name: GlobalTV
+  type: select
+  proxies:
+    - Proxy
+-
+  name: Others
+  type: select
+  proxies:
+    - Proxy
+    - Domestic
+
+
+# 规则
+rules:
+# (GlobalTV)
+# > ABC
+- DOMAIN-SUFFIX,edgedatg.com,GlobalTV
+- DOMAIN-SUFFIX,go.com,GlobalTV
+
+# > AbemaTV
+- DOMAIN,linear-abematv.akamaized.net,GlobalTV
+- DOMAIN-SUFFIX,abema.io,GlobalTV
+- DOMAIN-SUFFIX,abema.tv,GlobalTV
+- DOMAIN-SUFFIX,akamaized.net,GlobalTV
+- DOMAIN-SUFFIX,ameba.jp,GlobalTV
+- DOMAIN-SUFFIX,hayabusa.io,GlobalTV
+
+# > Amazon Prime Video
+- DOMAIN-SUFFIX,aiv-cdn.net,GlobalTV
+- DOMAIN-SUFFIX,amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,amazonvideo.com,GlobalTV
+- DOMAIN-SUFFIX,llnwd.net,GlobalTV
+
+# > Bahamut
+- DOMAIN-SUFFIX,bahamut.com.tw,GlobalTV
+- DOMAIN-SUFFIX,gamer.com.tw,GlobalTV
+- DOMAIN-SUFFIX,hinet.net,GlobalTV
+
+# > BBC
+- DOMAIN-KEYWORD,bbcfmt,GlobalTV
+- DOMAIN-KEYWORD,co.uk,GlobalTV
+- DOMAIN-KEYWORD,uk-live,GlobalTV
+- DOMAIN-SUFFIX,bbc.co,GlobalTV
+- DOMAIN-SUFFIX,bbc.co.uk,GlobalTV
+- DOMAIN-SUFFIX,bbc.com,GlobalTV
+- DOMAIN-SUFFIX,bbci.co,GlobalTV
+- DOMAIN-SUFFIX,bbci.co.uk,GlobalTV
+
+# > CHOCO TV
+- DOMAIN-SUFFIX,chocotv.com.tw,GlobalTV
+
+# > Epicgames
+- DOMAIN-KEYWORD,epicgames,GlobalTV
+- DOMAIN-SUFFIX,helpshift.com,GlobalTV
+
+# > Fox+
+- DOMAIN-KEYWORD,foxplus,GlobalTV
 - DOMAIN-SUFFIX,config.fox.com,GlobalTV
 - DOMAIN-SUFFIX,emome.net,GlobalTV
 - DOMAIN-SUFFIX,fox.com,GlobalTV
@@ -540,66 +603,3 @@
 - DOMAIN-SUFFIX,jcpenney.com,Proxy
 - DOMAIN-SUFFIX,kknews.cc,Proxy
 - DOMAIN-SUFFIX,nationwide.com,Proxy
-- DOMAIN-SUFFIX,nbc.com,Proxy
-- DOMAIN-SUFFIX,nordstrom.com,Proxy
-- DOMAIN-SUFFIX,nordstromimage.com,Proxy
-- DOMAIN-SUFFIX,nordstromrack.com,Proxy
-- DOMAIN-SUFFIX,read01.com,Proxy
-- DOMAIN-SUFFIX,superpages.com,Proxy
-- DOMAIN-SUFFIX,target.com,Proxy
-- DOMAIN-SUFFIX,thinkgeek.com,Proxy
-- DOMAIN-SUFFIX,tracfone.com,Proxy
-- DOMAIN-SUFFIX,uploader.jp,Proxy
-- DOMAIN-SUFFIX,vevo.com,Proxy
-- DOMAIN-SUFFIX,viu.tv,Proxy
-- DOMAIN-SUFFIX,vk.com,Proxy
-- DOMAIN-SUFFIX,vsco.co,Proxy
-- DOMAIN-SUFFIX,xfinity.com,Proxy
-- DOMAIN-SUFFIX,zattoo.com,Proxy
-- DOMAIN,abc.com,Proxy
-- DOMAIN,abc.go.com,Proxy
-- DOMAIN,abc.net.au,Proxy
-- DOMAIN,wego.here.com,Proxy
-#USER-AGENT,Roam*,Proxy
-
-# (The Most Popular Sites)
-# > Apple
-# > Apple URL Shortener
-- DOMAIN-SUFFIX,appsto.re,Proxy
-# > TestFlight
-- DOMAIN,beta.itunes.apple.com,Proxy
-# > iBooks Store download
-- DOMAIN,books.itunes.apple.com,Proxy
-# > iTunes Store Moveis Trailers
-- DOMAIN,hls.itunes.apple.com,Proxy
-# App Store Preview
-- DOMAIN,itunes.apple.com,Proxy
-# > Spotlight
-- DOMAIN,api-glb-sea.smoot.apple.com,Proxy
-# > Dictionary
-- DOMAIN,lookup-api.apple.com,Proxy
-#PROCESS-NAME,LookupViewService,Proxy
-# > Google
-- DOMAIN-SUFFIX,abc.xyz,Proxy
-- DOMAIN-SUFFIX,android.com,Proxy
-- DOMAIN-SUFFIX,androidify.com,Proxy
-- DOMAIN-SUFFIX,dialogflow.com,Proxy
-- DOMAIN-SUFFIX,autodraw.com,Proxy
-- DOMAIN-SUFFIX,capitalg.com,Proxy
-- DOMAIN-SUFFIX,certificate-transparency.org,Proxy
-- DOMAIN-SUFFIX,chrome.com,Proxy
-- DOMAIN-SUFFIX,chromeexperiments.com,Proxy
-- DOMAIN-SUFFIX,chromestatus.com,Proxy
-- DOMAIN-SUFFIX,chromium.org,Proxy
-- DOMAIN-SUFFIX,creativelab5.com,Proxy
-- DOMAIN-SUFFIX,debug.com,Proxy
-- DOMAIN-SUFFIX,deepmind.com,Proxy
-- DOMAIN-SUFFIX,firebaseio.com,Proxy
-- DOMAIN-SUFFIX,getmdl.io,Proxy
-- DOMAIN-SUFFIX,ggpht.com,Proxy
-- DOMAIN-SUFFIX,gmail.com,Proxy
-- DOMAIN-SUFFIX,gmodules.com,Proxy
-- DOMAIN-SUFFIX,godoc.org,Proxy
-- DOMAIN-SUFFIX,golang.org,Proxy
-- DOMAIN-SUFFIX,gstatic.com,Proxy
-- DOMAIN-SUFFIX,gv.com,Proxy
