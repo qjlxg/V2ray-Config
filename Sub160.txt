@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-- DOMAIN-SUFFIX,amazonvideo.com,GlobalTV
-- DOMAIN-SUFFIX,llnwd.net,GlobalTV
-
-# > Bahamut
-- DOMAIN-SUFFIX,bahamut.com.tw,GlobalTV
-- DOMAIN-SUFFIX,gamer.com.tw,GlobalTV
-- DOMAIN-SUFFIX,hinet.net,GlobalTV
 
 # > BBC
 - DOMAIN-KEYWORD,bbcfmt,GlobalTV
@@ -603,3 +596,10 @@
 - DOMAIN,itunes.apple.com,Proxy
 # > Spotlight
 - DOMAIN,api-glb-sea.smoot.apple.com,Proxy
+# > Dictionary
+- DOMAIN,lookup-api.apple.com,Proxy
+#PROCESS-NAME,LookupViewService,Proxy
+# > Google
+- DOMAIN-SUFFIX,abc.xyz,Proxy
+- DOMAIN-SUFFIX,android.com,Proxy
+- DOMAIN-SUFFIX,androidify.com,Proxy

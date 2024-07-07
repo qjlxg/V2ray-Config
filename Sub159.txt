@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.67.73.233:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&fp=chrome&alpn=h2#RELAY🚩 | msnghdfy4c2.cpiforpersia.uk-443 | 49.94ms
-vless://e0bbd4e7-9428-4495-8a43-41644c9d1a57@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#RELAY🚩 | servernett44.servernet.fun.-8080 | 2.08ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.209.33:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 9.37ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 2.1ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 1.89ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.198.242:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 2.02ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=L%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#RELAY🚩 | mmdv2.pages.dev-443 | 1.89ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 2.05ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 2.04ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.59:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 2.11ms
@@ -411,7 +404,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+series-a2-mec.samanehha.co-443+%7C+301.88ms
 
 #---------------------------------------------------#
-## 更新：2024-07-07 07:09:16
+## 更新：2024-07-07 08:15:54
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 ## 链接：https://yiyosub.com/link/J6OpSJ9lfi1YHzQI?clash=1
 #---------------------------------------------------#
@@ -603,3 +596,10 @@ rules:
 # > Amazon Prime Video
 - DOMAIN-SUFFIX,aiv-cdn.net,GlobalTV
 - DOMAIN-SUFFIX,amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,amazonvideo.com,GlobalTV
+- DOMAIN-SUFFIX,llnwd.net,GlobalTV
+
+# > Bahamut
+- DOMAIN-SUFFIX,bahamut.com.tw,GlobalTV
+- DOMAIN-SUFFIX,gamer.com.tw,GlobalTV
+- DOMAIN-SUFFIX,hinet.net,GlobalTV
