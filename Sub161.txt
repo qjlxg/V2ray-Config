@@ -3,6 +3,129 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,soundcloud.com,Proxy
+- DOMAIN-SUFFIX,startpage.com,Proxy
+- DOMAIN-SUFFIX,steamcommunity.com,Proxy
+- DOMAIN-SUFFIX,steemit.com,Proxy
+- DOMAIN-SUFFIX,t66y.com,Proxy
+- DOMAIN-SUFFIX,teco-hk.org,Proxy
+- DOMAIN-SUFFIX,teco-mo.org,Proxy
+- DOMAIN-SUFFIX,teddysun.com,Proxy
+- DOMAIN-SUFFIX,theinitium.com,Proxy
+- DOMAIN-SUFFIX,tineye.com,Proxy
+- DOMAIN-SUFFIX,torproject.org,Proxy
+- DOMAIN-SUFFIX,tumblr.com,Proxy
+- DOMAIN-SUFFIX,turbobit.net,Proxy
+- DOMAIN-SUFFIX,twitch.tv,Proxy
+- DOMAIN-SUFFIX,udn.com,Proxy
+- DOMAIN-SUFFIX,unseen.is,Proxy
+- DOMAIN-SUFFIX,upmedia.mg,Proxy
+- DOMAIN-SUFFIX,uptodown.com,Proxy
+- DOMAIN-SUFFIX,ustream.tv,Proxy
+- DOMAIN-SUFFIX,uwants.com,Proxy
+- DOMAIN-SUFFIX,v2ray.com,Proxy
+- DOMAIN-SUFFIX,viber.com,Proxy
+- DOMAIN-SUFFIX,videopress.com,Proxy
+- DOMAIN-SUFFIX,vimeo.com,Proxy
+- DOMAIN-SUFFIX,voxer.com,Proxy
+- DOMAIN-SUFFIX,vzw.com,Proxy
+- DOMAIN-SUFFIX,w3schools.com,Proxy
+- DOMAIN-SUFFIX,wattpad.com,Proxy
+- DOMAIN-SUFFIX,whoer.net,Proxy
+- DOMAIN-SUFFIX,wikimapia.org,Proxy
+- DOMAIN-SUFFIX,wikipedia.org,Proxy
+- DOMAIN-SUFFIX,wire.com,Proxy
+- DOMAIN-SUFFIX,worldcat.org,Proxy
+- DOMAIN-SUFFIX,wsj.com,Proxy
+- DOMAIN-SUFFIX,wsj.net,Proxy
+- DOMAIN-SUFFIX,xboxlive.com,Proxy
+- DOMAIN-SUFFIX,xvideos.com,Proxy
+- DOMAIN-SUFFIX,yahoo.com,Proxy
+- DOMAIN-SUFFIX,yesasia.com,Proxy
+- DOMAIN-SUFFIX,yes-news.com,Proxy
+- DOMAIN-SUFFIX,yomiuri.co.jp,Proxy
+- DOMAIN-SUFFIX,you-get.org,Proxy
+- DOMAIN-SUFFIX,zb.com,Proxy
+- DOMAIN-SUFFIX,zello.com,Proxy
+- DOMAIN-SUFFIX,zeronet.io,Proxy
+- DOMAIN,cdn-images.mailchimp.com,Proxy
+- DOMAIN,id.heroku.com,Proxy
+- DOMAIN-KEYWORD,github,Proxy
+- DOMAIN-KEYWORD,jav,Proxy
+- DOMAIN-KEYWORD,pinterest,Proxy
+- DOMAIN-KEYWORD,porn,Proxy
+- DOMAIN-KEYWORD,wikileaks,Proxy
+
+# (Region-Restricted Access Denied)
+- DOMAIN-SUFFIX,apartmentratings.com,Proxy
+- DOMAIN-SUFFIX,apartments.com,Proxy
+- DOMAIN-SUFFIX,bankmobilevibe.com,Proxy
+- DOMAIN-SUFFIX,bing.com,Proxy
+- DOMAIN-SUFFIX,booktopia.com.au,Proxy
+- DOMAIN-SUFFIX,centauro.com.br,Proxy
+- DOMAIN-SUFFIX,clearsurance.com,Proxy
+- DOMAIN-SUFFIX,costco.com,Proxy
+- DOMAIN-SUFFIX,crackle.com,Proxy
+- DOMAIN-SUFFIX,depositphotos.cn,Proxy
+- DOMAIN-SUFFIX,dish.com,Proxy
+- DOMAIN-SUFFIX,dmm.co.jp,Proxy
+- DOMAIN-SUFFIX,dmm.com,Proxy
+- DOMAIN-SUFFIX,dnvod.tv,Proxy
+- DOMAIN-SUFFIX,esurance.com,Proxy
+- DOMAIN-SUFFIX,extmatrix.com,Proxy
+- DOMAIN-SUFFIX,fastpic.ru,Proxy
+- DOMAIN-SUFFIX,flipboard.com,Proxy
+- DOMAIN-SUFFIX,fnac.be,Proxy
+- DOMAIN-SUFFIX,fnac.com,Proxy
+- DOMAIN-SUFFIX,funkyimg.com,Proxy
+- DOMAIN-SUFFIX,fxnetworks.com,Proxy
+- DOMAIN-SUFFIX,gettyimages.com,Proxy
+- DOMAIN-SUFFIX,jcpenney.com,Proxy
+- DOMAIN-SUFFIX,kknews.cc,Proxy
+- DOMAIN-SUFFIX,nationwide.com,Proxy
+- DOMAIN-SUFFIX,nbc.com,Proxy
+- DOMAIN-SUFFIX,nordstrom.com,Proxy
+- DOMAIN-SUFFIX,nordstromimage.com,Proxy
+- DOMAIN-SUFFIX,nordstromrack.com,Proxy
+- DOMAIN-SUFFIX,read01.com,Proxy
+- DOMAIN-SUFFIX,superpages.com,Proxy
+- DOMAIN-SUFFIX,target.com,Proxy
+- DOMAIN-SUFFIX,thinkgeek.com,Proxy
+- DOMAIN-SUFFIX,tracfone.com,Proxy
+- DOMAIN-SUFFIX,uploader.jp,Proxy
+- DOMAIN-SUFFIX,vevo.com,Proxy
+- DOMAIN-SUFFIX,viu.tv,Proxy
+- DOMAIN-SUFFIX,vk.com,Proxy
+- DOMAIN-SUFFIX,vsco.co,Proxy
+- DOMAIN-SUFFIX,xfinity.com,Proxy
+- DOMAIN-SUFFIX,zattoo.com,Proxy
+- DOMAIN,abc.com,Proxy
+- DOMAIN,abc.go.com,Proxy
+- DOMAIN,abc.net.au,Proxy
+- DOMAIN,wego.here.com,Proxy
+#USER-AGENT,Roam*,Proxy
+
+# (The Most Popular Sites)
+# > Apple
+# > Apple URL Shortener
+- DOMAIN-SUFFIX,appsto.re,Proxy
+# > TestFlight
+- DOMAIN,beta.itunes.apple.com,Proxy
+# > iBooks Store download
+- DOMAIN,books.itunes.apple.com,Proxy
+# > iTunes Store Moveis Trailers
+- DOMAIN,hls.itunes.apple.com,Proxy
+# App Store Preview
+- DOMAIN,itunes.apple.com,Proxy
+# > Spotlight
+- DOMAIN,api-glb-sea.smoot.apple.com,Proxy
+# > Dictionary
+- DOMAIN,lookup-api.apple.com,Proxy
+#PROCESS-NAME,LookupViewService,Proxy
+# > Google
+- DOMAIN-SUFFIX,abc.xyz,Proxy
+- DOMAIN-SUFFIX,android.com,Proxy
+- DOMAIN-SUFFIX,androidify.com,Proxy
 - DOMAIN-SUFFIX,dialogflow.com,Proxy
 - DOMAIN-SUFFIX,autodraw.com,Proxy
 - DOMAIN-SUFFIX,capitalg.com,Proxy

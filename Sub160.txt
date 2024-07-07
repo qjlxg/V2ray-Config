@@ -3,6 +3,129 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - {"name":"美国08-Usa08","type":"ssr","server":"cm01.newcome.xyz","port":7707,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"美国09-Usa09","type":"ssr","server":"cm01.newcome.xyz","port":7708,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"美国10-Usa10","type":"ssr","server":"cm01.newcome.xyz","port":7709,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港01-Hongkong01","type":"ssr","server":"zx01.endhigh.xyz","port":2400,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港02-Hongkong02","type":"ssr","server":"zx01.endhigh.xyz","port":2401,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港03-Hongkong03","type":"ssr","server":"zx01.endhigh.xyz","port":2402,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港04-Hongkong04","type":"ssr","server":"zx01.endhigh.xyz","port":2403,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港05-Hongkong05","type":"ssr","server":"zx01.endhigh.xyz","port":2404,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港06-Hongkong06","type":"ssr","server":"zx02.endhigh.xyz","port":2405,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港07-Hongkong07","type":"ssr","server":"zx02.endhigh.xyz","port":2406,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港08-Hongkong08","type":"ssr","server":"zx02.endhigh.xyz","port":2407,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港09-Hongkong09","type":"ssr","server":"zx02.endhigh.xyz","port":2408,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+  - {"name":"香港10-Hongkong10","type":"ssr","server":"zx02.endhigh.xyz","port":2409,"cipher":"chacha20-ietf","password":"jFa4F1","protocol":"auth_aes128_sha1","protocol-param":"109670:yooRnr","obfs":"plain","obfs-param":"89c19109670.microsoft.com"}
+
+proxy-groups:
+-
+  name: Proxy
+  type: select
+  proxies:
+    - '/海外专用/ 台湾-TROJAN-01(Trojan Taiwan01)'
+    - '/海外专用/ 台湾-TROJAN-02(Trojan Taiwan02)'
+    - '/海外专用/ 新加坡-TROJAN-01(Trojan Singapore01)'
+    - '/海外专用/ 新加坡-TROJAN-02(Trojan Singapore02)'
+    - '/海外专用/ 日本-TROJAN-01(Trojan Japan01)'
+    - '/海外专用/ 日本-TROJAN-02(Trojan Japan02)'
+    - '/海外专用/ 美国-TROJAN-01(Trojan USA01)'
+    - '/海外专用/ 美国-TROJAN-02(Trojan USA02)'
+    - 台湾01-Taiwan01
+    - 台湾02-Taiwan02
+    - 台湾03-Taiwan03
+    - 台湾04-Taiwan04
+    - 台湾05-Taiwan05
+    - 台湾06-Taiwan06
+    - 新加坡01-Singapore01
+    - 新加坡02-Singapore02
+    - 新加坡03-Singapore03
+    - 新加坡04-Singapore04
+    - 新加坡05-Singapore05
+    - 新加坡06-Singapore06
+    - 新加坡07-Singapore07
+    - 新加坡08-Singapore08
+    - 新加坡09-Singapore09
+    - 新加坡10-Singapore10
+    - 日本01-Japan01
+    - 日本02-Japan02
+    - 日本03-Japan03
+    - 日本04-Japan04
+    - 日本05-Japan05
+    - 日本06-Japan06
+    - 日本07-Japan07
+    - 日本08-Japan08
+    - 日本09-Japan09
+    - 日本10-Japan10
+    - 美国01-Usa01
+    - 美国02-Usa02
+    - 美国03-Usa03
+    - 美国04-Usa04
+    - 美国05-Usa05
+    - 美国06-Usa06
+    - 美国07-Usa07
+    - 美国08-Usa08
+    - 美国09-Usa09
+    - 美国10-Usa10
+    - 香港01-Hongkong01
+    - 香港02-Hongkong02
+    - 香港03-Hongkong03
+    - 香港04-Hongkong04
+    - 香港05-Hongkong05
+    - 香港06-Hongkong06
+    - 香港07-Hongkong07
+    - 香港08-Hongkong08
+    - 香港09-Hongkong09
+    - 香港10-Hongkong10
+-
+  name: Domestic
+  type: select
+  proxies:
+    - DIRECT
+    - Proxy
+-
+  name: AsianTV
+  type: select
+  proxies:
+    - Domestic
+    - Proxy
+-
+  name: GlobalTV
+  type: select
+  proxies:
+    - Proxy
+-
+  name: Others
+  type: select
+  proxies:
+    - Proxy
+    - Domestic
+
+
+# 规则
+rules:
+# (GlobalTV)
+# > ABC
+- DOMAIN-SUFFIX,edgedatg.com,GlobalTV
+- DOMAIN-SUFFIX,go.com,GlobalTV
+
+# > AbemaTV
+- DOMAIN,linear-abematv.akamaized.net,GlobalTV
+- DOMAIN-SUFFIX,abema.io,GlobalTV
+- DOMAIN-SUFFIX,abema.tv,GlobalTV
+- DOMAIN-SUFFIX,akamaized.net,GlobalTV
+- DOMAIN-SUFFIX,ameba.jp,GlobalTV
+- DOMAIN-SUFFIX,hayabusa.io,GlobalTV
+
+# > Amazon Prime Video
+- DOMAIN-SUFFIX,aiv-cdn.net,GlobalTV
+- DOMAIN-SUFFIX,amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,amazonvideo.com,GlobalTV
+- DOMAIN-SUFFIX,llnwd.net,GlobalTV
+
+# > Bahamut
+- DOMAIN-SUFFIX,bahamut.com.tw,GlobalTV
+- DOMAIN-SUFFIX,gamer.com.tw,GlobalTV
+- DOMAIN-SUFFIX,hinet.net,GlobalTV
 
 # > BBC
 - DOMAIN-KEYWORD,bbcfmt,GlobalTV
@@ -480,126 +603,3 @@
 - DOMAIN-SUFFIX,seatguru.com,Proxy
 - DOMAIN-SUFFIX,shadowsocks.org,Proxy
 - DOMAIN-SUFFIX,slideshare.net,Proxy
-- DOMAIN-SUFFIX,soundcloud.com,Proxy
-- DOMAIN-SUFFIX,startpage.com,Proxy
-- DOMAIN-SUFFIX,steamcommunity.com,Proxy
-- DOMAIN-SUFFIX,steemit.com,Proxy
-- DOMAIN-SUFFIX,t66y.com,Proxy
-- DOMAIN-SUFFIX,teco-hk.org,Proxy
-- DOMAIN-SUFFIX,teco-mo.org,Proxy
-- DOMAIN-SUFFIX,teddysun.com,Proxy
-- DOMAIN-SUFFIX,theinitium.com,Proxy
-- DOMAIN-SUFFIX,tineye.com,Proxy
-- DOMAIN-SUFFIX,torproject.org,Proxy
-- DOMAIN-SUFFIX,tumblr.com,Proxy
-- DOMAIN-SUFFIX,turbobit.net,Proxy
-- DOMAIN-SUFFIX,twitch.tv,Proxy
-- DOMAIN-SUFFIX,udn.com,Proxy
-- DOMAIN-SUFFIX,unseen.is,Proxy
-- DOMAIN-SUFFIX,upmedia.mg,Proxy
-- DOMAIN-SUFFIX,uptodown.com,Proxy
-- DOMAIN-SUFFIX,ustream.tv,Proxy
-- DOMAIN-SUFFIX,uwants.com,Proxy
-- DOMAIN-SUFFIX,v2ray.com,Proxy
-- DOMAIN-SUFFIX,viber.com,Proxy
-- DOMAIN-SUFFIX,videopress.com,Proxy
-- DOMAIN-SUFFIX,vimeo.com,Proxy
-- DOMAIN-SUFFIX,voxer.com,Proxy
-- DOMAIN-SUFFIX,vzw.com,Proxy
-- DOMAIN-SUFFIX,w3schools.com,Proxy
-- DOMAIN-SUFFIX,wattpad.com,Proxy
-- DOMAIN-SUFFIX,whoer.net,Proxy
-- DOMAIN-SUFFIX,wikimapia.org,Proxy
-- DOMAIN-SUFFIX,wikipedia.org,Proxy
-- DOMAIN-SUFFIX,wire.com,Proxy
-- DOMAIN-SUFFIX,worldcat.org,Proxy
-- DOMAIN-SUFFIX,wsj.com,Proxy
-- DOMAIN-SUFFIX,wsj.net,Proxy
-- DOMAIN-SUFFIX,xboxlive.com,Proxy
-- DOMAIN-SUFFIX,xvideos.com,Proxy
-- DOMAIN-SUFFIX,yahoo.com,Proxy
-- DOMAIN-SUFFIX,yesasia.com,Proxy
-- DOMAIN-SUFFIX,yes-news.com,Proxy
-- DOMAIN-SUFFIX,yomiuri.co.jp,Proxy
-- DOMAIN-SUFFIX,you-get.org,Proxy
-- DOMAIN-SUFFIX,zb.com,Proxy
-- DOMAIN-SUFFIX,zello.com,Proxy
-- DOMAIN-SUFFIX,zeronet.io,Proxy
-- DOMAIN,cdn-images.mailchimp.com,Proxy
-- DOMAIN,id.heroku.com,Proxy
-- DOMAIN-KEYWORD,github,Proxy
-- DOMAIN-KEYWORD,jav,Proxy
-- DOMAIN-KEYWORD,pinterest,Proxy
-- DOMAIN-KEYWORD,porn,Proxy
-- DOMAIN-KEYWORD,wikileaks,Proxy
-
-# (Region-Restricted Access Denied)
-- DOMAIN-SUFFIX,apartmentratings.com,Proxy
-- DOMAIN-SUFFIX,apartments.com,Proxy
-- DOMAIN-SUFFIX,bankmobilevibe.com,Proxy
-- DOMAIN-SUFFIX,bing.com,Proxy
-- DOMAIN-SUFFIX,booktopia.com.au,Proxy
-- DOMAIN-SUFFIX,centauro.com.br,Proxy
-- DOMAIN-SUFFIX,clearsurance.com,Proxy
-- DOMAIN-SUFFIX,costco.com,Proxy
-- DOMAIN-SUFFIX,crackle.com,Proxy
-- DOMAIN-SUFFIX,depositphotos.cn,Proxy
-- DOMAIN-SUFFIX,dish.com,Proxy
-- DOMAIN-SUFFIX,dmm.co.jp,Proxy
-- DOMAIN-SUFFIX,dmm.com,Proxy
-- DOMAIN-SUFFIX,dnvod.tv,Proxy
-- DOMAIN-SUFFIX,esurance.com,Proxy
-- DOMAIN-SUFFIX,extmatrix.com,Proxy
-- DOMAIN-SUFFIX,fastpic.ru,Proxy
-- DOMAIN-SUFFIX,flipboard.com,Proxy
-- DOMAIN-SUFFIX,fnac.be,Proxy
-- DOMAIN-SUFFIX,fnac.com,Proxy
-- DOMAIN-SUFFIX,funkyimg.com,Proxy
-- DOMAIN-SUFFIX,fxnetworks.com,Proxy
-- DOMAIN-SUFFIX,gettyimages.com,Proxy
-- DOMAIN-SUFFIX,jcpenney.com,Proxy
-- DOMAIN-SUFFIX,kknews.cc,Proxy
-- DOMAIN-SUFFIX,nationwide.com,Proxy
-- DOMAIN-SUFFIX,nbc.com,Proxy
-- DOMAIN-SUFFIX,nordstrom.com,Proxy
-- DOMAIN-SUFFIX,nordstromimage.com,Proxy
-- DOMAIN-SUFFIX,nordstromrack.com,Proxy
-- DOMAIN-SUFFIX,read01.com,Proxy
-- DOMAIN-SUFFIX,superpages.com,Proxy
-- DOMAIN-SUFFIX,target.com,Proxy
-- DOMAIN-SUFFIX,thinkgeek.com,Proxy
-- DOMAIN-SUFFIX,tracfone.com,Proxy
-- DOMAIN-SUFFIX,uploader.jp,Proxy
-- DOMAIN-SUFFIX,vevo.com,Proxy
-- DOMAIN-SUFFIX,viu.tv,Proxy
-- DOMAIN-SUFFIX,vk.com,Proxy
-- DOMAIN-SUFFIX,vsco.co,Proxy
-- DOMAIN-SUFFIX,xfinity.com,Proxy
-- DOMAIN-SUFFIX,zattoo.com,Proxy
-- DOMAIN,abc.com,Proxy
-- DOMAIN,abc.go.com,Proxy
-- DOMAIN,abc.net.au,Proxy
-- DOMAIN,wego.here.com,Proxy
-#USER-AGENT,Roam*,Proxy
-
-# (The Most Popular Sites)
-# > Apple
-# > Apple URL Shortener
-- DOMAIN-SUFFIX,appsto.re,Proxy
-# > TestFlight
-- DOMAIN,beta.itunes.apple.com,Proxy
-# > iBooks Store download
-- DOMAIN,books.itunes.apple.com,Proxy
-# > iTunes Store Moveis Trailers
-- DOMAIN,hls.itunes.apple.com,Proxy
-# App Store Preview
-- DOMAIN,itunes.apple.com,Proxy
-# > Spotlight
-- DOMAIN,api-glb-sea.smoot.apple.com,Proxy
-# > Dictionary
-- DOMAIN,lookup-api.apple.com,Proxy
-#PROCESS-NAME,LookupViewService,Proxy
-# > Google
-- DOMAIN-SUFFIX,abc.xyz,Proxy
-- DOMAIN-SUFFIX,android.com,Proxy
-- DOMAIN-SUFFIX,androidify.com,Proxy
