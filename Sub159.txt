@@ -3,53 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    - '/海外专用/ 美国-TROJAN-01(Trojan USA01)'
-    - '/海外专用/ 美国-TROJAN-02(Trojan USA02)'
-    - 台湾01-Taiwan01
-    - 台湾02-Taiwan02
-    - 台湾03-Taiwan03
-    - 台湾04-Taiwan04
-    - 台湾05-Taiwan05
-    - 台湾06-Taiwan06
-    - 新加坡01-Singapore01
-    - 新加坡02-Singapore02
-    - 新加坡03-Singapore03
-    - 新加坡04-Singapore04
-    - 新加坡05-Singapore05
-    - 新加坡06-Singapore06
-    - 新加坡07-Singapore07
-    - 新加坡08-Singapore08
-    - 新加坡09-Singapore09
-    - 新加坡10-Singapore10
-    - 日本01-Japan01
-    - 日本02-Japan02
-    - 日本03-Japan03
-    - 日本04-Japan04
-    - 日本05-Japan05
-    - 日本06-Japan06
-    - 日本07-Japan07
-    - 日本08-Japan08
-    - 日本09-Japan09
-    - 日本10-Japan10
-    - 美国01-Usa01
-    - 美国02-Usa02
-    - 美国03-Usa03
-    - 美国04-Usa04
-    - 美国05-Usa05
-    - 美国06-Usa06
-    - 美国07-Usa07
-    - 美国08-Usa08
-    - 美国09-Usa09
-    - 美国10-Usa10
-    - 香港01-Hongkong01
-    - 香港02-Hongkong02
-    - 香港03-Hongkong03
-    - 香港04-Hongkong04
-    - 香港05-Hongkong05
-    - 香港06-Hongkong06
-    - 香港07-Hongkong07
-    - 香港08-Hongkong08
-    - 香港09-Hongkong09
     - 香港10-Hongkong10
 -
   name: Domestic
@@ -603,3 +556,50 @@ rules:
 - DOMAIN-SUFFIX,videopress.com,Proxy
 - DOMAIN-SUFFIX,vimeo.com,Proxy
 - DOMAIN-SUFFIX,voxer.com,Proxy
+- DOMAIN-SUFFIX,vzw.com,Proxy
+- DOMAIN-SUFFIX,w3schools.com,Proxy
+- DOMAIN-SUFFIX,wattpad.com,Proxy
+- DOMAIN-SUFFIX,whoer.net,Proxy
+- DOMAIN-SUFFIX,wikimapia.org,Proxy
+- DOMAIN-SUFFIX,wikipedia.org,Proxy
+- DOMAIN-SUFFIX,wire.com,Proxy
+- DOMAIN-SUFFIX,worldcat.org,Proxy
+- DOMAIN-SUFFIX,wsj.com,Proxy
+- DOMAIN-SUFFIX,wsj.net,Proxy
+- DOMAIN-SUFFIX,xboxlive.com,Proxy
+- DOMAIN-SUFFIX,xvideos.com,Proxy
+- DOMAIN-SUFFIX,yahoo.com,Proxy
+- DOMAIN-SUFFIX,yesasia.com,Proxy
+- DOMAIN-SUFFIX,yes-news.com,Proxy
+- DOMAIN-SUFFIX,yomiuri.co.jp,Proxy
+- DOMAIN-SUFFIX,you-get.org,Proxy
+- DOMAIN-SUFFIX,zb.com,Proxy
+- DOMAIN-SUFFIX,zello.com,Proxy
+- DOMAIN-SUFFIX,zeronet.io,Proxy
+- DOMAIN,cdn-images.mailchimp.com,Proxy
+- DOMAIN,id.heroku.com,Proxy
+- DOMAIN-KEYWORD,github,Proxy
+- DOMAIN-KEYWORD,jav,Proxy
+- DOMAIN-KEYWORD,pinterest,Proxy
+- DOMAIN-KEYWORD,porn,Proxy
+- DOMAIN-KEYWORD,wikileaks,Proxy
+
+# (Region-Restricted Access Denied)
+- DOMAIN-SUFFIX,apartmentratings.com,Proxy
+- DOMAIN-SUFFIX,apartments.com,Proxy
+- DOMAIN-SUFFIX,bankmobilevibe.com,Proxy
+- DOMAIN-SUFFIX,bing.com,Proxy
+- DOMAIN-SUFFIX,booktopia.com.au,Proxy
+- DOMAIN-SUFFIX,centauro.com.br,Proxy
+- DOMAIN-SUFFIX,clearsurance.com,Proxy
+- DOMAIN-SUFFIX,costco.com,Proxy
+- DOMAIN-SUFFIX,crackle.com,Proxy
+- DOMAIN-SUFFIX,depositphotos.cn,Proxy
+- DOMAIN-SUFFIX,dish.com,Proxy
+- DOMAIN-SUFFIX,dmm.co.jp,Proxy
+- DOMAIN-SUFFIX,dmm.com,Proxy
+- DOMAIN-SUFFIX,dnvod.tv,Proxy
+- DOMAIN-SUFFIX,esurance.com,Proxy
+- DOMAIN-SUFFIX,extmatrix.com,Proxy
+- DOMAIN-SUFFIX,fastpic.ru,Proxy
+- DOMAIN-SUFFIX,flipboard.com,Proxy
