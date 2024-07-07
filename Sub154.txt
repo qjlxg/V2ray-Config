@@ -3,6 +3,62 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": "engage.cloudflareclient.com",
+        "server": "dns-direct"
+      },
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "172.67.204.84",
+        "104.21.69.44",
+        "2606:4700:3031::ac43:cc54",
+        "2606:4700:3032::6815:452c",
+        "104.18.203.232",
+        "104.18.202.232",
+        "172.67.214.246",
+        "104.21.83.62",
+        "2606:4700:3030::ac43:d6f6",
+        "2606:4700:3030::6815:533e"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 8118,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "1.1.1.1",
+      "override_port": 53
     }
   ],
   "outbounds": [
@@ -547,59 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#@vpnclashfa - 74
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#@vpnclashfa - 73
 ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10599#@vpnclashfa - 72
 ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10596#@vpnclashfa - 71
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:46935#@vpnclashfa - 70
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:46678#@vpnclashfa - 69
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:45596#@vpnclashfa - 68
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:45082#@vpnclashfa - 67
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:44857#@vpnclashfa - 66
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:44488#@vpnclashfa - 65
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42968#@vpnclashfa - 64
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42744#@vpnclashfa - 63
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42669#@vpnclashfa - 62
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42312#@vpnclashfa - 61
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:41827#@vpnclashfa - 60
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:41318#@vpnclashfa - 59
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40995#@vpnclashfa - 58
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40549#@vpnclashfa - 57
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40220#@vpnclashfa - 56
-ss://YWVzLTEyOC1nY206N2ZkZjZlNjMtODZiNy00NmVlLTkyZTktNWY0NmUxNTNjYjc5@[2604:abc0:103:413:6::14]:10003#@vpnclashfa - 55
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 54
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#@vpnclashfa - 53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyY2VBbUlsSU9kYkVGQ0dzdHllaXJj@51.158.160.96:443#@vpnclashfa - 52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRXlPVFdtdFBHNXRkZ1pxTVFFcTRS@51.141.73.244:29814#@vpnclashfa - 51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vpnclashfa - 50
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnclashfa - 49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#@vpnclashfa - 48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#@vpnclashfa - 47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpleGhOTkpYZThvTTNZY1A2TmlZMjha@13.79.39.247:48509#@vpnclashfa - 46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcm1lalJna2c2Uks3Rk55RmgxUklu@146.19.233.101:29682#@vpnclashfa - 45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVzRvNVFQWURhUlU3V2xWano2OGNn@45.33.30.8:18789#@vpnclashfa - 44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#@vpnclashfa - 43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#@vpnclashfa - 42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#@vpnclashfa - 41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#@vpnclashfa - 40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#@vpnclashfa - 39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#@vpnclashfa - 38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#@vpnclashfa - 37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM@188.212.132.20:52952#@vpnclashfa - 36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYUxpbjZoWWQ3Z0N0WXJ1QmpucWRn@78.153.139.189:5555#@vpnclashfa - 35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@vpnclashfa - 34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#@vpnclashfa - 33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@188.212.132.20:52952#@vpnclashfa - 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLa1lVazc3ZHQ5UXV6RHM5MmVROVp4@moscow.telegavpn.com:60422#@vpnclashfa - 31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@vpnclashfa - 30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMDVmSWo3SXBMbHFhTzRHaXQ1MFp0@165.22.238.239:44386#@vpnclashfa - 29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIODcyTU05ZnN5djFUVVVMMUpiWmZD@136.244.81.170:20888#@vpnclashfa - 28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:812#@vpnclashfa - 27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#@vpnclashfa - 26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#@vpnclashfa - 25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806#@vpnclashfa - 24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:805#@vpnclashfa - 23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:812#@vpnclashfa - 22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#@vpnclashfa - 21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#@vpnclashfa - 20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#@vpnclashfa - 19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#@vpnclashfa - 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:803#@vpnclashfa - 17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:802#@vpnclashfa - 16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#@vpnclashfa - 15
