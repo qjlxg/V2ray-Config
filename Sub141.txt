@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@47.236.10.182:2096?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0148
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@47.236.232.148:8443?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0149
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@8.219.111.147:2083?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0150
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@8.219.237.250:2087?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0151
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@47.236.75.152:2053?allowInsecure=1&sni=mositr.freenods.sbs&type=ws&host=mositr.freenods.sbs&path=/?ed=2560fp=random&security=tls#12%7CSG_speednode_0152
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@47.236.232.148:2083?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0153
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@8.219.124.227:2087?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0155
-vless://b9011be4-b7d5-428e-a4cc-be5cc8768ba4@47.236.145.85:2087?sni=go.jp980.cloudns.org&type=ws&host=go.jp980.cloudns.org&path=/?ed=2560security=tls#12%7CSG_speednode_0156
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.80.110:2096?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#12%7CSG_speednode_0157
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.219.111.147:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#12%7CSG_speednode_0158
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.222.204.128:443?sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/security=tls#12%7CSG_speednode_0159
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@168.138.160.54:19081?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/security=tls#12%7CSG_speednode_0160
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12%7CSG_speednode_0161
@@ -58,8 +48,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:8443?sni=698Aa4AA.Swz-
 vless://775213ac-3976-439a-8977-3277c0e4735d@45.159.217.54:2087?sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=Twitter苏小柠security=tls#12%7CUS_speednode_0203
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.132:2096?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/security=tls#12%7CUS_speednode_0204
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.106:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12%7CUS_speednode_0205
-https://ablnk.absslk.xyz/ABqigvW
-https://freemc.mcsslk.xyz/bGNIezo
+https://freemc.mcsslk.xyz/m7Fy4X9
+https://ablnk.absslk.xyz/FI4KYFW
 
 vless://428f4c2e-3c7e-4577-8a09-103bc59252b6@185.135.47.150:5050?security=&type=tcp&headerType=http&host=myket.ir&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MmdmZmlyYjZ3RVdLOUN3NHZFc2VJ@77.91.123.173:18332#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool
@@ -603,3 +593,13 @@ proxy-groups:
       - 备1_3
       - 备2_3
       - 201.myhmyhhuang1980.workers.dev_3
+      - feng1_3
+      - feng2_3
+      - feng3_3
+      - feng4_3
+      - feng5_3
+      - feng6_3
+      - 901.dbodanwi.workers.dev_4
+      - 302.j4tccyw7.workers.dev_4
+      - 201.58vtg99l.workers.dev_4
+      - 备1_4
