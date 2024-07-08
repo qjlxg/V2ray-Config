@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.167.147:22222
+trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.217.209.197:32249?security=tls&sni=hkvip102.qlgq.fun&type=grpc&serviceName=hkvip102#🔒 TR-GRPC-TLS 🇭🇰 HK-8.217.209.197:32249
+trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.237.153.228:443
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.234:443
+trojan://telegram-id-privatevpns@35.181.189.228:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.189.228:22222
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=ws&host=mailbox.CPIFOrpersiA.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.250.157.96:10443?security=tls&sni=klvip101.qlgq.fun&type=grpc&serviceName=klvip101#🔒 TR-GRPC-TLS 🇲🇾 MY-47.250.157.96:10443
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.158:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.158:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@103.172.116.94:9010#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5000
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@192.227.206.115:30129#🔒 SS-TCP-NA 🇺🇸 US-192.227.206.115:30129
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9031
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQak1aREl1ZDhBMUNFYVJ1UzRsTUZj@188.245.42.175:12739#🔒 SS-TCP-NA 🇩🇪 DE-188.245.42.175:12739
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:807
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:9101
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:8118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnc01MR0JDakQ2U3NJRjRPaGhXZVFm@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422
