@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://8a8d0542-6c27-4cfc-9093-7b176fd6235a@89.208.106.72:443?security=reality&sni=soft98.ir&type=tcp&host=soft98.ir&path=/telegram-irov2rayN-irov2rayN&headerType=http&fp=ios&pbk=nwYI_ybKmzBgjFB-Z1KxBQEXvR2zqNQB3dA_RFoeNTA&sid=c91bd7dc#🔒 VL-TCP-RLT 🇳🇱 NL-89.208.106.72:443
-vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=/details&fp=chrome&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443
-vless://702c098f-a29a-415d-af86-cf72a437c200@52.19.25.141:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇮🇪 IE-52.19.25.141:443
-vless://33732651-0c11-4abf-8c0c-e3744ec88230@5.161.153.141:443?security=reality&sni=gsmarena.com&type=grpc&serviceName=%40Everyday_VPN&fp=chrome&pbk=vtUa7jdhymLNbzrhq3V9Mk0CxWZtXrBGNc4elOd0wXc&sid=079d8b6e#🔒 VL-GRPC-RLT 🇺🇸 US-5.161.153.141:443
-vless://7f1352c6-0ba2-4b38-97a0-6c4d3784afc2@49.12.245.202:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=K7C_pOD78XXS7D0fNVbwyjlfLc_MGQ_4BwfQU_DnbQY&sid=3dc679a73cf4bbf6#🔒 VL-TCP-RLT 🇩🇪 DE-49.12.245.202:443
-vless://8d790521-6152-4134-8996-7c60ebf9978b@128.140.125.61:443?security=reality&sni=help.mega.io&type=grpc&serviceName=,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn&fp=chrome&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.125.61:443
 vless://658f48f3-3207-41af-bf90-1de764d4424e@176.96.137.139:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#🔒 VL-TCP-RLT 🇩🇪 DE-176.96.137.139:2096
 vless://77540057-4504-43f7-b229-765f9b7bf35d@199.59.243.226:443?security=reality&flow=xtls-rprx-vision&sni=game&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇺🇸 US-199.59.243.226:443
 vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443
@@ -603,3 +596,10 @@ trojan://4aec4e7f8cf8454ea4613659822e1a61@104.16.159.112:443?security=tls&sni=jo
 trojan://NISHIKUITAN222@34.102.111.127:443?security=tls&sni=tt.ylks.link&type=ws&host=tt.ylks.link&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-34.102.111.127:443
 trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@172.67.139.4:2053?security=tls&sni=ip-cf.hukinghumans-655.WorkeRs.dEv&type=ws&host=ip-cf.hukinghumans-655.WorkeRs.dEv&path=trojan-ws%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.139.4:2053
 trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
+trojan://telegram-id-privatevpns@3.77.46.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.77.46.249:22222
+trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.211.197.163:18885?security=tls&sni=ukvip101.qlgq.fun&type=grpc&serviceName=ukvip101#🔒 TR-GRPC-TLS 🇬🇧 GB-8.211.197.163:18885
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.22.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.22.46:443
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
+trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.250.157.96:30443?security=tls&sni=klvip101.qlgq.fun&type=grpc&serviceName=klvip101#🔒 TR-GRPC-TLS 🇲🇾 MY-47.250.157.96:30443
+trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443?security=tls&sni=n21-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.131.41:443
+trojan://telegram-id-directvpn@18.169.155.0:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.155.0:22222
