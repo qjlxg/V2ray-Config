@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,pc.uf.ksosoft.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pcfg.wps.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pixiu.shangshufang.ksosoft.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.wps.cn,🍃 应用净化
   - DOMAIN-SUFFIX,rating6.kingsoft-office-service.com,🍃 应用净化
   - DOMAIN-SUFFIX,up.wps.kingsoft.com,🍃 应用净化
   - DOMAIN-SUFFIX,wpsweb-dc.wps.cn,🍃 应用净化
@@ -603,3 +599,7 @@
   - DOMAIN-SUFFIX,pv-cdn.net,🌍 国外媒体
 #   - URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,🌍 国外媒体
 #   - USER-AGENT,AppleNews*,🌍 国外媒体
+#   - USER-AGENT,com.apple.news*,🌍 国外媒体
+  - DOMAIN,gspe1-ssl.ls.apple.com,🌍 国外媒体
+  - DOMAIN,np-edge.itunes.apple.com,🌍 国外媒体
+  - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
