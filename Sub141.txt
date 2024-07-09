@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,fastapi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,fastclick.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,fastclick.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,flurry.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,gosquared.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,gtags.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,heyzap.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,histats.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hitslink.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hot-mob.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hyperpromote.com,🛑 全球拦截
@@ -595,11 +603,3 @@
   - DOMAIN-SUFFIX,policy.jd.com,🍃 应用净化
   - DOMAIN-SUFFIX,stat.m.jd.com,🍃 应用净化
   - DOMAIN-SUFFIX,ads.service.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,d.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,downmobile.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gad.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,game.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gamebox.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gcapi.sy.kugou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gg.kugou.com,🍃 应用净化
