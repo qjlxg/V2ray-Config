@@ -3,43 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
       - feng5_2
       - feng6_2
       - 901.dbodanwi.workers.dev_3
@@ -603,3 +566,40 @@ rules:
   - DOMAIN-SUFFIX,bugtags.com,🛑 全球拦截
   - DOMAIN-SUFFIX,buysellads.com,🛑 全球拦截
   - DOMAIN-SUFFIX,c0563.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cacafly.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,casee.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,cdnmaster.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chance-ad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chanet.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,chartbeat.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chartboost.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chengadx.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chmae.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickadu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicki.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicktracks.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickzs.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,cmcore.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnxad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzzlink.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cocounion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coocaatv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cooguo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coolguang.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coremetrics.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpmchina.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpx24.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,crasheye.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,crosschannel.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,customer-security.online,🛑 全球拦截
+  - DOMAIN-SUFFIX,daoyoudao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,datouniao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ddapp.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianjoy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianru.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,disqusads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,domob.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,domob.com.cn,🛑 全球拦截
