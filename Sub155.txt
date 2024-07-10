@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@13.48.225.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 23
+trojan://telegram-id-privatevpns@13.48.206.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 22
+trojan://telegram-id-privatevpns@13.43.32.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 21
+trojan://telegram-id-privatevpns@13.43.227.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 20
+trojan://telegram-id-privatevpns@13.41.91.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 19
+trojan://telegram-id-privatevpns@13.39.92.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 18
+trojan://telegram-id-privatevpns@13.39.73.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 17
+trojan://telegram-id-privatevpns@13.39.66.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 16
+trojan://telegram-id-privatevpns@13.39.202.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 15
 trojan://telegram-id-privatevpns@13.39.120.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 14
 trojan://telegram-id-privatevpns@13.39.100.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 13
 trojan://telegram-id-privatevpns@13.38.207.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 12
@@ -594,12 +603,3 @@ vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&secur
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?type=grpc&encryption=none&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#REALITY|IT🇮🇹 | 185.247.184.147-2060 | 167.69ms
 vless://4692cfc1-8ae4-40f4-9b56-38280de488ee@lost-here-is-nowhere-searching-home-still-turning-past-in-me.missyouhero.com:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=wgTq2PPfJyqHE1wbG7GOkkPfdq0bulCumEEm63nH_3Y&sid=4a367f#REALITY|DE🇩🇪 | lost-here-is-nowhere-searching-home-still-turning-past-in-me.missyouhero.com-8443 | 297.07ms
 vless://44c6e217-7e65-4cfd-b1ad-df48a6085c86@hk3.tg-bplink.xyz:33600?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.python.org&fp=chrome&security=reality&pbk=487NTwO5yyrUqkI1_p0MM6iZmyTgxBLD8_WGLX9xPjU&sid=e47fd975#REALITY|HK🇭🇰 | hk3.tg-bplink.xyz-33600 | 246.37ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.34:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 146.55ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.222:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.7ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.74:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.11ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.62:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.49ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.249:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.31ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.150.125:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.32ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.155.152:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.89ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.147.192:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.39ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.7.126:80?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#RELAY🚩 | us3.rtacg.com-80 | 9.13ms
