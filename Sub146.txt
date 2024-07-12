@@ -3,42 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-  - IP-CIDR,8.41.4.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-  - IP-CIDR,38.72.126.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
-#   - USER-AGENT,Niconico*,🌍 国外媒体
-  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
-  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
-#   - USER-AGENT,PBS*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
-#   - USER-AGENT,Pandora*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
-#   - USER-AGENT,SoundCloud*,🌍 国外媒体
-  - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
-  - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
-#   - USER-AGENT,Spotify*,🌍 国外媒体
   - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
   - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
   - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
@@ -603,3 +567,39 @@
 # LeTV 乐视
 # MGTV 芒果TV
 # MI
+# NetEase
+# PPTV、PPLive
+# PDD 拼多多
+# Sina
+# Sohu Sogo
+# Sony
+# SteamCN
+# Tencent
+# Vip 唯品会
+# Ximalaya 喜马拉雅
+# Xunlei 迅雷
+# YYeTs 人人影视
+# Private Tracker
+# TeamViewer
+# Public Direct CDN 公共直连
+#DOMAIN-SUFFIX,ajax.aspnetcdn.com
+#DOMAIN-SUFFIX,ajax.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
+#DOMAIN-SUFFIX,code.jquery.com
+# AccelerateDirectSites
+  - DOMAIN-SUFFIX,13th.tech,🎯 全球直连
+  - DOMAIN-SUFFIX,423down.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chaipip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaplay.store,🎯 全球直连
+  - DOMAIN-SUFFIX,hrtsea.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kaikeba.com,🎯 全球直连
+  - DOMAIN-SUFFIX,laomo.me,🎯 全球直连
+  - DOMAIN-SUFFIX,mpyit.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftconnecttest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftncsi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qupu123.com,🎯 全球直连
+  - DOMAIN-SUFFIX,pdfwifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.biz,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cn,🎯 全球直连
