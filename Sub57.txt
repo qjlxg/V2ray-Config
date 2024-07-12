@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e36b2151-7586-440e-b21b-0c721b5aed17@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#RELAY🚩 | dcc6.servernet.fun.-8080 | 53.15ms
-vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+505#RELAY🚩 | 104.20.19.168-8080 | 5.5ms
-vless://e147706e-d348-4499-873c-59ff36595e4f@172.67.16.83:443?encryption=none&security=tls&sni=xn--wgb9bb93c.pinocchio1.ir.&alpn=http%2F1.1&fp=chrome&type=grpc#RELAY🚩 | xn--wgb9bb93c.pinocchio1.ir.-443 | 107.24ms
-vless://e0bbd4e7-9428-4495-8a43-41644c9d1a57@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#RELAY🚩 | servernett44.servernet.fun.-8080 | 281.68ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&type=ws#FR🇫🇷 | de.vpnbase.net-80 | 178.21ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.209.33:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 24.56ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.44.121:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.18ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.122.7:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.14ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.104.31:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.22ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.03ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.59:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 5.81ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.110.145:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 5.72ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 5.95ms
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.13ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.241.205:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 5.74ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 5.87ms
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=%2FTElEGRAM-MARAMBASHI-MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#RELAY🚩 | mmdv2.pages.dev-443 | 6.22ms
@@ -542,12 +528,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a1d6d5f1a5a0836</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a1d9fc73d709c22</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.78.32</span>
+      <span class="hidden" id="cf-footer-ip">20.161.78.234</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +589,17 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
   <div id="cf-wrapper">
     <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
     <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> giga-downloader.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
