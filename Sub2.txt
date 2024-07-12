@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "476637:Caiange823057",
 			"obfs" : "http_simple",
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.216.109:80?encryption=none&t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.223.203:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#306-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.223.203%3A80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.44:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#307-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.209.44%3A80
 vless://91453cf9-57ea-4c51-91b6-2400d16f4589@185.146.173.97:80?encryption=none&type=ws&path=%2FSvnTeam%3Fed%3D2048&host=XR1.SportNewShop.ir.&security=none&alpn=h2&fp=edge&sni=XR1.SportNewShop.ir.#308-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-185.146.173.97%3A80
-vless://b217b5b1-514d-4c56-b04a-789fc7bcf9d6@162.159.137.232:2083?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C10-50%2C20-50&sni=freeinternetforeveryone.segaro.tech#309-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.137.232%3A2083
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.153:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=us3.rtacg.com#310-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.111.153%3A80
