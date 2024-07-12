@@ -3,123 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: 🍎 苹果服务
-    type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
@@ -603,3 +486,120 @@ rules:
   - DOMAIN-SUFFIX,onetad.com,🛑 全球拦截
   - DOMAIN-SUFFIX,optaim.com,🛑 全球拦截
   - DOMAIN-SUFFIX,optimix.asia,🛑 全球拦截
+  - DOMAIN-SUFFIX,optimix.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,optimizelyapis.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,overture.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,p0y.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,pagechoice.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,pingdom.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,plugrush.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,popin.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,pro.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,publicidad.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,publicidad.tv,🛑 全球拦截
+  - DOMAIN-SUFFIX,pubmatic.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,pubnub.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qcl777.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qiyou.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qtmojo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,quantcount.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qucaigg.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qumi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,qxxys.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,reachmax.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,responsys.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,revsci.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,rlcdn.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,rtbasia.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sanya1.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,scupio.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,serving-sys.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,shuiguo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,shuzilm.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,similarweb.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sitemeter.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sitescout.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sitetag.us,🛑 全球拦截
+  - DOMAIN-SUFFIX,smartmad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,social-touch.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,somecoding.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sponsorpay.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,stargame.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,stg8.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,switchadhub.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sycbbs.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,synacast.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sysdig.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,talkingdata.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,talkingdata.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,tansuotv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tanv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tanx.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tapjoy.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,th7.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,thoughtleadr.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tianmidian.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tiqcdn.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,touclick.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficjam.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficmp.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tuia.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ueadlian.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uerzyr.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ugdtimg.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ugvip.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ujian.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,ukeiae.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,umeng.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,umeng.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,umtrack.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,unimhk.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,union-wifi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,union001.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,unionsy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,unlitui.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uri6.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ushaqi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,usingde.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uuzu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uyunad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,vamaker.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,vlion.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,voiceads.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,voiceads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,vpon.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,vungle.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,vungle.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,waps.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,wapx.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,webterren.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,whpxy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,winads.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,winasdaq.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wiyun.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wooboo.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,wqmobile.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wrating.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wumii.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,xcy8.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,xdrig.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,xiaozhen.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,xibao100.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,xtgreat.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,xy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yandui.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yigao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yijifen.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yinooo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yiqifa.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yiwk.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ylunion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ymapp.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ymcdn.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,yongyuelm.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yooli.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,youmi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,youxiaoad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yoyi.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,yoyi.tv,🛑 全球拦截
+  - DOMAIN-SUFFIX,yrxmr.com,🛑 全球拦截
