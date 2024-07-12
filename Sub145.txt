@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,124.192.153.42/32,🍃 应用净化,no-resolve
+  - DOMAIN-SUFFIX,gug.ku6cdn.com,🍃 应用净化
+  - DOMAIN-SUFFIX,pq.stat.ku6.com,🍃 应用净化
+  - DOMAIN-SUFFIX,st.vq.ku6.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,static.ku6.com,🍃 应用净化
+  - DOMAIN-SUFFIX,1.letvlive.com,🍃 应用净化
+  - DOMAIN-SUFFIX,2.letvlive.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ark.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,dc.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,fz.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,g3.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,game.letvstore.com,🍃 应用净化
   - DOMAIN-SUFFIX,i0.letvimg.com,🍃 应用净化
   - DOMAIN-SUFFIX,i3.letvimg.com,🍃 应用净化
   - DOMAIN-SUFFIX,minisite.letv.com,🍃 应用净化
@@ -591,15 +603,3 @@
 #   - USER-AGENT,HBO%20GO%20PROD*,🌍 国外媒体
   - DOMAIN-KEYWORD,.hbogoasia.,🌍 国外媒体
   - DOMAIN-KEYWORD,hbogoasia,🌍 国外媒体
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN,bcbolthboa-a.akamaihd.net,🌍 国外媒体
-  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🌍 国外媒体
-  - DOMAIN,dai3fd1oh325y.cloudfront.net,🌍 国外媒体
-  - DOMAIN,hboasia1-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia2-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia3-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia4-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia5-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasialive.akamaized.net,🌍 国外媒体
-  - DOMAIN,hbogoprod-vod.akamaized.net,🌍 国外媒体
-  - DOMAIN,hbolb.onwardsmg.com,🌍 国外媒体
