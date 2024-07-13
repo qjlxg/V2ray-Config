@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.148.254:443?security=tls&sni=ada21.npbjn.com&fp=chrome&type=ws&path=users?ed%3D2048&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@64.110.68.224:21402?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxNTQuMTk4LjIwOS41MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlZTE0ZjZlMC1lNjUyLTQyNjAtZmZiNS1jMmE3ZmQ0ZGIzNWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-trojan://62fe12a0-8a05-11ee-85b2-1239d0255272@104.16.125.175:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.90:889?security=tls&sni=cdn.cjhh.lol&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +596,10 @@ vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443/?type=ws&encrypt
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@102.177.176.49:2096/?type=ws&encryption=none&host=De15.SiMaNsAnAt.Ir.&security=tls&sni=De15.SiMaNsAnAt.Ir.#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082/?type=ws&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://029b2274-47e2-4831-9f03-3bbe9d7ad0e8@104.18.33.36:443/?type=ws&encryption=none&host=nezuko.raidenshogun.cloudns.org&path=%2FVLESS%2Ffr-freevmess.privateip.net&security=tls&sni=nezuko.raidenshogun.cloudns.org&alpn=http%2F1.1&fp=chrome#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://0136d663-8506-45ab-e164-666046bf635f@104.21.28.188:8880/?type=ws&encryption=none&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws.cloudfront.net.kiava.fun#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.22:2082/?type=ws&encryption=none&host=h3.xn--gmq282ekfhyys3gs.com.&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://beeedc2e-aaa6-4a60-b771-6daec05746d9@190.93.246.241:443/?type=ws&encryption=none&host=backup.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=49651%2Fscenic_photo&security=tls&sni=backup.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&alpn=http%2F1.1&fp=safari#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+#profile-title: ☬ SHΞЯVIN™ | SUPERsub
+#profile-update-interval: 1 
+#subscription-userinfo: upload=100; download=100; total=10000000000000; expire= 44462495316 #support-url: shervinofpersia.serv00.net #profile-web-page-url: isherv.in
+
