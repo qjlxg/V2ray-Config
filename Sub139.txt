@@ -3,6 +3,49 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🍃 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 901.dbodanwi.workers.dev_1
+      - 302.j4tccyw7.workers.dev_1
+      - 201.58vtg99l.workers.dev_1
+      - 备1_1
+      - 备2_1
+      - 201.myhmyhhuang1980.workers.dev_1
+      - feng1_1
+      - feng2_1
+      - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
+      - 备1_2
+      - 备2_2
+      - 201.myhmyhhuang1980.workers.dev_2
+      - feng1_2
+      - feng2_2
+      - feng3_2
+      - feng4_2
+      - feng5_2
       - feng6_2
       - 901.dbodanwi.workers.dev_3
       - 302.j4tccyw7.workers.dev_3
@@ -560,46 +603,3 @@ rules:
   - DOMAIN-SUFFIX,csbew.com,🛑 全球拦截
   - DOMAIN-SUFFIX,directrev.com,🛑 全球拦截
   - DOMAIN-SUFFIX,dumedia.ru,🛑 全球拦截
-  - DOMAIN-SUFFIX,effectivemeasure.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,effectivemeasure.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,eqads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,everesttech.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,exoclick.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,extend.tv,🛑 全球拦截
-  - DOMAIN-SUFFIX,eyereturn.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fastapi.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,fastclick.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fastclick.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,flurry.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,gosquared.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,gtags.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,heyzap.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,histats.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,hitslink.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,hot-mob.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,hyperpromote.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,i-mobile.co.jp,🛑 全球拦截
-  - DOMAIN-SUFFIX,imrworldwide.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,inmobi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,inner-active.mobi,🛑 全球拦截
-  - DOMAIN-SUFFIX,intentiq.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,inter1ads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ipredictive.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ironsrc.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,iskyworker.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,jizzads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,juicyads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,kochava.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,leadbolt.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,leadbolt.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,leadboltads.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,leadboltapps.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,leadboltmobile.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,lenzmx.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,liveadvert.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,marketgid.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,marketo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,mdotm.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,medialytics.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,medialytics.io,🛑 全球拦截
-  - DOMAIN-SUFFIX,meetrics.com,🛑 全球拦截
