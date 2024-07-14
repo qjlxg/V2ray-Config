@@ -3,6 +3,140 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.218:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%203ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.52.5:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?security=tls&sni=iyjil.cfonni.info&type=ws&path=/paradise&host=iyjil.cfonni.info&encryption=none#%F0%9F%86%94Outline_Vpn%20%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US%20183ms
+vmess://eyJhZGQiOiJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJhaWQiOiIwIiwiaG9zdCI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsImlkIjoiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://Telegram-ipV2Ray-joi@104.17.147.22:80?security=&type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&encryption=none#%F0%9F%86%94V2RayTz%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+vmess://eyJhZGQiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsImFpZCI6IjAiLCJob3N0IjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.98.63:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.96.16:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%203ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.80.137:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.212:80?security=&type=ws&path=/&host=us3.rtacg.com&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+
+####################################
+# 创建者：v2rayse.com
+# 客户端：Clash.Meta
+# 创建时间：2024-07-05 16:21:34
+# 使用模版：V2RaySE 默认模版
+# 节点数量：60
+####################################
+# !!当前配置文件请使用基于 Clash.Meta 内核程序
+mixed-port: 7890
+allow-lan: true
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enabled: true
+  listen: 0.0.0.0:1053
+  ipv6: true
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - '*.linksys.com'
+    - '*.linksyssmartwifi.com'
+    - swscan.apple.com
+    - mesu.apple.com
+    - '*.msftconnecttest.com'
+    - '*.msftncsi.com'
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - '*.time.edu.cn'
+    - '*.ntp.org.cn'
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - +.music.163.com
+    - '*.126.net'
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - '*.kuwo.cn'
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - +.y.qq.com
+    - +.music.tc.qq.com
+    - aqqmusic.tc.qq.com
+    - +.stream.qqmusic.qq.com
+    - '*.xiami.com'
+    - +.music.migu.cn
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - +.xboxlive.com
+    - localhost.ptlogin2.qq.com
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - '*.mcdn.bilivideo.cn'
+  nameserver:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  fallback-filter:
+    geoip: false
+    ipcidr:
+      - 240.0.0.0/4
+      - 0.0.0.0/32
+
+proxies:
+  - {"name":"901.dbodanwi.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"302.j4tccyw7.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
+  - {"name":"201.58vtg99l.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备1_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备2_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"201.myhmyhhuang1980.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng1_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng2_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng3_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng4_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng5_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng6_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"901.dbodanwi.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"302.j4tccyw7.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
+  - {"name":"201.58vtg99l.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备1_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备2_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"201.myhmyhhuang1980.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng1_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng2_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng3_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng4_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng5_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng6_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"901.dbodanwi.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"302.j4tccyw7.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
+  - {"name":"201.58vtg99l.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备1_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"备2_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"201.myhmyhhuang1980.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng1_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng2_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng3_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng4_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng5_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng6_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"901.dbodanwi.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"302.j4tccyw7.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
@@ -469,137 +603,3 @@ proxy-groups:
       - feng6_2
       - 901.dbodanwi.workers.dev_3
       - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-
-rules:
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-# 本地/局域网地址
-# Router managed 路由器管理域名
-  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
-  - DOMAIN-SUFFIX,lan,🎯 全球直连
-  - DOMAIN-SUFFIX,local,🎯 全球直连
-  - DOMAIN-SUFFIX,localhost,🎯 全球直连
-  - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
-  - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
-  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,224.0.0.0/4,🎯 全球直连,no-resolve
-  - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
-  - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
-  - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
-  - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
-  - DOMAIN,instant.arubanetworks.com,🎯 全球直连
-  - DOMAIN,setmeup.arubanetworks.com,🎯 全球直连
-  - DOMAIN,router.asus.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hiwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,leike.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,my.router,🎯 全球直连
-  - DOMAIN-SUFFIX,p.to,🎯 全球直连
-  - DOMAIN-SUFFIX,peiluyou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,phicomm.me,🎯 全球直连
-  - DOMAIN-SUFFIX,router.ctc,🎯 全球直连
-  - DOMAIN-SUFFIX,routerlogin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zte.home,🎯 全球直连
-  - DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-# 广告关键词
-# 广告联盟-国内****************
-# 广告联盟-国外****************
-# 垃圾站点****************
-# 运营商广告****************
-  - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
-  - DOMAIN-KEYWORD,admaster,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsage,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsensor,🛑 全球拦截
-  - DOMAIN-KEYWORD,adservice,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsmogo,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsrvmedia,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsserving,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsystem,🛑 全球拦截
-  - DOMAIN-KEYWORD,adwords,🛑 全球拦截
-  - DOMAIN-KEYWORD,analysis,🛑 全球拦截
-  - DOMAIN-KEYWORD,applovin,🛑 全球拦截
-  - DOMAIN-KEYWORD,appsflyer,🛑 全球拦截
-  - DOMAIN-KEYWORD,domob,🛑 全球拦截
-  - DOMAIN-KEYWORD,duomeng,🛑 全球拦截
-  - DOMAIN-KEYWORD,dwtrack,🛑 全球拦截
-  - DOMAIN-KEYWORD,guanggao,🛑 全球拦截
-  - DOMAIN-KEYWORD,omgmta,🛑 全球拦截
-  - DOMAIN-KEYWORD,omniture,🛑 全球拦截
-  - DOMAIN-KEYWORD,openx,🛑 全球拦截
-  - DOMAIN-KEYWORD,partnerad,🛑 全球拦截
-  - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
-  - DOMAIN-KEYWORD,socdm,🛑 全球拦截
-  - DOMAIN-KEYWORD,supersonicads,🛑 全球拦截
-  - DOMAIN-KEYWORD,usage,🛑 全球拦截
-  - DOMAIN-KEYWORD,wlmonitor,🛑 全球拦截
-  - DOMAIN-KEYWORD,zjtoolbar,🛑 全球拦截
-  - DOMAIN-SUFFIX,09mk.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,100peng.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,114la.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,123juzi.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,138lm.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,17un.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,2cnt.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,3gmimo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,3xx.vip,🛑 全球拦截
-  - DOMAIN-SUFFIX,51.la,🛑 全球拦截
-  - DOMAIN-SUFFIX,51taifu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,51yes.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,600ad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,6dad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,70e.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,86.cc,🛑 全球拦截
-  - DOMAIN-SUFFIX,8le8le.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,8ox.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,95558000.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,99click.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,99youmeng.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,a3p4.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,acs86.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,acxiom-online.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ad-brix.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ad-delivery.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,ad-locus.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ad-plus.cn,🛑 全球拦截
