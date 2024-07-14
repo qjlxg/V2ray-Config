@@ -3,6 +3,42 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+# ABC
+# AbemaTV
+# All4
+# Amazon
+# AppleNews
+# AppleTV
+# BBCiPlayer
+# Bahamut
+# DAZN
+# Deezer
+# DiscoveryPlus
+# DisneyPlus
+# EncoreTVB
+# FoxNow
+# HBO
+# HBO_GO_HKG
+# HWTV
+# Hulu
+# HuluJapan
+# ITV
+# JOOX
+# Japonx
+# KKBOX
+# KKTV
+# LiTV
+# LineTV
+# My5
+# MyTVSuper
+# Netflix
+# Niconico
+# PBS
+# Pandora
+# Pornhub
+# Qobuz
+# SoundCloud
+# Spotify
 # TIDAL
 # TaiWanGood 台湾好
 # TikTok
@@ -567,39 +603,3 @@
   - IP-CIDR,52.200.0.0/13,🚀 节点选择,no-resolve
   - IP-CIDR,54.93.0.0/16,🚀 节点选择,no-resolve
   - IP-CIDR,54.156.0.0/14,🚀 节点选择,no-resolve
-  - IP-CIDR,54.226.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,54.230.156.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-KEYWORD,uk-live,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apache.org,🚀 节点选择
-  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
-  - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
-  - DOMAIN-SUFFIX,maven.org,🚀 节点选择
-  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mvnrepository.com,🚀 节点选择
-  - DOMAIN-SUFFIX,quay.io,🚀 节点选择
-  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
-  - DOMAIN-SUFFIX,redhat.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sonatype.org,🚀 节点选择
-  - DOMAIN-SUFFIX,sourcegraph.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.io,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.net,🚀 节点选择
-  - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.co,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
-  - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.me,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.net,🚀 节点选择
-  - IP-CIDR,31.13.24.0/21,🚀 节点选择,no-resolve
