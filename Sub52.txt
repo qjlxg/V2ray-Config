@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.42.19:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.19:2087
-trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.233.245.20:443
-trojan://telegram-id-privatevpns@16.16.153.200:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.153.200:22222
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443
-trojan://NISHIKUITAN222@8.222.164.209:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.164.209:8443
-trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.91.22.254:61288?security=tls&sni=jpvip101.qlgq.fun&type=grpc#🔒 TR-GRPC-TLS 🇯🇵 JP-47.91.22.254:61288
-trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083
-trojan://DJgYDaBoO6@46.17.40.252:15110?security=none&type=tcp#🔒 TR-TCP-NONE 🇷🇺 RU-46.17.40.252:15110
 trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.16.1.10:443
 trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=/#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443
 trojan://Watashi_VPN@172.66.47.7:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
@@ -603,3 +594,12 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:3306#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.225:8090#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:8090
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.12:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.12:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5000#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:5000
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.197:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:806
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:7001
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.137.66:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:6379
+ss://bm9uZTphYWJjYmFjLWNhYmEtYWFjYi1iY2FkLWNjYWNiYWNiYmJhYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+ss://bm9uZTpiYWFiY2NhLWFjYmEtYWNiYS1hY2RiLWNhY2FhYmJiY2JjYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-24-TIR-1403 🕑 23:09
+ss://bm9uZTpiYWJhYWNjLWNhYWItYWNhYi1iYWNkLWJjYWJjYWNjYWJiYQ==@127.0.0.1:2080#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:3306#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:3306
