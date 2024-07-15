@@ -3,6 +3,112 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,appuu.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,coinhive.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,huodonghezi.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,vcbn65.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,wanfeng1.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wep016.top,🛑 全球拦截
+  - DOMAIN-SUFFIX,win-stock.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,zantainet.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dh54wf.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,g2q3e.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,114so.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,go.10086.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,hivedata.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,navi.gd.chinamobile.com,🛑 全球拦截
+# 包含常用应用的各种去广告规则。
+# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+# 163
+# 17173
+# 178
+# 2345
+# 360
+# 58
+# Alibaba
+# Adobe
+# Apple
+# AutoHome
+# Baidu
+# Book-app 起点 掌阅 书旗 宜搜
+# ByteDance 头条抖音
+# Dangdang
+# Duomi
+# Facebook
+# Fang
+# Google
+# JD
+# Kugou
+# Kuwo
+# Meizu flyme 魅族
+# Meitu
+# Miui 小米
+# Moji
+# Qingting.fm
+# QQ
+# RenRen
+# Sina
+# Sougou
+# Teleplus
+# Twitter
+# UC ali
+# Weifeng
+# WPS Office
+# Wi-Fi key
+# Ximalaya 喜马拉雅
+# Xunlei 迅雷app&看看
+# Yahoo
+# Zhihu
+# Ads in Video apps 下面都是 ********************
+# 6间房
+# Baofeng 暴风影音
+# Douyu
+# Fenghuang 凤凰TV
+# Funshion 风行
+# iqiyi PPS 爱奇艺
+# Ku6 酷6
+# LeTV 乐视
+# MGTV 芒果TV
+# Sohu 搜狐
+# PPTV、PPLive
+# QQ Live
+# Youku & Tudou
+# Youtube
+# Others ads in Video apps
+# Ads in Video apps end 上面都是 ********************
+# 常用网站广告
+  - DOMAIN-SUFFIX,a.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,adgeo.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,analytics.126.net,🍃 应用净化
+  - DOMAIN-SUFFIX,bobo.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,c.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,clkservice.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,conv.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,dsp-impr2.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,dsp.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,fa.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,g.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,g1.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,gb.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,gorgon.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,haitaoad.nosdn.127.net,🍃 应用净化
+  - DOMAIN-SUFFIX,iadmatvideo.nosdn.127.net,🍃 应用净化
+  - DOMAIN-SUFFIX,img1.126.net,🍃 应用净化
+  - DOMAIN-SUFFIX,img2.126.net,🍃 应用净化
+  - DOMAIN-SUFFIX,ir.mail.126.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ir.mail.yeah.net,🍃 应用净化
+  - DOMAIN-SUFFIX,mimg.126.net,🍃 应用净化
+  - DOMAIN-SUFFIX,nc004x.corp.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,nc045x.corp.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,nex.corp.163.com,🍃 应用净化
+  - DOMAIN-SUFFIX,oimagea2.ydstatic.com,🍃 应用净化
+  - DOMAIN-SUFFIX,pagechoice.net,🍃 应用净化
+  - DOMAIN-SUFFIX,prom.gome.com.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,qchannel0d.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,qt002x.corp.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,rlogs.youdao.com,🍃 应用净化
+  - DOMAIN-SUFFIX,static.flv.uuzuonline.com,🍃 应用净化
+  - DOMAIN-SUFFIX,tb060x.corp.youdao.com,🍃 应用净化
   - DOMAIN-SUFFIX,tb104x.corp.youdao.com,🍃 应用净化
   - DOMAIN-SUFFIX,union.youdao.com,🍃 应用净化
   - DOMAIN-SUFFIX,wanproxy.127.net,🍃 应用净化
@@ -497,109 +603,3 @@
   - DOMAIN-SUFFIX,ad.api.moji.com,🍃 应用净化
   - DOMAIN-SUFFIX,app.moji001.com,🍃 应用净化
   - DOMAIN-SUFFIX,cdn.moji002.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cdn2.moji002.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fds.api.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ugc.moji001.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,admgr.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,dload.qd.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,logger.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,s.qd.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,s.qd.qingtingfm.com,🍃 应用净化
-  - DOMAIN-KEYWORD,omgmtaw,🍃 应用净化
-  - DOMAIN,adsmind.apdcdn.tc.qq.com,🍃 应用净化
-  - DOMAIN,adsmind.gdtimg.com,🍃 应用净化
-  - DOMAIN,adsmind.tc.qq.com,🍃 应用净化
-  - DOMAIN,pgdt.gtimg.cn,🍃 应用净化
-  - DOMAIN,pgdt.gtimg.com,🍃 应用净化
-  - DOMAIN,pgdt.ugdtimg.com,🍃 应用净化
-  - DOMAIN,splashqqlive.gtimg.com,🍃 应用净化
-  - DOMAIN,wa.gtimg.com,🍃 应用净化
-  - DOMAIN,wxsnsdy.wxs.qq.com,🍃 应用净化
-  - DOMAIN,wxsnsdythumb.wxs.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,act.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.qun.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adsfile.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bugly.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,buluo.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,e.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gdt.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,monitor.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pingma.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pingtcss.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,report.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tajs.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tcss.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,uu.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ebp.renren.com,🍃 应用净化
-  - DOMAIN-SUFFIX,jebe.renren.com,🍃 应用净化
-  - DOMAIN-SUFFIX,jebe.xnimg.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,adbox.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,add.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,adimg.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,adm.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,alitui.weibo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,biz.weibo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,cre.dp.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dcads.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dd.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dmp.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,game.weibo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,leju.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,log.mix.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,mobileads.dx.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,newspush.sinajs.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pay.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sax.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sax.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,saxd.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sdkapp.uve.weibo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,sdkclick.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,slog.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,trends.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,tui.weibo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,u1.img.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,wax.weibo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,wbapp.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,wbapp.uve.weibo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wbclick.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,wbpctips.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,zymo.mps.weibo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,123.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,123.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adsence.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,amfi.gou.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,brand.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cpc.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,epro.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fair.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,files2.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,galaxy.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,golden1.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,goto.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,iwan.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lu.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lu.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pb.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pd.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,theta.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wangmeng.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,applovin.com,🍃 应用净化
-  - DOMAIN-SUFFIX,guangzhuiyuan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads-twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,scribe.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,syndication-o.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,syndication.twitter.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tellapart.com,🍃 应用净化
