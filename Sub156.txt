@@ -3,54 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN,setmeup.arubanetworks.com,🎯 全球直连
-  - DOMAIN,router.asus.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hiwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,leike.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,my.router,🎯 全球直连
-  - DOMAIN-SUFFIX,p.to,🎯 全球直连
-  - DOMAIN-SUFFIX,peiluyou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,phicomm.me,🎯 全球直连
-  - DOMAIN-SUFFIX,router.ctc,🎯 全球直连
-  - DOMAIN-SUFFIX,routerlogin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zte.home,🎯 全球直连
-  - DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-# 广告关键词
-# 广告联盟-国内****************
-# 广告联盟-国外****************
-# 垃圾站点****************
-# 运营商广告****************
-  - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
-  - DOMAIN-KEYWORD,admaster,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsage,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsensor,🛑 全球拦截
-  - DOMAIN-KEYWORD,adservice,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsmogo,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsrvmedia,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsserving,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsystem,🛑 全球拦截
-  - DOMAIN-KEYWORD,adwords,🛑 全球拦截
-  - DOMAIN-KEYWORD,analysis,🛑 全球拦截
-  - DOMAIN-KEYWORD,applovin,🛑 全球拦截
-  - DOMAIN-KEYWORD,appsflyer,🛑 全球拦截
-  - DOMAIN-KEYWORD,domob,🛑 全球拦截
-  - DOMAIN-KEYWORD,duomeng,🛑 全球拦截
-  - DOMAIN-KEYWORD,dwtrack,🛑 全球拦截
-  - DOMAIN-KEYWORD,guanggao,🛑 全球拦截
-  - DOMAIN-KEYWORD,omgmta,🛑 全球拦截
-  - DOMAIN-KEYWORD,omniture,🛑 全球拦截
-  - DOMAIN-KEYWORD,openx,🛑 全球拦截
-  - DOMAIN-KEYWORD,partnerad,🛑 全球拦截
-  - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
-  - DOMAIN-KEYWORD,socdm,🛑 全球拦截
-  - DOMAIN-KEYWORD,supersonicads,🛑 全球拦截
-  - DOMAIN-KEYWORD,usage,🛑 全球拦截
-  - DOMAIN-KEYWORD,wlmonitor,🛑 全球拦截
-  - DOMAIN-KEYWORD,zjtoolbar,🛑 全球拦截
-  - DOMAIN-SUFFIX,09mk.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,100peng.com,🛑 全球拦截
   - DOMAIN-SUFFIX,114la.com,🛑 全球拦截
   - DOMAIN-SUFFIX,123juzi.net,🛑 全球拦截
@@ -603,3 +555,51 @@
   - DOMAIN-SUFFIX,626uc.com,🛑 全球拦截
   - DOMAIN-SUFFIX,915.com,🛑 全球拦截
   - DOMAIN-SUFFIX,appget.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,appuu.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,coinhive.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,huodonghezi.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,vcbn65.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,wanfeng1.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wep016.top,🛑 全球拦截
+  - DOMAIN-SUFFIX,win-stock.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,zantainet.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dh54wf.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,g2q3e.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,114so.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,go.10086.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,hivedata.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,navi.gd.chinamobile.com,🛑 全球拦截
+# 包含常用应用的各种去广告规则。
+# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+# 163
+# 17173
+# 178
+# 2345
+# 360
+# 58
+# Alibaba
+# Adobe
+# Apple
+# AutoHome
+# Baidu
+# Book-app 起点 掌阅 书旗 宜搜
+# ByteDance 头条抖音
+# Dangdang
+# Duomi
+# Facebook
+# Fang
+# Google
+# JD
+# Kugou
+# Kuwo
+# Meizu flyme 魅族
+# Meitu
+# Miui 小米
+# Moji
+# Qingting.fm
+# QQ
+# RenRen
+# Sina
+# Sougou
+# Teleplus
+# Twitter
