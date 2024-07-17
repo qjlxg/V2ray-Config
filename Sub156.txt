@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=telegram-marambashi/?ed%3D2048&host=mmdv2.pages.dev&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?security=tls&sni=masin.minusober.com&fp=chrome&type=ws&path=/masin&encryption=none#SHERVIN%2037
+vless://20e32d2b-2c6b-4d41-9b26-19e4e963b781@103.229.81.118:443?security=reality&sni=google.com&fp=firefox&pbk=KxR82IdwUTfNKYalbtZyhdW8T3Qy1vl5KIwaJ4LAe04&sid=b0c7f249&type=tcp&encryption=none#%F0%9F%86%94oneclickvpnkeys%20%F0%9F%94%92%20VL-TCP-%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20101ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&path=/OhVpn?ed%3D2048&host=mmdv2.pages.dev&encryption=none#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool
+vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@104.21.32.238:443?security=tls&sni=storeships.toptechnonews.com&alpn=http/1.1&fp=ios&type=ws&path=/nimws&host=storeships.toptechnonews.com&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.32.238:443%20%F0%9F%93%A1%20PING-001.69-MS
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjIyMSIsImFpZCI6IjAiLCJob3N0IjoiZGwzLnBsb3QuY9GG0LXQvdCw0YDQuNC5LuWKh+aDhdCz0L7Qu9C+0LIw0YDQtdC3LmZpcjNicmFuZC7nhb3li5XogIXov73pgJDpm7fmgaku0L/QvtCz0L7QvdC10LfQsHDQtdC50L0ud29ua2FjYXBpdGFuby5idXp6LiIsImlkIjoiOWFjOTQ3YWEtZGU4Ni00MWMzLTlhNjAtNGMwNjFjN2M5NWYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&path=/yuyg5ujoovohfscy?ed%3D2560&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
 vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/PROXY_MTM?ed%3D2560&host=jAviDSHAH-ArIamEhR.PageS.deV&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
@@ -598,8 +603,3 @@ proxy-groups:
       - 302.j4tccyw7.workers.dev_2
       - 201.58vtg99l.workers.dev_2
       - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2

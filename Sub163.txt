@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,lanzou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lanzoui.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lanzoux.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lemicp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,letitfly.me,🎯 全球直连
   - DOMAIN-SUFFIX,lizhi.fm,🎯 全球直连
   - DOMAIN-SUFFIX,lizhi.io,🎯 全球直连
   - DOMAIN-SUFFIX,lizhifm.com,🎯 全球直连
@@ -598,8 +603,3 @@ vless://dfc60e16-7c8e-4028-aa98-c6e10a4c1623@194.116.215.238:2087/?type=tcp&encr
 vless://48b131dd-e2ca-4b25-a36c-d57d191d74ef@194.116.215.238:10050/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
 vless://ad39d88f-a99f-49cd-b049-313a874d96d9@194.116.215.238:2085/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
 vless://dfeb0b81-07aa-443b-b17f-219dad94354f@194.116.215.238:2082/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eset.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
-vless://5a0ea0a8-94b4-4b61-8edd-c64a61f68343@194.116.215.238:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pantercon.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
-vless://0b44c98a-feec-4f69-a783-749e0ba3c2e4@194.116.215.238:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nachtzug.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
-vless://5d6b55ec-2f2d-457b-a82e-b785e7bea370@194.116.215.238:2052/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=atrsun.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
-vless://4a95b037-733e-45d8-9c7f-f00eb3b3fc12@194.116.215.238:2086/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
-vless://0bcc99bf-f3df-4e51-97bb-83dad2617cf6@77.91.84.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ftp.debian.org&fp=chrome&security=reality&pbk=elUj0V3_YAykGWb-bVKLBoRcpIDaNtB9ZLQ9SZjZw1M&sid=c85eeae5a271b397#t.me%2FConfig_Station
