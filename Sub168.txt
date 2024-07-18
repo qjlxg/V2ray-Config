@@ -4,6 +4,25 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
     {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 8118,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "1.1.1.1",
+      "override_port": 53
+    }
+  ],
+  "outbounds": [
+    {
       "type": "selector",
       "tag": "select",
       "outbounds": [
@@ -584,22 +603,3 @@ ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:46678#@vpnclash
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:45596#@vpnclashfa - 63
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:45082#@vpnclashfa - 62
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:44857#@vpnclashfa - 61
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:44488#@vpnclashfa - 60
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42968#@vpnclashfa - 59
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42744#@vpnclashfa - 58
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42669#@vpnclashfa - 57
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:42312#@vpnclashfa - 56
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:41827#@vpnclashfa - 55
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:41318#@vpnclashfa - 54
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40995#@vpnclashfa - 53
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40549#@vpnclashfa - 52
-ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:40220#@vpnclashfa - 51
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 50
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#@vpnclashfa - 49
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@40.172.36.151:443#@vpnclashfa - 48
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#@vpnclashfa - 47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vpnclashfa - 46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnclashfa - 45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#@vpnclashfa - 44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYVdNNmFGVURZVllkSktQWTZqSjlX@62.133.63.16:33188#@vpnclashfa - 43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#@vpnclashfa - 42
