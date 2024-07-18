@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/unlocked_worlld
+
+
+
 
 
 vless://d07e0e50-0a47-44df-a98d-95ae9447e892@unlocked_worlld:1080/?type=tcp&encryption=none&security=tls#https%3A%2F%2Ft.me%2Funlocked_worlld
@@ -597,9 +603,3 @@ vless://d41faf1e-054b-48e9-9487-40747f230808@172.66.47.198:443/?type=ws&encrypti
       .content p {
         font-size: 16px;
         font-weight: 400;
-        margin: 0;
-      }
-      .body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
