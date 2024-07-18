@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      - feng6_4
+      - 901.dbodanwi.workers.dev_5
+      - 302.j4tccyw7.workers.dev_5
+      - 201.58vtg99l.workers.dev_5
+      - 备1_5
+      - 备2_5
+      - 201.myhmyhhuang1980.workers.dev_5
+      - feng1_5
+      - feng2_5
+      - feng3_5
+      - feng4_5
+      - feng5_5
+      - feng6_5
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
@@ -587,19 +603,3 @@ rules:
   - DOMAIN-SUFFIX,branch.io,🛑 全球拦截
   - DOMAIN-SUFFIX,bsdev.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,bshare.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,btyou.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bugtags.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,buysellads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,c0563.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cacafly.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,casee.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,cdnmaster.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chance-ad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chanet.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,chartbeat.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chartboost.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chengadx.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chmae.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,clickadu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,clicki.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,clicktracks.com,🛑 全球拦截
