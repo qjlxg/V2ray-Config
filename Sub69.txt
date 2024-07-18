@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "detour": "Warp-IR8",
+      "server": "188.114.98.241",
+      "server_port": 5956,
+      
+      "local_address": [
+          "172.16.0.2/32",
+          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
+      ],
+      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [205,184,52],  
+
+      "mtu": 1120
+    },{
+      "type": "wireguard",
       "tag": "Warp-IR9",
       "server": "162.159.192.18",
       "server_port": 946,
@@ -588,18 +603,3 @@ trojan://e261dc84-1b52-42db-859a-ed575e0876fa@hk-2-ddns.sudatech.store:40021?sec
 vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTAxLjM1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2FuZC5ibGFua3UubWUiLAogICAgImlkIjogImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3MxMzQ4MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE3LjEwMS4zNS0yNzAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzYW5kcC5ibGFua3UubWUiCn0=
 trojan://7b06d22a8a7c764f@5.44.249.43:3306?security=tls&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-063
 trojan://b06d7f06-51ba-402d-991a-3fe1e432247c@usa.lydurlclub.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.230.90.167-062
-vmess://ewogICAgImFkZCI6ICIxMDMuMTEzLjY4LjIzMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZmRkYjM3ODEtN2UxNS00NzMxLWE5MzMtOTRkYjExMGI0YmJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Ht/Cfh7pSVS0xMDMuMTEzLjY4LjIzMy0yNjkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://7b1dc908-93f8-4111-8d80-e69a9a2d5476@jp005.421421.xyz:20230?security=tls&sni=421421.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.83.242-061
-vmess://ewogICAgImFkZCI6ICI5NC4xMzEuMTQuMTc3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIyYzVmZWUxMy1mMDhiLTRiYTgtODZkYi0yN2RkNTFjYjk3ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4ex8J+HuUxULTk0LjEzMS4xNC4xNzctMjY4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?security=tls&sni=aka.ms#%F0%9F%87%A9%F0%9F%87%AADE-146.19.247.183-059
-trojan://GsKYmYOE@183.232.139.22:40081?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.139.22-057
-trojan://XjD7O1n1Ht@pau-1.motrix.xyz:5502?security=tls&sni=pau-1.motrix.xyz#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.165.117-055
-trojan://MfqALmAJ@183.232.139.24:40081?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.139.24-051
-trojan://MfqALmAJ@183.232.139.24:36931?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.139.24-047
-vmess://ewogICAgImFkZCI6ICJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzMmUtMjAyNDAxMTYudjJmcmVldnBuLmNvbSIsCiAgICAiaWQiOiAiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuNjAuOC0yNjciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMjAuMjUuMTQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAxNC5mcmVlZ3JhZGVseS54eXoiLAogICAgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjAuMjUuMTQ2LTI2NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0ZjpIdVRhb0Nsb3Vk@cm1-tw.hutaonode3.top:12556#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.144.110-046
-trojan://9bd9f0da-cb8b-4bd3-9f80-efa1be67daa0@naiu-hk.05vr9nyqg5.download:13007?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.50-045
-trojan://MfqALmAJ@36.151.195.77:20819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.77-044
-trojan://9bd9f0da-cb8b-4bd3-9f80-efa1be67daa0@naiu-hk.05vr9nyqg5.download:13008?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.50-043
-vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDYuMzMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLAogICAgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuNDYuMzMtMjY1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
