@@ -3,56 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
       - feng3_4
       - feng4_4
       - feng5_4
@@ -603,3 +553,53 @@ rules:
   - DOMAIN-SUFFIX,chartboost.com,🛑 全球拦截
   - DOMAIN-SUFFIX,chengadx.com,🛑 全球拦截
   - DOMAIN-SUFFIX,chmae.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickadu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicki.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicktracks.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickzs.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,cmcore.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnxad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzzlink.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cocounion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coocaatv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cooguo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coolguang.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coremetrics.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpmchina.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpx24.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,crasheye.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,crosschannel.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,customer-security.online,🛑 全球拦截
+  - DOMAIN-SUFFIX,daoyoudao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,datouniao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ddapp.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianjoy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianru.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,disqusads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,domob.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,domob.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,domob.org,🛑 全球拦截
+  - DOMAIN-SUFFIX,dotmore.com.tw,🛑 全球拦截
+  - DOMAIN-SUFFIX,doubleverify.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,doudouguo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,doumob.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,duanat.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,duiba.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,duomeng.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,dxpmedia.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,edigitalsurvey.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,eduancm.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,emarbox.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,exosrv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,fancyapi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,feitian001.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,feixin2.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,flashtalking.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,fraudmetrix.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,g1.tagtic.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,gentags.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,gepush.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,getui.com,🛑 全球拦截
