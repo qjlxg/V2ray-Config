@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,slog.sina.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,trends.mobile.sina.cn,🍃 应用净化
   - DOMAIN-SUFFIX,tui.weibo.com,🍃 应用净化
   - DOMAIN-SUFFIX,u1.img.mobile.sina.cn,🍃 应用净化
@@ -603,3 +602,4 @@
   - IP-CIDR,144.178.48.0/20,🍎 苹果服务,no-resolve
   - IP-CIDR,192.35.50.0/24,🍎 苹果服务,no-resolve
   - IP-CIDR,198.183.17.0/24,🍎 苹果服务,no-resolve
+  - IP-CIDR,205.180.175.0/24,🍎 苹果服务,no-resolve

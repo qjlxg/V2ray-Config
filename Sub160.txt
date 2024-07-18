@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,205.180.175.0/24,🍎 苹果服务,no-resolve
 # 内容：国外媒体列表
 # 更新：2023-01-15 22:06:33
 # 数量：330条
@@ -603,3 +602,4 @@
   - IP-CIDR,52.58.0.0/15,🚀 节点选择,no-resolve
   - IP-CIDR,52.74.0.0/16,🚀 节点选择,no-resolve
   - IP-CIDR,52.77.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,52.84.0.0/15,🚀 节点选择,no-resolve
