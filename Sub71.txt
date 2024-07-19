@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://d6ed263c-3f14-44db-bfee-cfcc26b234d1@107.172.217.30:443?security=tls&sni=san.ydnode.us#%F0%9F%87%BA%F0%9F%87%B8US-107.172.217.30-440
+trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B3IN-43.205.109.9-441
 trojan://3ad41c7b-b772-3f96-9986-66d1a2b79820cmynw@45.79.73.131:443?security=tls&sni=kaizen-us-14.cmy-dns.com#%F0%9F%87%BA%F0%9F%87%B8US-45.79.73.131-442
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-443
 trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-24.199.70.112-444
@@ -601,5 +603,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI4MTM2ODEiLA0KICAi
 vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.15.19:8880?encryption=none&security=none&type=ws&host=falcunargo.d369616395.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.15.19%3A8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.230.219%3A443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.212.188:2053?encryption=none&security=tls&sni=itcenteriran.blog&alpn=http%2F1.1&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.212.188%3A2053
-vless://47e80a2e-3629-45b6-8b38-0edc7164dd9a@172.67.2.238:80?encryption=none&security=none&type=ws&host=hello-world-red-feather-78a7.basay80682.worKErS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.2.238%3A80
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.154.136.218:6379#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.218-3142
