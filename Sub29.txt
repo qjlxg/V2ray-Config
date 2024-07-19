@@ -3,19 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-directvpn@16.170.185.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 5
-trojan://telegram-id-directvpn@184.73.6.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 6
-trojan://telegram-id-directvpn@3.141.251.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 7
-trojan://telegram-id-directvpn@3.23.148.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 8
-trojan://telegram-id-directvpn@3.97.144.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 9
-trojan://telegram-id-directvpn@15.222.111.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 10
-trojan://telegram-id-directvpn@54.171.242.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 11
-trojan://telegram-id-directvpn@34.250.203.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 12
-trojan://telegram-id-directvpn@3.10.195.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 13
-trojan://telegram-id-directvpn@3.9.30.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 14
-trojan://telegram-id-directvpn@35.181.231.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 15
-trojan://telegram-id-directvpn@15.188.101.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 16
-trojan://telegram-id-directvpn@13.60.165.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 17
+trojan://telegram-id-directvpn@15.222.111.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 12
+trojan://telegram-id-directvpn@54.171.242.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 13
+trojan://telegram-id-directvpn@34.250.203.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 14
+trojan://telegram-id-directvpn@3.10.195.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 15
 #profile-title: base64:VFZDIHwgU1M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -39,7 +30,7 @@ ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@188.114.97.141:443#�
 ss://ZTk0MWYyYzctYmM2YS00NTdiLWI4NmUtYmEyNDBjYWY3ZjIwOg==@parsconfig4.queenm99881.workers.dev:2087#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 16
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@188.114.96.2:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
 ss://Y2VkZTMzN2ItOWVhNS00MGU1LWE4YjEtNjkwYmY0OWZmNDFkOg==@storeships.toptechnonews.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#🇦🇪AE | 🟢 | ss | @VmessProtocol | 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#🇦🇪AE | 🟢 | ss | @VmessProtocol | 5
 ss://YWVzLTEyOC1nY206YmlhLS1aRURNT0RFT04=@45.145.42.70:25367#🇩🇪DE | 🟢 | ss | @OutlineVpnOfficial | 0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#🇳🇱NL | 🟢 | ss | @OutlineVpnOfficial | 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPOTRtQW5jTkx2QWlodkpCQ09uQTNM@176.97.77.71:31778#🇸🇪SE | 🟢 | ss | @OutlineVpnOfficial | 2
@@ -58,7 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa2lzYzZ0WVRydFlKN2ZRbHducjFN@92.243.27.51:9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@188.212.132.20:52952#🇳🇱NL | 🟢 | ss | @OutlineVpnOfficial | 16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphU3NvRzhrVGVlZnZIMHM1QTd0Y2hI@paris.telegavpn.com:9802#🇫🇷FR | 🟢 | ss | @OutlineVpnOfficial | 17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🇷🇺RU | 🟢 | ss | @OutlineVpnOfficial | 18
 trojan://bccaaab-acab-abca-dbac-cbbbaacabcac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-29-TIR-1403 🕑 11:01
 trojan://abbacca-acba-baca-abdc-aaccbbbabcac@127.0.0.1:2080?security=tls&type=tcp#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
 ss://ZTU3ZWEzMGMtOTA3NS00NmZjLTg2MzYtM2QyYWExYWE5OWU2Og==@104.21.20.26:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.20.26:2053
@@ -603,3 +593,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak5tT0dFMA==@146.19.106.89:8388#🔒 SS-TCP
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@162.159.200.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.200.1:443
 ss://ODkxZDk5OWYtNzg2NC00NWM1LThkYjktM2M2OWYzNWRjYjk2Og==@104.21.29.75:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.29.75:2083
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@162.159.246.186:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.246.186:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU20zMEh6QXZwZDhJYzh0N0UyUTRB@178.128.93.10:3127#🔒 SS-TCP-NA 🇸🇬 SG-178.128.93.10:3127
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.225:8888#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8888
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaHVNV1BRakJ5ZW82QkNWbkhSZzJj@206.189.45.193:2264#🔒 SS-TCP-NA 🇸🇬 SG-206.189.45.193:2264
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.83:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8118
+ss://YjRjOTcyMjMtOGQ1ZC00ZmZkLWFmNmYtZDVhNTliNTc1ZmZjOg==@172.67.196.100:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.196.100:443
+ss://NzM5YWVmMjctN2NmNC00NDU3LTgzOWMtNDQ5ZTcwN2Q2NGVhOg==@104.31.16.90:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.31.16.90:443
+ss://ZGY0ZTEzOTItYzc4YS00YTY3LTg2YjItOGM4ZWVmY2U2NGI4Og==@172.67.190.122:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.190.122:8443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.24.37:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.24.37:80
+ss://ZThiODdkZDktY2M4Zi00MDdjLWExZjMtYTU2NDAwOWZlNmVlOg==@172.66.47.130:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.130:443
