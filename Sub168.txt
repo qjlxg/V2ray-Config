@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "Warp-🇮🇷",
+        "Warp-🇩🇪"
+      ],
+      "url": "https://www.google.com/",
+      "interval": "25m0s",
+      "idle_timeout": "4h10m0s"
+    },
+    {
       "type": "wireguard",
       "tag": "Warp-🇮🇷",
       "local_address": [
@@ -592,14 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#@vpnclashfa - 38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#@vpnclashfa - 37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#@vpnclashfa - 36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#@vpnclashfa - 35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#@vpnclashfa - 34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#@vpnclashfa - 33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTTVhZHJYaWpwd0FwbTF3THNFQjNXRlNDckc5YVE2UUFKalZjMmJ0ajczRnZCbnc=@89.107.10.65:51348#@vpnclashfa - 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@vpnclashfa - 31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa2lzYzZ0WVRydFlKN2ZRbHducjFN@92.243.27.51:9802#@vpnclashfa - 30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#@vpnclashfa - 29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLa1lVazc3ZHQ5UXV6RHM5MmVROVp4@moscow.telegavpn.com:60422#@vpnclashfa - 28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@vpnclashfa - 27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMDVmSWo3SXBMbHFhTzRHaXQ1MFp0@165.22.238.239:44386#@vpnclashfa - 26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#@vpnclashfa - 25
