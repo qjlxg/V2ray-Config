@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@98.70.26.236:443?security=tls&sni=kke.ylks.xyz&type=ws&path=%2F%3Fproxyip#RELAY🚩 | kke.ylks.xyz-443 | 38.83ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.242:443?security=tls&sni=kke.ylks.xyz&type=ws&path=%2Fblue#RELAY🚩 | kke.ylks.xyz-443 | 6.04ms
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.108:443?security=tls&sni=hke.ylks.xyz&type=ws&path=%2F%3Fproxyip#RELAY🚩 | hke.ylks.xyz-443 | 37.98ms
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.169.141:2087?security=tls&sni=kke.ylks.xyz&type=ws&path=%2F%3Fproxyip#RELAY🚩 | kke.ylks.xyz-2087 | 6.53ms
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.99:443?security=tls&sni=hke.ylks.xyz&type=ws&path=%2F%3Fproxyip#RELAY🚩 | hke.ylks.xyz-443 | 6.16ms
@@ -555,12 +553,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a5f54503c312c13</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a5f81d7b9c83b29</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.122.247</span>
+      <span class="hidden" id="cf-footer-ip">20.97.191.191</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +601,5 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 <script>
   if (!navigator.cookieEnabled) {
     window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
