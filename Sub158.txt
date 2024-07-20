@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      - feng5_5
+      - feng6_5
 
 rules:
 # 本地/局域网地址
@@ -601,5 +603,3 @@ rules:
   - DOMAIN-SUFFIX,smartnews-ads.com,🛑 全球拦截
   - DOMAIN-SUFFIX,startapp.com,🛑 全球拦截
   - DOMAIN-SUFFIX,startappexchange.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,statcounter.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,steelhousemedia.com,🛑 全球拦截
