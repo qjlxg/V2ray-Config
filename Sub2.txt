@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  "index": 0,
-  "global": false,
-  "enabled": false,
-  "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
   "showPluginOutput": false,
   "pacUrl": null,
   "gfwListUrl": null,
@@ -603,3 +595,11 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@140.238.33.161:443?encryption=none&
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.134:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#271-%E6%9C%AA%E7%9F%A5_07220810141
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.63.66:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#272-%E6%9C%AA%E7%9F%A5_07220810669
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:2087?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C20-50&sni=jp555.ylks01.eu.org#273-%E6%9C%AA%E7%9F%A5_0722088310
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.15:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=kr1.175852.xyz#274-%E6%9C%AA%E7%9F%A5_07220810180
+vless://fe9f6d64-3c61-43da-b799-5b0549d04408@87.248.139.180:16820?encryption=none&type=tcp&host=host%3Anasa.gov&security=none&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=host%3Anasa.gov#275-%E4%BC%8A%E6%9C%97_072208058
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.197.95:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#276-%E6%9C%AA%E7%9F%A5_07220810726
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.33:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C10-50%2C10-50&sni=cfed.tgzdyz2.top#277-%E5%A1%9E%E8%88%8C%E5%B0%94_072208018
+vless://000cae83-7e39-433d-9104-16f1452c479c@104.21.42.217:2095?encryption=none&type=ws&path=%2F&host=serve.safetunnel.ir&security=none&alpn=h2&fp=chrome&sni=serve.safetunnel.ir#278-%E6%9C%AA%E7%9F%A5_07220810225
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.9:443?encryption=none&type=ws&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=zdfdf6.azurewebsites.net#279-%E6%97%A5%E6%9C%AC_072208099
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.33.9:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#280-%E6%9C%AA%E7%9F%A5_07220810207
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.220.231:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#281-%E6%9C%AA%E7%9F%A5_0722088262
