@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.146.178:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-159.223.146.178:443
+vless://c584aa40-feab-415f-9917-885993ac60d0@190.93.246.241:8080?security=reality&sni=bia-to.code-v2.cfd&type=grpc&serviceName=@V2ray_Alpha&fp=chrome&pbk=o9ZHbcwSXSoc_8qYCy19iFR27lyTDbypcMKsaHkM3Go&allowInsecure=1#🔒 VL-GRPC-RLT 🏴‍☠️ NA-190.93.246.241:8080
+vless://33043f58-e966-43d0-d4ea-b929627b44f8@49.13.73.9:443?security=reality&sni=help.mega.io&type=grpc&serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&fp=chrome&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.73.9:443
+vless://b927294d-b137-45ff-ac76-86d774a15c0a@206.189.237.87:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-206.189.237.87:443
+vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.116.194:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-159.223.116.194:443
+vless://82746283-10bf-4b54-9e66-dce12369eb3a@104.21.92.121:2087?security=reality&sni=dash.cloudflare.com&type=http&fp=chrome&pbk=vmioa-B3FD4xiz7YlG35RL258KVugA7DBoi6YdToS1Q&sid=c3df53332630d0c4#🔒 VL-HTTP-RLT 🏴‍☠️ NA-104.21.92.121:2087
 vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@172.67.188.24:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-172.67.188.24:443
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.115:2096
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.224:443?security=reality&flow=xtls-rprx-vision&sni=vu.nl&type=tcp&fp=chrome&pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&sid=77895d125b69cf7c#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.224:443
@@ -597,9 +603,3 @@ trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avia
 trojan://Watashi_VPN@104.18.26.94:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.26.94:8443
 trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.130:43118
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2096?security=tls&sni=mailbox.CpIfOrperSiA.UK&type=ws&host=mailbox.CpIfOrperSiA.UK&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2096
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
-trojan://telegram-id-directvpn@3.136.124.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.136.124.8:22222
-trojan://TGov79VWt3KT_ZPL4bbvoA@104.17.148.22:2087?security=tls&sni=trx.freedomundead.space&type=ws&host=trx.freedomundead.space&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
-trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.161:43118
-trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
