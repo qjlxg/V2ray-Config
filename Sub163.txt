@@ -3,6 +3,148 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - {"name":"feng3_5","type":"vless","server":"ip.sb","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng4_5","type":"vless","server":"ip.sb","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng5_5","type":"vless","server":"ip.sb","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"feng6_5","type":"vless","server":"ip.sb","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - 901.dbodanwi.workers.dev_1
+      - 302.j4tccyw7.workers.dev_1
+      - 201.58vtg99l.workers.dev_1
+      - 备1_1
+      - 备2_1
+      - 201.myhmyhhuang1980.workers.dev_1
+      - feng1_1
+      - feng2_1
+      - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
+      - 备1_2
+      - 备2_2
+      - 201.myhmyhhuang1980.workers.dev_2
+      - feng1_2
+      - feng2_2
+      - feng3_2
+      - feng4_2
+      - feng5_2
+      - feng6_2
+      - 901.dbodanwi.workers.dev_3
+      - 302.j4tccyw7.workers.dev_3
+      - 201.58vtg99l.workers.dev_3
+      - 备1_3
+      - 备2_3
+      - 201.myhmyhhuang1980.workers.dev_3
+      - feng1_3
+      - feng2_3
+      - feng3_3
+      - feng4_3
+      - feng5_3
+      - feng6_3
+      - 901.dbodanwi.workers.dev_4
+      - 302.j4tccyw7.workers.dev_4
+      - 201.58vtg99l.workers.dev_4
+      - 备1_4
+      - 备2_4
+      - 201.myhmyhhuang1980.workers.dev_4
+      - feng1_4
+      - feng2_4
+      - feng3_4
+      - feng4_4
+      - feng5_4
+      - feng6_4
+      - 901.dbodanwi.workers.dev_5
+      - 302.j4tccyw7.workers.dev_5
+      - 201.58vtg99l.workers.dev_5
+      - 备1_5
+      - 备2_5
+      - 201.myhmyhhuang1980.workers.dev_5
+      - feng1_5
+      - feng2_5
+      - feng3_5
+      - feng4_5
+      - feng5_5
+      - feng6_5
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 901.dbodanwi.workers.dev_1
+      - 302.j4tccyw7.workers.dev_1
+      - 201.58vtg99l.workers.dev_1
+      - 备1_1
+      - 备2_1
+      - 201.myhmyhhuang1980.workers.dev_1
+      - feng1_1
+      - feng2_1
+      - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
+      - 备1_2
+      - 备2_2
+      - 201.myhmyhhuang1980.workers.dev_2
+      - feng1_2
+      - feng2_2
+      - feng3_2
+      - feng4_2
+      - feng5_2
+      - feng6_2
+      - 901.dbodanwi.workers.dev_3
+      - 302.j4tccyw7.workers.dev_3
+      - 201.58vtg99l.workers.dev_3
+      - 备1_3
+      - 备2_3
+      - 201.myhmyhhuang1980.workers.dev_3
+      - feng1_3
+      - feng2_3
+      - feng3_3
+      - feng4_3
+      - feng5_3
+      - feng6_3
+      - 901.dbodanwi.workers.dev_4
+      - 302.j4tccyw7.workers.dev_4
+      - 201.58vtg99l.workers.dev_4
+      - 备1_4
+      - 备2_4
+      - 201.myhmyhhuang1980.workers.dev_4
+      - feng1_4
+      - feng2_4
+      - feng3_4
+      - feng4_4
+      - feng5_4
+      - feng6_4
+      - 901.dbodanwi.workers.dev_5
+      - 302.j4tccyw7.workers.dev_5
+      - 201.58vtg99l.workers.dev_5
+      - 备1_5
+      - 备2_5
+      - 201.myhmyhhuang1980.workers.dev_5
+      - feng1_5
+      - feng2_5
+      - feng3_5
+      - feng4_5
+      - feng5_5
+      - feng6_5
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
       - 901.dbodanwi.workers.dev_1
       - 302.j4tccyw7.workers.dev_1
       - 201.58vtg99l.workers.dev_1
@@ -461,145 +603,3 @@ rules:
   - DOMAIN-SUFFIX,admin6.com,🛑 全球拦截
   - DOMAIN-SUFFIX,admon.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,adnyg.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adpolestar.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,adpro.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,adpush.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,adquan.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adreal.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,ads8.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsame.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsmogo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsmogo.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsunflower.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsunion.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adtrk.me,🛑 全球拦截
-  - DOMAIN-SUFFIX,adups.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,aduu.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,advertising.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adview.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,advmob.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwetec.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwhirl.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adxmi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adyun.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adzerk.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,agrant.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,agrantsem.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,aihaoduo.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,ajapk.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,allyes.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,allyes.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,angsrvr.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,anquan.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,anysdk.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appboy.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appdriver.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,appjiagu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,applifier.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appsflyer.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,atdmt.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,baifendian.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,banmamedia.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,baoyatu.cc,🛑 全球拦截
-  - DOMAIN-SUFFIX,baycode.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,bayimob.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,behe.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bfshan.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,biddingos.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,biddingx.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bjvvqu.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,bjxiaohua.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bloggerads.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,branch.io,🛑 全球拦截
-  - DOMAIN-SUFFIX,bsdev.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,bshare.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,btyou.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bugtags.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,buysellads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,c0563.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cacafly.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,casee.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,cdnmaster.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chance-ad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chanet.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,chartbeat.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chartboost.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chengadx.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,chmae.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,clickadu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,clicki.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,clicktracks.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,clickzs.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,cmcore.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cnxad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cnzzlink.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cocounion.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,coocaatv.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cooguo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,coolguang.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,coremetrics.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cpmchina.co,🛑 全球拦截
-  - DOMAIN-SUFFIX,cpx24.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,crasheye.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,crosschannel.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,customer-security.online,🛑 全球拦截
-  - DOMAIN-SUFFIX,daoyoudao.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,datouniao.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ddapp.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,dianjoy.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,dianru.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,disqusads.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,domob.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,domob.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,domob.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,dotmore.com.tw,🛑 全球拦截
-  - DOMAIN-SUFFIX,doubleverify.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,doudouguo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,doumob.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,duanat.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,duiba.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,duomeng.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,dxpmedia.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,edigitalsurvey.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,eduancm.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,emarbox.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,exosrv.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fancyapi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,feitian001.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,feixin2.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,flashtalking.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fraudmetrix.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,g1.tagtic.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,gentags.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,gepush.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,getui.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,glispa.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,go-mpulse,🛑 全球拦截
-  - DOMAIN-SUFFIX,go-mpulse.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,godloveme.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,gridsum.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,gridsumdissector.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,gridsumdissector.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,growingio.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,guohead.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,guomob.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,haoghost.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,hivecn.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,hypers.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,icast.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,igexin.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,il8r.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,imageter.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,immob.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,inad.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,inmobi.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,inmobi.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,inmobicdn.cn,🛑 全球拦截
