@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
         ],
         "outboundTag": "api",
         "enabled": true
@@ -527,9 +533,7 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJwb3J0IjogMjA4Miwg
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443/?type=ws&encryption=none&host=iyjil.cfonni.info&path=%2Fparadise&security=tls&sni=iyjil.cfonni.info&fp=chrome#👉 🆔 @v2ray_configs_pool`
 vless://90b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:80?path=%2F3HtTNVQTLljvFB8K%3Fed%3D2560&security=none&encryption=none&host=BIttER-dArKnesS-3199.WaKoci1200.WoRKers.DEv&type=ws#👉 🆔 @v2ray_configs_pool`
 vless://90b3cbba-e6ac-485a-9481-976a0415eab9@[2a06:98c1:3120::3]:80?path=%2FZNTLxDcYjjSKuVxI%3Fed%3D2560&security=none&encryption=none&host=BItTer-dArKNesS-3199.WAKocI1200.workErS.dEv&type=ws#👉 🆔 @v2ray_configs_pool`
-vless://90b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:80?path=%2Fk7vGadAbhp0e6jt5%3Fed%3D2560&security=none&encryption=none&host=bittEr-daRKneSs-3199.wakOCI1200.wORkErS.DEV&type=ws#👉 🆔 @v2ray_configs_pool`
-vless://90b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FFimfk3I0DPwhRotM%3Fed%3D2560&security=none&encryption=none&host=bitTeR-DarKNeSs-3199.waKoCi1200.WORkers.dev&type=ws#👉 🆔 @v2ray_configs_pool`
-vless://90b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2Fu1KHgCQhlRkk4ODq%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BItteR-dARKNesS-3199.wAkoCi1200.wOrkErS.DeV&fp=randomized&type=ws&sni=biTTEr-dArKnESS-3199.wakOcI1200.wOrKerS.deV#👉 🆔 @v2ray_configs_pool`
+vless://7728f089-122a-483e-beba-6ea57dfa2454@85.237.223.142:33217?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#❣️ @v2ray_configs_pool ❣️`
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-111
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk5LjIwNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLAogICAgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4OC4xMTQuOTkuMjA1LTA3NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiCn0=
@@ -599,7 +603,3 @@ trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-148
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.178-170
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-184
-trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.131-164
-trojan://ypDt8RkT7J@89.187.189.88:43118?security=tls&sni=tpmrr.phooeyunfold.com#%F0%9F%87%A8%F0%9F%87%BFCZ-89.187.189.88-162
-trojan://NUeBvQHox0BmnHpu@ggghhhk51.xyz:443?security=tls&sni=ggghhhk51.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-42.98.26.82-044
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-101
