@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://b927294d-b137-45ff-ac76-86d774a15c0a@198.211.113.27:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-198.211.113.27:443
-vless://7f1352c6-0ba2-4b38-97a0-6c4d3784afc2@49.12.245.202:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=K7C_pOD78XXS7D0fNVbwyjlfLc_MGQ_4BwfQU_DnbQY&sid=3dc679a73cf4bbf6#🔒 VL-TCP-RLT 🇩🇪 DE-49.12.245.202:443
-vless://f9ce83cc-d862-4233-abc8-b58cd8b5f546@49.13.142.254:8443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.142.254:8443
 vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@24.199.94.226:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-24.199.94.226:443
 trojan://abbaacc-bcaa-bcaa-adbc-baabbabcaccc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
@@ -603,3 +600,6 @@ trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.67.73.233:443?security=tls&sni
 trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.161:43118
 trojan://21531e6d-5b18-45f6-a9a2-17345617bd7d@172.64.87.52:443?security=tls&sni=ne133.behify.tech&type=ws&host=ne133.behify.tech&path=%2Fs7z48gkWVrLr3kN&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🇪🇸 ES-172.64.87.52:443
 trojan://Watashi_VPN@104.18.12.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
+trojan://o1lRNAcx0Z@104.21.53.212:2053?security=tls&sni=vip.pegahtck.ir&type=grpc&fp=firefox&alpn=h3&allowInsecure=1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.53.212:2053
+trojan://teYlM0h6dQ@172.105.122.253:54523?security=tls&sni=m.facebook.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-172.105.122.253:54523

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@aws-jp.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E6%97%A5%E6%9C%AC+vless+01
-vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@aws-sgsg.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+vless+01
-vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@krseoul.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E9%9F%A9%E5%9B%BD+vless+01
 vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@sm-us-gpt.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E7%BE%8E%E5%9B%BD+GPT+%E4%B8%93%E7%94%A8
 vmess://eyJ2IjoiMiIsInBzIjoiXHU1MmEwXHU2MmZmXHU1OTI3IDAxIFx1OWFkOFx1OTAxZlx1ZmYwODAuMVx1NTAwZFx1NmQ4OFx1ODAxN1x1ZmYwOSIsImFkZCI6ImNkbmNkbmNkbmNkbi43ODQ2NTQueHl6IiwicG9ydCI6IjIwNTIiLCJpZCI6IjNlYTU3OGM2LTFlYWEtNGUxNS1iZmUxLTlmNzU3YjU4ZThmMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNhLWNmY2RuLmFpa3VuYXBwLmNvbSIsInBhdGgiOiJcL2luZGV4P2VkPTIwNDgiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHU1MmEwXHU2MmZmXHU1OTI3IDAyIFx1OWFkOFx1OTAxZlx1ZmYwODAuMVx1NTAwZFx1NmQ4OFx1ODAxN1x1ZmYwOSIsImFkZCI6ImNkbmNkbmNkbmNkbi43ODQ2NTQueHl6IiwicG9ydCI6IjIwNTIiLCJpZCI6IjNlYTU3OGM2LTFlYWEtNGUxNS1iZmUxLTlmNzU3YjU4ZThmMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNhLWNmY2RuLmFpa3VuYXBwLmNvbSIsInBhdGgiOiJcL2luZGV4P2VkPTIwNDgiLCJ0bHMiOiIifQ==
@@ -205,12 +202,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a8f2193ea2bc9b5</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a8f791d3ac7cf61</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.79.247.226</span>
+      <span class="hidden" id="cf-footer-ip">13.91.68.158</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -299,12 +296,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a8f2193fae32010</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a8f791d6cb7f99f</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.79.247.226</span>
+      <span class="hidden" id="cf-footer-ip">13.91.68.158</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +600,6 @@ trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sn
 trojan://9a27800ca7b52ee0@103.172.116.113:3389?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?security=tls&sni=sg1.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443?security=tls&sni=jp2.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiIxMzYuMC45LjIxNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI3NTM0ZmEzMC02NmJlLTRjODEtZWM3Ny0zNDc2OWY5YWFhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE3OTQ3IiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
+vless://d0cf4930-7dbf-4607-b930-dc05eda72901@23.94.48.229:6326?security=reality&sni=www.pcmag.com&fp=chrome&pbk=C5Ot4nQBJMxk2DKCe3JTSqcithC9IHVSnixotp4VUVk&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@104.21.60.120:443?security=tls&sni=c5mt.cdncisco.org&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
