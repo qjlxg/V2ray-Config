@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMTgzLjI0MC4yMzUuMTY0OjMyOTk4IiwgImFkZCI6ICIxODMuMjQwLjIzNS4xNjQiLCAicG9ydCI6IDMyOTk4LCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAiIn0=
 vmess://eyJhZGQiOiAiMjEyLjgwLjIuOCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmZDk1OWU4Ni1lN2IwLTQ1N2EtZTI5ZS1mODZiNzE2ZGJiYzIiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1MzExMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tR1JQQy1OT05FIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi0yMTIuODAuMi44OjUzMTEyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMTgzLjIzNi41MS4yMzo1NDEwMCIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogNTQxMDAsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiAiMTY0LjkyLjE3NC4xMjciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYTcyMDdmYTctMTcxOS00YWQ0LThmZjctMzhmZjJlMGE2OWQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI1NTUiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERS0xNjQuOTIuMTc0LjEyNzo1NTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -602,4 +603,3 @@ trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&
 trojan://e59e9150-6256-11ed-983d-1239d0255272@51.222.86.136:443?security=tls&sni=ca-trojan.bonds.id&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-51.222.86.136:443
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.86:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.86:46002
 trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🇺🇸 US-172.67.180.35:443
-trojan://b69c24fe-b9be-4dcd-a833-3f6b211eea7c@152.228.242.161:443?security=tls&sni=s102.myv2r.ml&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-152.228.242.161:443
