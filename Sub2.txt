@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
 	"isHideTips" : true,
@@ -598,8 +603,3 @@ trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.co
 trojan://ypDt8RkT7J@62.210.83.57:43118?security=tls&sni=ruvil.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.83.57-4637
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-3257
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMTguMjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiamFoZmtqaGEuY2ZkIiwKICAgICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMTguMjI3LTU3NzAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJqYWhma2poYS5jZmQiCn0=
-trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.158.217.161-5165
-trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.158.217.130-2894
-trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.82.54-2904
-trojan://ypDt8RkT7J@51.159.102.179:43118?security=tls&sni=tpzmg.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.102.179-4649
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprZ0Y1c2VHZm5sT2NaV2NzVkt6ODFS@195.2.76.71:60422#%F0%9F%87%B7%F0%9F%87%BARU-195.2.76.71-3522
