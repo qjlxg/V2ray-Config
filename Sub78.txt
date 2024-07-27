@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-            <div class="cf-section cf-wrapper">
-               <p>
                <span style="width:16px; display:inline-block; vertical-align:text-top">
                   <svg
                      fill="#b03340"
@@ -43,14 +41,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8a9ce011b89a5227</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8a9d343b8a8281fa</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-07-27 13:11:25 UTC</span>
+      <span class="cf-footer-item">2024-07-27 14:08:53 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.171.70.57</span>
+        <span class="hidden" id="cf-footer-ip">20.109.36.211</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -603,3 +601,5 @@ hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/
     },{
       "type": "wireguard",
       "tag": "Warp-IR5",
+      "server": "188.114.97.252",
+      "server_port": 5956,
