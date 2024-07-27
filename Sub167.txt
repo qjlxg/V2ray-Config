@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,geo.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,js-apac-ss.ysm.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,locdrop.query.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,onepush.query.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p3p.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,partnerads.ysm.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ws.progrss.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yads.yahoo.co.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,ybp.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,shrek.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,simba.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,union.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,logger.baofeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,xs.houyi.baofeng.net,🍃 应用净化
-  - DOMAIN-SUFFIX,dotcounter.douyutv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,api.newad.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,exp.3g.ifeng.com,🍃 应用净化
   - DOMAIN-SUFFIX,game.ifeng.com,🍃 应用净化
   - DOMAIN-SUFFIX,iis3g.deliver.ifeng.com,🍃 应用净化
   - DOMAIN-SUFFIX,mfp.deliver.ifeng.com,🍃 应用净化
@@ -603,3 +585,21 @@
   - DOMAIN-SUFFIX,dazndn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,indazn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,indaznlab.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,sentry.io,🌍 国外媒体
+#   - USER-AGENT,Deezer*,🌍 国外媒体
+  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,disco-api.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,discovery.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,uplynk.com,🌍 国外媒体
+#   - USER-AGENT,Disney*,🌍 国外媒体
+#   - USER-AGENT,Disney+*,🌍 国外媒体
+  - DOMAIN,cdn.registerdisney.go.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,adobedtm.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,bam.nr-data.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,bamgrid.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,braze.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,cdn.optimizely.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,cws.conviva.com,🌍 国外媒体
