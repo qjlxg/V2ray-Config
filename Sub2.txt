@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  "enabled": false,
-  "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
-  "showPluginOutput": false,
-  "pacUrl": null,
   "gfwListUrl": null,
   "useOnlinePac": false,
   "secureLocalPac": true,
@@ -603,3 +595,11 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.243.135:443?encryption=none
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.193:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=http%2F1.1&fp=safari&sni=kr1.175852.xyz#273-%E6%9C%AA%E7%9F%A5_0728088712
 vless://91da4b48-1a07-4b07-8e5c-1463b6002c81@162.159.152.2:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=Daily-Configs.darkmood.cfd#274-%E6%9C%AA%E7%9F%A5_0728089048
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.227.91:2053?encryption=none&type=ws&path=%2FJyiLSQ0tECXpzezd%2FcHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&host=BPBG.168168.US.kg&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=bPbG.168168.us.KG#275-%E6%9C%AA%E7%9F%A5_0728088850
+vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@104.21.28.188:2052?encryption=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#276-%E6%9C%AA%E7%9F%A5_0728081127
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.135.89:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=us3.rtacg.com#277-%E6%9C%AA%E7%9F%A5_0728081344
+vless://0705db4a-e41b-4c3f-ac24-1094ba165b12@104.16.234.78:2096?encryption=none&type=ws&path=%2FWonntaMdgh7BES4e%3Fed%3D2560&host=bPb-WoRKEr-paNEl-aGY.PaGeS.DEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C10-20&sni=bpb-WORKer-paneL-aGy.pageS.deV#278-%E6%9C%AA%E7%9F%A5_072808876
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@time.is:443?encryption=none&type=ws&path=%2Fblue&host=xin112.ylks.link&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C20-50&sni=xin112.ylks.link#279-%E6%9C%AA%E7%9F%A5_07280814969
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.120:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=cfed.tgzdyz2.top#280-%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_072808043
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.66:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&alpn=http%2F1.1&fp=chrome&sni=us3.rtacg.com#281-%E6%9C%AA%E7%9F%A5_0728082266
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.193:443?encryption=none&type=ws&path=tg%40zdyz2security%3Dtls&host=cfed.tgzdyz2.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=cfed.tgzdyz2.top#282-12%7CUS_speednode_0171
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.60.8:80?encryption=none&type=ws&path=%2Fhttp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=ca.vpnbase.net#283-%E6%9C%AA%E7%9F%A5_07280811120
