@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "tag": "Warp-Main8",
+      "detour": "Warp-IR8",
+      "server": "188.114.98.241",
+      "server_port": 5956,
+      
+      "local_address": [
+          "172.16.0.2/32",
+          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
+      ],
       "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [205,184,52],  
@@ -81,13 +90,6 @@
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://1e62032d-031e-4b99-876c-05761c82ae19@kifpool.me:2096?encryption=none&security=tls&sni=dl.waltonweb.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=dl.waltonweb.ir&path=%2F#💘 @v2ray_configs_pool 💘`
-vless://b42f41c4-6fb7-48d3-957c-1565e7006afc@185.146.173.58:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://9c104edb-c9ed-4329-a5c1-53d6e33f26d5@188.114.98.224:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=www.shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#💘 @v2ray_configs_pool 💘`
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiRGUxLnZtZXNzLnNpdGUuIiwgImlkIjogIjZkYmI2YzQ4LWZmOTUtNTAyYS1hOTJkLTRjYTgxODkzMDhmMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzk4IEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkYzk4In0=`
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoienVMYS5pci5TcEVlRHRlU3QuTmV0LnZhUnpFU2gzMTMuSVIuZEdrQUxBLkNPbS5TSE9QU2hJUlZBTi5pci4iLCJpZCI6IjVjYWUyZTRlLWQyNzUtNGMxMS1hMTQxLWUyY2E5Yjk5ZGY2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9UZWxncmFtLWJsdWV2dG93cmF5bmc/ZWRcdTAwM2QxNiIsInBvcnQiOiI4ODgwIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.217.140.137:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸`
-vless://111d90c9-5eb5-4584-becd-99a1d79a126e@108.162.192.188:2095?path=%2Ftelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%2Ctelegram-ACADEMI_VPN%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.gamerme12.ir.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://2cf3cb79-50eb-4865-8b96-dfb128d36f9c@85.133.195.87:443?security=none&encryption=none&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzk4IEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkYzk4In0=`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.194.208.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#💘 @v2ray_configs_pool 💘`
@@ -199,9 +201,15 @@ vless://e9d1f0f2-8bda-4431-99d9-26378cc17338@zula.ir:8080?path=%2F-%40Shh_Proxy-
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.44.53:2087?path=%2F%3FTM%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#💘 @v2ray_configs_pool 💘`
 vless://bc0aa5d8-a8a9-41c0-d31b-76b4bd738d57@104.17.148.22:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=188.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@www.speedtest.net:443?path=%2FU3O1oZjsmKTCyF_F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=PpAL03.MRS-OTho-RoLFson.worKErS.dev&fp=randomized&type=ws&sni=ppal03.mRs-otHO-rOLfsON.WOrkErS.DEv#💘 @v2ray_configs_pool 💘`vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@fast_7.updatte.tech:8080?path=%2FFtp.Debian.org%3Fed%3D2048&security=none&encryption=none&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir&type=httpupgrade#[🏁]t.me/ConfigsHub`
+vless://e3a1c0aa-f064-42a8-b290-49d7ec577a24@www.speedtest.net:8880?path=@mehrosaboran,@mehrosaboran&path=%2F-LiV2ry%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://cdf164bf-9e70-4e8a-93e8-ad3df506c6b9@shop.impervasec.com:2083?type=grpc&serviceName=---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray---@Lady_v2ray&mode=gun&serviceName=2083vless&security=tls&fp=chrome&sni=shop.impervasec.com#💘 @v2ray_configs_pool 💘`
 vless://382f7173-6664-446e-8bf5-d88a10eac7c3@www.speedtest.net:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://58194229-d338-46ff-952e-a2c6326c3723@www.speedtest.net:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=www.shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#[🇺🇸]t.me/ConfigsHub`
+vless://cc43e1ab-0fa8-4e32-9484-bd9954ed34fb@212.23.214.147:20053?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
+vless://e5124c24-a268-4b8a-9b9f-f7db2d2bafc0@212.23.214.147:30046?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
+vless://de20645d-cb33-436c-8d62-d0cf0fec9e4e@store.atomiserver.ir:80?path=%2FG4NZN6OLPTpT73ku2QWhZZL9Q&security=none&encryption=none&host=store.atomiserver.ir&type=ws#💘 @v2ray_configs_pool 💘`
+vless://197d70b9-e5d6-431a-933b-d79aab1adfaf@104.31.16.104:80?path=%2F&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://dad8f44c-efd2-481e-aab1-dd2c1b06cf1c@www.speedtest.net:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=95.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&type=ws#💘 @v2ray_configs_pool 💘`
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-100
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-291
@@ -595,11 +603,3 @@ trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1ro
 trojan://kGrwqmB1nEKUsDwE@185.253.46.121:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-185.253.46.121-467
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.37.136-468
 trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-469
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top#%F0%9F%87%B3%F0%9F%87%B1NL-37.48.65.144-470
-trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=corona.jakarta.go.id#%F0%9F%8F%81RELAY-104.18.21.18-471
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.18:443?security=tls&sni=pjp2.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.38.18-472
-trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz#%F0%9F%8F%81RELAY-104.31.16.120-473
-trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-5.75.152.12-474
-trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.210.182.170-475
-trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.127.212-476
-trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-477
