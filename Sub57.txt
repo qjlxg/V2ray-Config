@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d33de827-c412-4e6c-8083-7f402e934975@193.107.48.189:17957?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.107.48.189:17957
+vless://e512d9ba-3639-476c-888b-734d050bfed5@173.245.58.133:2052?security=none&type=ws&host=yhRGsP.CINiMo.ApP&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.133:2052
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.194:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.67:443?security=tls&sni=kkg.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.67:443
 vless://d055975a-90f6-4d3f-b16e-e482edb94783@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
@@ -601,5 +603,3 @@ vless://92180475-daf7-4f0a-92fe-66ab37b792f1@198.41.209.205:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.221.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.221.132:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.81.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.81.3:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.5:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.5:80
-vless://cff4b984-bbf2-4a3c-9e2f-167910e458b4@162.159.152.19:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.19:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.150.253:80
