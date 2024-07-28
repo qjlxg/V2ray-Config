@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,p-log.ykimg.com,🍃 应用净化
+  - DOMAIN-SUFFIX,p.l.ykimg.com,🍃 应用净化
+  - DOMAIN-SUFFIX,p.l.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,passport-log.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,push.m.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,r.l.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,s.p.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,sdk.m.youku.com,🍃 应用净化
   - DOMAIN-SUFFIX,stat.tudou.com,🍃 应用净化
   - DOMAIN-SUFFIX,stat.youku.com,🍃 应用净化
   - DOMAIN-SUFFIX,stats.tudou.com,🍃 应用净化
@@ -595,11 +603,3 @@
   - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
   - IP-CIDR,38.72.126.0/24,🌍 国外媒体,no-resolve
   - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
