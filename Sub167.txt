@@ -3,6 +3,38 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,coinhive.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,huodonghezi.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,vcbn65.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,wanfeng1.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wep016.top,🛑 全球拦截
+  - DOMAIN-SUFFIX,win-stock.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,zantainet.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dh54wf.xyz,🛑 全球拦截
+  - DOMAIN-SUFFIX,g2q3e.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,114so.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,go.10086.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,hivedata.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,navi.gd.chinamobile.com,🛑 全球拦截
+# 包含常用应用的各种去广告规则。
+# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+# 163
+# 17173
+# 178
+# 2345
+# 360
+# 58
+# Alibaba
+# Adobe
+# Apple
+# AutoHome
+# Baidu
+# Book-app 起点 掌阅 书旗 宜搜
+# ByteDance 头条抖音
+# Dangdang
+# Duomi
+# Facebook
+# Fang
 # Google
 # JD
 # Kugou
@@ -571,35 +603,3 @@
   - DOMAIN-SUFFIX,app.moji001.com,🍃 应用净化
   - DOMAIN-SUFFIX,cdn.moji002.com,🍃 应用净化
   - DOMAIN-SUFFIX,cdn2.moji002.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fds.api.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.moji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ugc.moji001.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,admgr.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,dload.qd.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,logger.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,s.qd.qingting.fm,🍃 应用净化
-  - DOMAIN-SUFFIX,s.qd.qingtingfm.com,🍃 应用净化
-  - DOMAIN-KEYWORD,omgmtaw,🍃 应用净化
-  - DOMAIN,adsmind.apdcdn.tc.qq.com,🍃 应用净化
-  - DOMAIN,adsmind.gdtimg.com,🍃 应用净化
-  - DOMAIN,adsmind.tc.qq.com,🍃 应用净化
-  - DOMAIN,pgdt.gtimg.cn,🍃 应用净化
-  - DOMAIN,pgdt.gtimg.com,🍃 应用净化
-  - DOMAIN,pgdt.ugdtimg.com,🍃 应用净化
-  - DOMAIN,splashqqlive.gtimg.com,🍃 应用净化
-  - DOMAIN,wa.gtimg.com,🍃 应用净化
-  - DOMAIN,wxsnsdy.wxs.qq.com,🍃 应用净化
-  - DOMAIN,wxsnsdythumb.wxs.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,act.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.qun.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adsfile.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bugly.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,buluo.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,e.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gdt.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,monitor.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pingma.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pingtcss.qq.com,🍃 应用净化
