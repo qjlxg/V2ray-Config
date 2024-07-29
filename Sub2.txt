@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  "pacUrl": null,
-  "gfwListUrl": null,
-  "useOnlinePac": false,
-  "secureLocalPac": true,
   "availabilityStatistics": false,
   "autoCheckUpdate": false,
   "checkPreRelease": false,
@@ -603,3 +599,7 @@ vless://1149be91-5a4f-47de-995f-66f8d7d64498@94.242.230.112:2096?encryption=none
 vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@130.250.137.19:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat#264-%E7%BE%8E%E5%9B%BD_0728231221
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.39:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C10-50&sni=first.pinocchio1.ir.#265-%E6%96%B0%E5%8A%A0%E5%9D%A1_072823504
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjYtMjAyNC8wMy8yNS3wn4e68J+HuF9VU1/nvo7lm70iLCJhZGQiOiJndW9saWNoZW5nLmNmZCIsInBvcnQiOjgwODAsImlkIjoiNTUwMjFhN2MtYmQ2Yy00MThlLWJlOTUtY2VhYzhiYTI3YjQ1IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJ3aWRlc2NyZWVuLWluc3RydWN0aW9uLWJyZWFrZG93bi1wb3N0YWdlLnRyeWNsb3VkZmxhcmUuY29tIiwibmV0Ijoid3MiLCJwYXRoIjoiNTUwMjFhN2MtYmQ2Yy00MThlLWJlOTUtY2VhYzhiYTI3YjQ1LXZtIiwiaG9zdCI6IndpZGVzY3JlZW4taW5zdHJ1Y3Rpb24tYnJlYWtkb3duLXBvc3RhZ2UudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3gifQ==
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.65:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=kr1.175852.xyz#267-%E6%9C%AA%E7%9F%A5_0728238851
+vless://123000a0-51b5-4ced-a709-1d84e6173a96@91.107.218.161:80?encryption=none&type=ws&host=MarketINg.microSoFTs.doWnLOad&security=none&alpn=h2%2Chttp%2F1.1&fp=safari&sni=MarketINg.microSoFTs.doWnLOad#268-%E5%BE%B7%E5%9B%BD_072823076
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY5LfCfj4FSRUxBWS0xNzIuNjcuMTg1LjEzMy0yMjQ0IiwiYWRkIjoiMTcyLjY3LjE4NS4xMzMiLCJwb3J0Ijo0NDMsImlkIjoiNDRjZWIzODktNGNlYS00ZWExLWVlZjktMTFjZTZmM2VmZmU2IiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.144.133:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=randomized&sni=us3.rtacg.com#270-%E6%9C%AA%E7%9F%A5_0728232629
