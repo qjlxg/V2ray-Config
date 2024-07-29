@@ -3,6 +3,43 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,tap.io,🚀 节点选择
+  - DOMAIN-SUFFIX,taptap.tw,🚀 节点选择
+  - DOMAIN-SUFFIX,twitch.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,ttvnw.net,🚀 节点选择
+  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
+  - DOMAIN-KEYWORD,ttvnw,🚀 节点选择
+  - DOMAIN-SUFFIX,t.co,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.co,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.org,🚀 节点选择
+  - DOMAIN-SUFFIX,t.me,🚀 节点选择
+  - DOMAIN-SUFFIX,tdesktop.com,🚀 节点选择
+  - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
+  - DOMAIN-SUFFIX,telegram.me,🚀 节点选择
+  - DOMAIN-SUFFIX,telegram.org,🚀 节点选择
+  - DOMAIN-SUFFIX,telesco.pe,🚀 节点选择
+  - IP-CIDR,91.108.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,109.239.140.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,149.154.160.0/20,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,terabox.com,🚀 节点选择
+  - DOMAIN-SUFFIX,teraboxcdn.com,🚀 节点选择
+  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,34.224.0.0/12,🚀 节点选择,no-resolve
+  - IP-CIDR,54.242.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,50.22.198.204/30,🚀 节点选择,no-resolve
+  - IP-CIDR,208.43.122.128/27,🚀 节点选择,no-resolve
+  - IP-CIDR,108.168.174.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,173.192.231.32/27,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.5.192/27,🚀 节点选择,no-resolve
+  - IP-CIDR,174.37.243.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.46.128/27,🚀 节点选择,no-resolve
+  - IP-CIDR,173.192.222.160/27,🚀 节点选择,no-resolve
+  - IP-CIDR,184.173.128.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.224.160/27,🚀 节点选择,no-resolve
   - IP-CIDR,75.126.150.0/16,🚀 节点选择,no-resolve
   - IP-CIDR,69.171.235.0/16,🚀 节点选择,no-resolve
   - DOMAIN-SUFFIX,mediawiki.org,🚀 节点选择
@@ -566,40 +603,3 @@
   - DOMAIN-SUFFIX,knewone.com,🎯 全球直连
   - DOMAIN-SUFFIX,koowo.com,🎯 全球直连
   - DOMAIN-SUFFIX,ksyungslb.com,🎯 全球直连
-  - DOMAIN-SUFFIX,kuaidi100.com,🎯 全球直连
-  - DOMAIN-SUFFIX,kugou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lancdns.com,🎯 全球直连
-  - DOMAIN-SUFFIX,landiannews.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lanzou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lanzoui.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lanzoux.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lemicp.com,🎯 全球直连
-  - DOMAIN-SUFFIX,letitfly.me,🎯 全球直连
-  - DOMAIN-SUFFIX,lizhi.fm,🎯 全球直连
-  - DOMAIN-SUFFIX,lizhi.io,🎯 全球直连
-  - DOMAIN-SUFFIX,lizhifm.com,🎯 全球直连
-  - DOMAIN-SUFFIX,luoo.net,🎯 全球直连
-  - DOMAIN-SUFFIX,lvmama.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lxdns.com,🎯 全球直连
-  - DOMAIN-SUFFIX,maoyan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meilishuo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meituan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meituan.net,🎯 全球直连
-  - DOMAIN-SUFFIX,meizu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,migucloud.com,🎯 全球直连
-  - DOMAIN-SUFFIX,miguvideo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mobike.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mogu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mogucdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mogujie.com,🎯 全球直连
-  - DOMAIN-SUFFIX,moji.com,🎯 全球直连
-  - DOMAIN-SUFFIX,moke.com,🎯 全球直连
-  - DOMAIN-SUFFIX,msstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mubu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myunlu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,nruan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,nuomi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,onedns.net,🎯 全球直连
-  - DOMAIN-SUFFIX,onlinedown.net,🎯 全球直连
-  - DOMAIN-SUFFIX,oracle.com,🎯 全球直连
-  - DOMAIN-SUFFIX,oschina.net,🎯 全球直连
