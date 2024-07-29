@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "pacUrl": null,
+  "gfwListUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
   "isVerboseLogging": false,
   "logViewer": {
     "topMost": false,
@@ -596,10 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.215:80?encryption=none&
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjgwLfCfh7Lwn4e0TU8tNDUuNjQuMjIuMjItNTM3NCIsImFkZCI6IjQ1LjY0LjIyLjIyIiwicG9ydCI6NDQzLCJpZCI6ImU1NWVkN2IyLWVkNGYtNDgwYy04Yjk5LTA4NDgyZGExZTRjNyIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiaGtibi5wZ3lwZ3lrbW9samtsai54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvT0I3alRNNWNUVHJMIiwiaG9zdCI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
 vless://63e5b2d4-3975-40e7-8c7c-258b3e0cf6b8@iranserver.com:2053?encryption=none&type=ws&path=%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%3Fed%3D2560&host=zerma.ir&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C30-80%2C20-50&sni=zerma.ir#281-%E6%9C%AA%E7%9F%A5_07282314413
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.40:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=cfed.tgzdyz2.top#282-%E4%B9%8C%E5%85%8B%E5%85%B0_072823005
-vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@104.129.167.90:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat#283-%E6%96%B0%E5%8A%A0%E5%9D%A1_072823144
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg0LfCfj4FSRUxBWS0xNzIuNjcuMTI1LjI4LTEzMDEiLCJhZGQiOiIxNzIuNjcuMTI1LjI4IiwicG9ydCI6NDQzLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiMzguNzJpbWcueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIzOC43MmltZy54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.27.3:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2&fp=chrome&sni=kr1.175852.xyz#285-%E6%9C%AA%E7%9F%A5_0728238632
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?encryption=none&type=ws&host=w1.sylar8.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-20&sni=w1.sylar8.eu.org#286-%E6%9C%AA%E7%9F%A5_0728231121
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.88:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=xin600.ylks.link#287-%E6%96%B0%E5%8A%A0%E5%9D%A1_072823213
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.49.172:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=kr1.175852.xyz#288-%E6%9C%AA%E7%9F%A5_0728238647
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg5LfCfh6vwn4e3RlItMjE3LjE4Mi43Ni4yMDItODQ2MCIsImFkZCI6IjIxNy4xODIuNzYuMjAyIiwicG9ydCI6NDQzLCJpZCI6IjJlNjgwMTVmLWE4YjItNDg5My1hN2EzLTRlZGIxOWIxNzhkOSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJhbHBuIjoiaDIiLCJmcCI6InNhZmFyaSJ9
