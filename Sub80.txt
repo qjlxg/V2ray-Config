@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=VOkcnRNFk1GfvbwhkjdrG&mode=gun#d4%20tls%20grpc%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRscyBncnBjIGRpcmVjdCB2bWVzcyIsDQogICJhZGQiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjE5YzgwY2U5LTA5MzUtNDFiOS1iMDc3LTI3NzYyMTMxNmE4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJndW4iLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICJsaVV4VUdKVEdvUHZid2hramRyRyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
-tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:41088?sni=hidd2.parthianempire.org&alpn=h3&congestion_control=cubic#d4%20TUIC
-hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/?sni=hidd2.parthianempire.org&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&insecure=0#d4%20Hysteria2
-
-{
-  "log": {
-    "access": "",
     "error": "",
     "loglevel": "warning"
   },
@@ -470,6 +462,9 @@ hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=Tel-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#💘 @v2ray_configs_pool 💘`
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#💘 @v2ray_configs_pool 💘`
+vless://2321a5f5-7437-4769-b3a7-dde7216e04ff@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=kony69.servernet.fun.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://ca13a842-a7a9-4409-93aa-23f81d291d1a@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=ko.servernet.fun.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://4213defc-23ed-4d74-a07b-3aed0a5c40a4@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://130e0f31-91cb-47f0-b58f-4ef9b21ead82@zula.ir:8080?path=%2F&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#💘 @v2ray_configs_pool 💘`
@@ -603,3 +598,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.242:443?path=%2F3b2dg5z
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.145:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=zdyo.linghang.buzz#💘 @v2ray_configs_pool 💘`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.35:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#💘 @v2ray_configs_pool 💘`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.96:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=xino.ylks.xyz#💘 @v2ray_configs_pool 💘`
