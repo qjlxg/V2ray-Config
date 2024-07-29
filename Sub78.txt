@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@aws-hkhk.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E9%A6%99%E6%B8%AF+vless+01
-vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@hktddns2.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E9%A6%99%E6%B8%AF+vless+02+%E5%8E%9F%E7%94%9FIP
 vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@aws-jp.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E6%97%A5%E6%9C%AC+vless+01
 vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@aws-sgsg.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+vless+01
 vless://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@krseoul.aikunapp.com:5949?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%E9%9F%A9%E5%9B%BD+vless+01
@@ -207,12 +205,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8aafbf1ab999c974</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ab01775d86f6193</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.46.115</span>
+      <span class="hidden" id="cf-footer-ip">172.183.74.10</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -301,12 +299,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8aafbf1acb50c5ad</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ab017760af5e124</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.46.115</span>
+      <span class="hidden" id="cf-footer-ip">172.183.74.10</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +601,5 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTQ1LjQ5IiwiYWlkIjoiMCIsImhvc3QiOiJmYW1pbHkubWd0YWpo
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://9a27800ca7b52ee0@103.172.116.113:3389?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?security=tls&sni=sg1.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443?security=tls&sni=jp2.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
