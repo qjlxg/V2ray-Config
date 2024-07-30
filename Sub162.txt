@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-# 本地/局域网地址
-# Router managed 路由器管理域名
-  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
   - DOMAIN-SUFFIX,lan,🎯 全球直连
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - DOMAIN-SUFFIX,localhost,🎯 全球直连
@@ -603,3 +598,8 @@
   - DOMAIN-SUFFIX,taboola.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tapjoy.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tapjoyads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficjunky.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficjunky.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,tribalfusion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,turn.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uberads.com,🛑 全球拦截
