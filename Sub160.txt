@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12%7CGB_speednode_0089
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12%7CGB_speednode_0090
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12%7CGB_speednode_0091
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12%7CGB_speednode_0092
@@ -603,3 +602,4 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
+      - ♻️ 自动选择
