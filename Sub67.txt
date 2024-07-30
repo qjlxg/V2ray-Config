@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#🔒 VL-TCP-RLT 🇪🇪 EE-95.164.8.185:8080
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&sni=oMIdmAHBouBI.ir&type=tcp&fp=chrome&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.61.146:8001
 vless://33043f58-e966-43d0-d4ea-b929627b44f8@49.13.73.9:443?security=reality&sni=help.mega.io&type=grpc&serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&fp=chrome&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.73.9:443
 vless://d62c618f-b9cd-4e3d-b54b-85e3dea65ba9@193.233.115.78:2093?security=reality&sni=stackoverflow.com&type=http&path=/&fp=chrome&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&sid=d710e2b9#🔒 VL-HTTP-RLT 🇷🇺 RU-193.233.115.78:2093
@@ -601,5 +603,3 @@ trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-peo
 trojan://o1lRNAcx0Z@104.21.53.212:2053?security=tls&sni=vip.pegahtck.ir&type=grpc&fp=firefox&alpn=h3&allowInsecure=1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.53.212:2053
 trojan://REvil@172.66.44.171:443?sni=trauma.pages.dev&type=ws&host=trauma.pages.dev&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.66.44.171:443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.23.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.23.46:443
-trojan://cf1a0d20-43ad-11ef-935f-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2096?security=tls&sni=mailbox.CpIfOrperSiA.UK&type=ws&host=mailbox.CpIfOrperSiA.UK&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.15.85:2096
