@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
   "gfwListUrl": null,
   "useOnlinePac": false,
   "secureLocalPac": true,
@@ -599,7 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.54.86:80?encryption=none&typ
 vless://da248f55-42bb-4082-c595-8038d1a35be6@89.34.227.27:37403?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&sid=f731df09&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=www.icloud.com#277-%E6%96%B0%E5%8A%A0%E5%9D%A1_073023476
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:8443?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed%3D2048&host=web.v2ray-ab-841-vpn.WOrKErs.DEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C10-50&sni=web.v2ray-ab-841-vpn.WOrKErs.DEv#278-%E6%9C%AA%E7%9F%A5_07302310513
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.129:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=kr1.175852.xyz#279-%E6%9C%AA%E7%9F%A5_0730238500
-vless://dff4193a-86f9-47c3-bba3-37085db44012@190.93.247.155:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C10-50&sni=V2ray-NAPSTERNET-IRANCELL-inha-fisr-MTN.snappfoodd.site#280-%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0_073023115
-vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=allnet.deragv2ray.net#281-%E7%91%9E%E5%85%B8_073023320
-vless://01ab9337-f478-4765-9534-88f009f83ddb@japan.com:443?encryption=none&type=ws&path=%2Fblue&host=aut112.ylks.link&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=aut112.ylks.link#282-%E6%9C%AA%E7%9F%A5_07302315304
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.83:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#283-%E8%8D%B7%E5%85%B0_073023145
