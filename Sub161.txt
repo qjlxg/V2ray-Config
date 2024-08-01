@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://JOIN--ELiV2RAY--EiV2RAY-@www.parsvds.ir:8080?security=&type=ws&path=/ELeNaELeNa-ELiV2-ELiV2?ed%3D8080&host=f1.pOwERfulsERvEr.dE.&encryption=none#%F0%9F%86%94EliV2ray%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20240ms
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=n2.gladns.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiJ1cGxvYWQuaXIiLCJhaWQiOiIwIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://872fc34c-d2e2-4134-9e77-f2cd08a8b9d0@shift.footballlovernews.com:443?security=tls&sni=shift.footballlovernews.com&fp=chrome&type=ws&path=/shift&encryption=none#SHERVIN%2046
@@ -602,4 +603,3 @@ proxy-groups:
     type: select
     proxies:
       - REJECT
-      - DIRECT
