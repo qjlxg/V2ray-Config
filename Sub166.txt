@@ -3,603 +3,603 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-  - IP-CIDR,8.41.4.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-  - IP-CIDR,38.72.126.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
-#   - USER-AGENT,Niconico*,🌍 国外媒体
-  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
-  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
-#   - USER-AGENT,PBS*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
-#   - USER-AGENT,Pandora*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
-#   - USER-AGENT,SoundCloud*,🌍 国外媒体
-  - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
-  - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
-#   - USER-AGENT,Spotify*,🌍 国外媒体
-  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
-#   - USER-AGENT,TIDAL*,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidalhifi.com,🌍 国外媒体
-#   - USER-AGENT,TaiwanGood*,🌍 国外媒体
-  - DOMAIN,hamifans.emome.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,skyking.com.tw,🌍 国外媒体
-#   - USER-AGENT,TikTok*,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - DOMAIN-SUFFIX,byteoversea.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ibytedtos.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ipstatp.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,muscdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,musical.ly,🌍 国外媒体
-  - DOMAIN-SUFFIX,tik-tokapi.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktok.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,ttvnw,🌍 国外媒体
-  - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
-#   - USER-AGENT,Viu*,🌍 国外媒体
-  - PROCESS-NAME,com.viu.pad,🌍 国外媒体
-  - PROCESS-NAME,com.viu.phone,🌍 国外媒体
-  - PROCESS-NAME,com.vuclip.viu,🌍 国外媒体
-  - DOMAIN,api.viu.now.com,🌍 国外媒体
-  - DOMAIN,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.now.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.tv,🌍 国外媒体
-#   - USER-AGENT,*youtube*,🌍 国外媒体
-#   - USER-AGENT,YouTube*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtube*,🌍 国外媒体
-  - DOMAIN-KEYWORD,youtube,🌍 国外媒体
-  - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
-  - DOMAIN,yt3.ggpht.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,yt.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
-#   - USER-AGENT,*YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,*com.google.ios.youtubemusic*,🌍 国外媒体
-#   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
-  - DOMAIN,music.youtube.com,🌍 国外媒体
-# Telegram
-#PROCESS-NAME,Telegram.exe
-#PROCESS-NAME,org.telegram.messenger
-  - DOMAIN-SUFFIX,t.me,📲 电报信息
-  - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
-  - DOMAIN-SUFFIX,telegra.ph,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.me,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.org,📲 电报信息
-  - DOMAIN-SUFFIX,telesco.pe,📲 电报信息
-  - IP-CIDR,91.108.0.0/16,📲 电报信息,no-resolve
-  - IP-CIDR,109.239.140.0/24,📲 电报信息,no-resolve
-  - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
-# 长风网站，自动注入
-  - DOMAIN-SUFFIX,v2rayse.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cff.pw,🚀 节点选择
-  - DOMAIN-SUFFIX,vpnse.org,🚀 节点选择
-  - DOMAIN-SUFFIX,cfmem.com,🚀 节点选择
-# 代理列表
-# MyList && Other
-# 国外域名
-# 国外域名关键字
-# Top Blocked Sites
-# Amazon
-# BBC
-# Developer 开发者常用国外网站、镜像和论坛
-# Discord
-# Facebook
-# Github
-# Google
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-# Instagram
-# Kakao Talk
-# Line
-# OneDrive
-#DOMAIN-SUFFIX,aria.microsoft.com
-# Porn
-# Pixiv
-# Spark
-# Steam
-# TapTap
-# Twitch
-# Twitter
-# Telegram
-# TeraBox
-# Whatsapp
-# Wikipedia 维基相关域名
-#飞流直播
-#华文电视
-# VikACG
-  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
-  - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
-  - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
-  - DOMAIN-SUFFIX,btlibrary.me,🚀 节点选择
-  - DOMAIN-SUFFIX,chat.openai.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cloudcone.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gameloft.com,🚀 节点选择
-  - DOMAIN-SUFFIX,garena.com,🚀 节点选择
-  - DOMAIN-SUFFIX,hoyolab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,inoreader.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ip138.com,🚀 节点选择
-  - DOMAIN-SUFFIX,linkedin.com,🚀 节点选择
-  - DOMAIN-SUFFIX,myteamspeak.com,🚀 节点选择
-  - DOMAIN-SUFFIX,notion.so,🚀 节点选择
-  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ping.pe,🚀 节点选择
-  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
-  - DOMAIN-SUFFIX,teddysun.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tumbex.com,🚀 节点选择
-  - DOMAIN-SUFFIX,twdvd.com,🚀 节点选择
-  - DOMAIN-SUFFIX,unsplash.com,🚀 节点选择
-  - DOMAIN-SUFFIX,eu,🚀 节点选择
-  - DOMAIN-SUFFIX,hk,🚀 节点选择
-  - DOMAIN-SUFFIX,jp,🚀 节点选择
-  - DOMAIN-SUFFIX,kr,🚀 节点选择
-  - DOMAIN-SUFFIX,sg,🚀 节点选择
-  - DOMAIN-SUFFIX,tw,🚀 节点选择
-  - DOMAIN-SUFFIX,uk,🚀 节点选择
-  - DOMAIN-SUFFIX,us,🚀 节点选择
-  - DOMAIN-KEYWORD,1e100,🚀 节点选择
-  - DOMAIN-KEYWORD,abema,🚀 节点选择
-  - DOMAIN-KEYWORD,appledaily,🚀 节点选择
-  - DOMAIN-KEYWORD,avtb,🚀 节点选择
-  - DOMAIN-KEYWORD,beetalk,🚀 节点选择
-  - DOMAIN-KEYWORD,blogspot,🚀 节点选择
-  - DOMAIN-KEYWORD,dropbox,🚀 节点选择
-  - DOMAIN-KEYWORD,facebook,🚀 节点选择
-  - DOMAIN-KEYWORD,fbcdn,🚀 节点选择
-  - DOMAIN-KEYWORD,github,🚀 节点选择
-  - DOMAIN-KEYWORD,gmail,🚀 节点选择
-  - DOMAIN-KEYWORD,google,🚀 节点选择
-  - DOMAIN-KEYWORD,instagram,🚀 节点选择
-  - DOMAIN-KEYWORD,porn,🚀 节点选择
-  - DOMAIN-KEYWORD,sci-hub,🚀 节点选择
-  - DOMAIN-KEYWORD,spotify,🚀 节点选择
-  - DOMAIN-KEYWORD,telegram,🚀 节点选择
-  - DOMAIN-KEYWORD,twitter,🚀 节点选择
-  - DOMAIN-KEYWORD,whatsapp,🚀 节点选择
-  - DOMAIN-KEYWORD,youtube,🚀 节点选择
-  - DOMAIN-SUFFIX,4sqi.net,🚀 节点选择
-  - DOMAIN-SUFFIX,a248.e.akamai.net,🚀 节点选择
-  - DOMAIN-SUFFIX,adobedtm.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ampproject.org,🚀 节点选择
-  - DOMAIN-SUFFIX,android.com,🚀 节点选择
-  - DOMAIN-SUFFIX,aolcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apkmirror.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apkpure.com,🚀 节点选择
-  - DOMAIN-SUFFIX,app-measurement.com,🚀 节点选择
-  - DOMAIN-SUFFIX,appspot.com,🚀 节点选择
-  - DOMAIN-SUFFIX,archive.org,🚀 节点选择
-  - DOMAIN-SUFFIX,armorgames.com,🚀 节点选择
-  - DOMAIN-SUFFIX,aspnetcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,awsstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,azureedge.net,🚀 节点选择
-  - DOMAIN-SUFFIX,azurewebsites.net,🚀 节点选择
-  - DOMAIN-SUFFIX,bandwagonhost.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bkrtx.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogger.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogsmithmedia.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.hk,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.jp,🚀 节点选择
-  - DOMAIN-SUFFIX,bloomberg.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,bloomberg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,box.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cachefly.net,🚀 节点选择
-  - DOMAIN-SUFFIX,cdnst.net,🚀 节点选择
-  - DOMAIN-SUFFIX,cloudfront.net,🚀 节点选择
-  - DOMAIN-SUFFIX,comodoca.com,🚀 节点选择
-  - DOMAIN-SUFFIX,daum.net,🚀 节点选择
-  - DOMAIN-SUFFIX,deskconnect.com,🚀 节点选择
-  - DOMAIN-SUFFIX,disqus.com,🚀 节点选择
-  - DOMAIN-SUFFIX,disquscdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropbox.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxapi.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxusercontent.com,🚀 节点选择
-  - DOMAIN-SUFFIX,duckduckgo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,edgecastcdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,edgekey.net,🚀 节点选择
-  - DOMAIN-SUFFIX,edgesuite.net,🚀 节点选择
-  - DOMAIN-SUFFIX,eurekavpt.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fastmail.com,🚀 节点选择
-  - DOMAIN-SUFFIX,firebaseio.com,🚀 节点选择
-  - DOMAIN-SUFFIX,flickr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,flipboard.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,gongm.in,🚀 节点选择
-  - DOMAIN-SUFFIX,hulu.com,🚀 节点选择
-  - DOMAIN-SUFFIX,id.heroku.com,🚀 节点选择
-  - DOMAIN-SUFFIX,io.io,🚀 节点选择
-  - DOMAIN-SUFFIX,issuu.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ixquick.com,🚀 节点选择
-  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
-  - DOMAIN-SUFFIX,kat.cr,🚀 节点选择
-  - DOMAIN-SUFFIX,kik.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kobo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kobobooks.com,🚀 节点选择
-  - DOMAIN-SUFFIX,licdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,live.net,🚀 节点选择
-  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
-  - DOMAIN-SUFFIX,llnwd.net,🚀 节点选择
-  - DOMAIN-SUFFIX,macrumors.com,🚀 节点选择
-  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mega.nz,🚀 节点选择
-  - DOMAIN-SUFFIX,megaupload.com,🚀 节点选择
-  - DOMAIN-SUFFIX,messenger.com,🚀 节点选择
-  - DOMAIN-SUFFIX,netdna-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,nintendo.net,🚀 节点选择
-  - DOMAIN-SUFFIX,nsstatic.net,🚀 节点选择
-  - DOMAIN-SUFFIX,nytstyle.com,🚀 节点选择
-  - DOMAIN-SUFFIX,overcast.fm,🚀 节点选择
-  - DOMAIN-SUFFIX,openvpn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,periscope.tv,🚀 节点选择
-  - DOMAIN-SUFFIX,pinimg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pinterest.com,🚀 节点选择
-  - DOMAIN-SUFFIX,potato.im,🚀 节点选择
-  - DOMAIN-SUFFIX,prfct.co,🚀 节点选择
-  - DOMAIN-SUFFIX,pscp.tv,🚀 节点选择
-  - DOMAIN-SUFFIX,quora.com,🚀 节点选择
-  - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,shadowsocks.org,🚀 节点选择
-  - DOMAIN-SUFFIX,slack-edge.com,🚀 节点选择
-  - DOMAIN-SUFFIX,smartdnsproxy.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sndcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,soundcloud.com,🚀 节点选择
-  - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
-  - DOMAIN-SUFFIX,staticflickr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symauth.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symcb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symcd.com,🚀 节点选择
-  - DOMAIN-SUFFIX,textnow.com,🚀 节点选择
-  - DOMAIN-SUFFIX,textnow.me,🚀 节点选择
-  - DOMAIN-SUFFIX,thefacebook.com,🚀 节点选择
-  - DOMAIN-SUFFIX,thepiratebay.org,🚀 节点选择
-  - DOMAIN-SUFFIX,torproject.org,🚀 节点选择
-  - DOMAIN-SUFFIX,trustasiassl.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tumblr.co,🚀 节点选择
-  - DOMAIN-SUFFIX,tumblr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tvb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,txmblr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,v2ex.com,🚀 节点选择
-  - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,vine.co,🚀 节点选择
-  - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
-  - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
-  - IP-CIDR,13.32.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,13.35.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,18.184.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,18.208.0.0/13,🚀 节点选择,no-resolve
-  - IP-CIDR,18.232.0.0/14,🚀 节点选择,no-resolve
-  - IP-CIDR,52.58.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,52.74.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,52.77.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,52.84.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,52.200.0.0/13,🚀 节点选择,no-resolve
-  - IP-CIDR,54.93.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,54.156.0.0/14,🚀 节点选择,no-resolve
-  - IP-CIDR,54.226.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,54.230.156.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-KEYWORD,uk-live,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apache.org,🚀 节点选择
-  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
-  - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
-  - DOMAIN-SUFFIX,maven.org,🚀 节点选择
-  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mvnrepository.com,🚀 节点选择
-  - DOMAIN-SUFFIX,quay.io,🚀 节点选择
-  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
-  - DOMAIN-SUFFIX,redhat.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sonatype.org,🚀 节点选择
-  - DOMAIN-SUFFIX,sourcegraph.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.io,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.net,🚀 节点选择
-  - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.co,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
-  - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.me,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.net,🚀 节点选择
-  - IP-CIDR,31.13.24.0/21,🚀 节点选择,no-resolve
-  - IP-CIDR,31.13.64.0/18,🚀 节点选择,no-resolve
-  - IP-CIDR,45.64.40.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,66.220.144.0/20,🚀 节点选择,no-resolve
-  - IP-CIDR,69.63.176.0/20,🚀 节点选择,no-resolve
-  - IP-CIDR,69.171.224.0/19,🚀 节点选择,no-resolve
-  - IP-CIDR,74.119.76.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.4.96.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,129.134.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,157.240.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,173.252.64.0/18,🚀 节点选择,no-resolve
-  - IP-CIDR,179.60.192.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,185.60.216.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,204.15.20.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,github.com,🚀 节点选择
-  - DOMAIN-SUFFIX,github.io,🚀 节点选择
-  - DOMAIN-SUFFIX,githubapp.com,🚀 节点选择
-  - DOMAIN-SUFFIX,githubassets.com,🚀 节点选择
-  - DOMAIN-SUFFIX,githubusercontent.com,🚀 节点选择
-  - DOMAIN-SUFFIX,1e100.net,🚀 节点选择
-  - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,app-measurement.net,🚀 节点选择
-  - DOMAIN-SUFFIX,g.co,🚀 节点选择
-  - DOMAIN-SUFFIX,ggpht.com,🚀 节点选择
-  - DOMAIN-SUFFIX,goo.gl,🚀 节点选择
-  - DOMAIN-SUFFIX,googleapis.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,googleapis.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gstatic.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt0.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt1.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt2.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt3.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
-  - DOMAIN-SUFFIX,youtu.be,🚀 节点选择
-  - DOMAIN-SUFFIX,youtube-nocookie.com,🚀 节点选择
-  - DOMAIN-SUFFIX,youtube.com,🚀 节点选择
-  - DOMAIN-SUFFIX,yt.be,🚀 节点选择
-  - DOMAIN-SUFFIX,ytimg.com,🚀 节点选择
-  - IP-CIDR,74.125.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,173.194.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,120.232.181.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.241.147.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.253.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.98/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.150.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.150.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.151.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.151.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.39.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.40.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.41.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.43.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.50.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.34/32,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,cdninstagram.com,🚀 节点选择
-  - DOMAIN-SUFFIX,instagram.com,🚀 节点选择
-  - DOMAIN-SUFFIX,instagr.am,🚀 节点选择
-  - DOMAIN-SUFFIX,kakao.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kakao.co.kr,🚀 节点选择
-  - DOMAIN-SUFFIX,kakaocdn.net,🚀 节点选择
-  - IP-CIDR,1.201.0.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,27.0.236.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.246.56.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,110.76.140.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
-  - DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
-  - DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line.me,🚀 节点选择
-  - DOMAIN-SUFFIX,line.naver.jp,🚀 节点选择
-  - DOMAIN-SUFFIX,nhncorp.jp,🚀 节点选择
-  - IP-CIDR,103.2.28.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,103.2.30.0/23,🚀 节点选择,no-resolve
-  - IP-CIDR,119.235.224.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,119.235.232.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,119.235.235.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,119.235.236.0/23,🚀 节点选择,no-resolve
-  - IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,203.104.128.0/19,🚀 节点选择,no-resolve
-  - DOMAIN-KEYWORD,1drv,🚀 节点选择
-  - DOMAIN-KEYWORD,onedrive,🚀 节点选择
-  - DOMAIN-KEYWORD,skydrive,🚀 节点选择
-  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
-  - DOMAIN-SUFFIX,oneclient.sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,onedrive.com,🚀 节点选择
-  - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,photos.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🚀 节点选择
-  - DOMAIN-SUFFIX,storage.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,storage.msn.com,🚀 节点选择
-  - DOMAIN-KEYWORD,porn,🚀 节点选择
-  - DOMAIN-SUFFIX,8teenxxx.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ahcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bcvcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bongacams.com,🚀 节点选择
-  - DOMAIN-SUFFIX,chaturbate.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dditscdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,livejasmin.com,🚀 节点选择
-  - DOMAIN-SUFFIX,phncdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,phprcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pornhub.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pornhubpremium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,rdtcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,redtube.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sb-cd.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spankbang.com,🚀 节点选择
-  - DOMAIN-SUFFIX,t66y.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xhamster.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xnxx-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xnxx.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xvideos-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xvideos.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ypncdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pixiv.net,🚀 节点选择
-  - DOMAIN-SUFFIX,pximg.net,🚀 节点选择
-  - DOMAIN-SUFFIX,amplitude.com,🚀 节点选择
-  - DOMAIN-SUFFIX,firebaseio.com,🚀 节点选择
-  - DOMAIN-SUFFIX,hockeyapp.net,🚀 节点选择
-  - DOMAIN-SUFFIX,readdle.com,🚀 节点选择
-  - DOMAIN-SUFFIX,smartmailcloud.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fanatical.com,🚀 节点选择
-  - DOMAIN-SUFFIX,humblebundle.com,🚀 节点选择
-  - DOMAIN-SUFFIX,underlords.com,🚀 节点选择
-  - DOMAIN-SUFFIX,valvesoftware.com,🚀 节点选择
-  - DOMAIN-SUFFIX,playartifact.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steam-chat.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steamcommunity.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steamgames.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steampowered.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steamserver.net,🚀 节点选择
-  - DOMAIN-SUFFIX,steamstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steamstat.us,🚀 节点选择
-  - DOMAIN,steambroadcast.akamaized.net,🚀 节点选择
-  - DOMAIN,steamcdn-a.akamaihd.net,🚀 节点选择
-  - DOMAIN,steamcommunity-a.akamaihd.net,🚀 节点选择
-  - DOMAIN,steamstore-a.akamaihd.net,🚀 节点选择
-  - DOMAIN,steamusercontent-a.akamaihd.net,🚀 节点选择
-  - DOMAIN,steamuserimages-a.akamaihd.net,🚀 节点选择
-  - DOMAIN,steampipe.akamaized.net,🚀 节点选择
-  - DOMAIN-SUFFIX,tap.io,🚀 节点选择
-  - DOMAIN-SUFFIX,taptap.tw,🚀 节点选择
-  - DOMAIN-SUFFIX,twitch.tv,🚀 节点选择
-  - DOMAIN-SUFFIX,ttvnw.net,🚀 节点选择
-  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
-  - DOMAIN-KEYWORD,ttvnw,🚀 节点选择
-  - DOMAIN-SUFFIX,t.co,🚀 节点选择
-  - DOMAIN-SUFFIX,twimg.co,🚀 节点选择
-  - DOMAIN-SUFFIX,twimg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,twimg.org,🚀 节点选择
-  - DOMAIN-SUFFIX,t.me,🚀 节点选择
-  - DOMAIN-SUFFIX,tdesktop.com,🚀 节点选择
-  - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
-  - DOMAIN-SUFFIX,telegram.me,🚀 节点选择
-  - DOMAIN-SUFFIX,telegram.org,🚀 节点选择
-  - DOMAIN-SUFFIX,telesco.pe,🚀 节点选择
-  - IP-CIDR,91.108.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,109.239.140.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,149.154.160.0/20,🚀 节点选择,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,🚀 节点选择,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,🚀 节点选择,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,terabox.com,🚀 节点选择
-  - DOMAIN-SUFFIX,teraboxcdn.com,🚀 节点选择
-  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,34.224.0.0/12,🚀 节点选择,no-resolve
-  - IP-CIDR,54.242.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,50.22.198.204/30,🚀 节点选择,no-resolve
-  - IP-CIDR,208.43.122.128/27,🚀 节点选择,no-resolve
-  - IP-CIDR,108.168.174.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,173.192.231.32/27,🚀 节点选择,no-resolve
-  - IP-CIDR,158.85.5.192/27,🚀 节点选择,no-resolve
-  - IP-CIDR,174.37.243.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,158.85.46.128/27,🚀 节点选择,no-resolve
-  - IP-CIDR,173.192.222.160/27,🚀 节点选择,no-resolve
-  - IP-CIDR,184.173.128.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,158.85.224.160/27,🚀 节点选择,no-resolve
-  - IP-CIDR,75.126.150.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,69.171.235.0/16,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,mediawiki.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikibooks.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikidata.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikileaks.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikimedia.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikinews.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikipedia.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikiquote.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikisource.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikiversity.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wikivoyage.org,🚀 节点选择
-  - DOMAIN-SUFFIX,wiktionary.org,🚀 节点选择
-  - DOMAIN-SUFFIX,neulion.com,🚀 节点选择
-  - DOMAIN-SUFFIX,icntv.xyz,🚀 节点选择
-  - DOMAIN-SUFFIX,flzbcdn.xyz,🚀 节点选择
-  - DOMAIN-SUFFIX,ocnttv.com,🚀 节点选择
-  - DOMAIN-SUFFIX,vikacg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,picjs.xyz,🚀 节点选择
-# 直连列表
-# MyList
-# CN域名直连(中国|公司|网络)
-# 中国国内常见域名关键词直连
+  - DOMAIN-SUFFIX,zmz001.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmz002.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmz003.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmz004.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmz2019.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmzapi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zmzapi.net,🎯 全球直连
+  - DOMAIN-SUFFIX,zmzfile.com,🎯 全球直连
+  - DOMAIN-KEYWORD,announce,🎯 全球直连
+  - DOMAIN-KEYWORD,torrent,🎯 全球直连
+  - DOMAIN-KEYWORD,tracker,🎯 全球直连
+  - DOMAIN-SUFFIX,animebytes.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,animetorrents.me,🎯 全球直连
+  - DOMAIN-SUFFIX,awesome-hd.me,🎯 全球直连
+  - DOMAIN-SUFFIX,beitai.pt,🎯 全球直连
+  - DOMAIN-SUFFIX,bittorrent.com,🎯 全球直连
+  - DOMAIN-SUFFIX,broadcasthe.net,🎯 全球直连
+  - DOMAIN-SUFFIX,chdbits.co,🎯 全球直连
+  - DOMAIN-SUFFIX,classix-unlimited.co.uk,🎯 全球直连
+  - DOMAIN-SUFFIX,empornium.me,🎯 全球直连
+  - DOMAIN-SUFFIX,gazellegames.net,🎯 全球直连
+  - DOMAIN-SUFFIX,hd4fans.org,🎯 全球直连
+  - DOMAIN-SUFFIX,hdchina.org,🎯 全球直连
+  - DOMAIN-SUFFIX,hdhome.org,🎯 全球直连
+  - DOMAIN-SUFFIX,hdsky.me,🎯 全球直连
+  - DOMAIN-SUFFIX,hdtime.org,🎯 全球直连
+  - DOMAIN-SUFFIX,hdzone.me,🎯 全球直连
+  - DOMAIN-SUFFIX,icetorrent.org,🎯 全球直连
+  - DOMAIN-SUFFIX,jpopsuki.eu,🎯 全球直连
+  - DOMAIN-SUFFIX,keepfrds.com,🎯 全球直连
+  - DOMAIN-SUFFIX,leaguehd.com,🎯 全球直连
+  - DOMAIN-SUFFIX,m-team.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,madsrevolution.net,🎯 全球直连
+  - DOMAIN-SUFFIX,msg.vg,🎯 全球直连
+  - DOMAIN-SUFFIX,nanyangpt.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ncore.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,open.cd,🎯 全球直连
+  - DOMAIN-SUFFIX,ourbits.club,🎯 全球直连
+  - DOMAIN-SUFFIX,passthepopcorn.me,🎯 全球直连
+  - DOMAIN-SUFFIX,privatehd.to,🎯 全球直连
+  - DOMAIN-SUFFIX,pthome.net,🎯 全球直连
+  - DOMAIN-SUFFIX,redacted.ch,🎯 全球直连
+  - DOMAIN-SUFFIX,springsunday.net,🎯 全球直连
+  - DOMAIN-SUFFIX,tjupt.org,🎯 全球直连
+  - DOMAIN-SUFFIX,totheglory.im,🎯 全球直连
+  - DOMAIN-SUFFIX,trontv.com,🎯 全球直连
+  - DOMAIN-SUFFIX,teamviewer.com,🎯 全球直连
+  - IP-CIDR,109.239.140.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,139.220.243.27/32,🎯 全球直连,no-resolve
+  - IP-CIDR,172.16.102.56/32,🎯 全球直连,no-resolve
+  - IP-CIDR,185.188.32.1/28,🎯 全球直连,no-resolve
+  - IP-CIDR,221.226.128.146/32,🎯 全球直连,no-resolve
+  - IP-CIDR6,2a0b:b580::/48,🎯 全球直连,no-resolve
+  - IP-CIDR6,2a0b:b581::/48,🎯 全球直连,no-resolve
+  - IP-CIDR6,2a0b:b582::/48,🎯 全球直连,no-resolve
+  - IP-CIDR6,2a0b:b583::/48,🎯 全球直连,no-resolve
+  - DOMAIN-SUFFIX,baomitu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bootcss.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jiasule.com,🎯 全球直连
+  - DOMAIN-SUFFIX,staticfile.org,🎯 全球直连
+  - DOMAIN-SUFFIX,upaiyun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,10010.com,🎯 全球直连
+  - DOMAIN-SUFFIX,115.com,🎯 全球直连
+  - DOMAIN-SUFFIX,12306.com,🎯 全球直连
+  - DOMAIN-SUFFIX,17173.com,🎯 全球直连
+  - DOMAIN-SUFFIX,178.com,🎯 全球直连
+  - DOMAIN-SUFFIX,17k.com,🎯 全球直连
+  - DOMAIN-SUFFIX,360doc.com,🎯 全球直连
+  - DOMAIN-SUFFIX,36kr.com,🎯 全球直连
+  - DOMAIN-SUFFIX,3dmgame.com,🎯 全球直连
+  - DOMAIN-SUFFIX,51cto.com,🎯 全球直连
+  - DOMAIN-SUFFIX,51job.com,🎯 全球直连
+  - DOMAIN-SUFFIX,51jobcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,56.com,🎯 全球直连
+  - DOMAIN-SUFFIX,8686c.com,🎯 全球直连
+  - DOMAIN-SUFFIX,abchina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,abercrombie.com,🎯 全球直连
+  - DOMAIN-SUFFIX,acfun.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,air-matters.com,🎯 全球直连
+  - DOMAIN-SUFFIX,air-matters.io,🎯 全球直连
+  - DOMAIN-SUFFIX,aixifan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,algocasts.io,🎯 全球直连
+  - DOMAIN-SUFFIX,babytree.com,🎯 全球直连
+  - DOMAIN-SUFFIX,babytreeimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baicizhan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidupan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baike.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biqudu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biquge.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bitauto.com,🎯 全球直连
+  - DOMAIN-SUFFIX,c-ctrip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,camera360.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cdnmama.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chaoxing.com,🎯 全球直连
+  - DOMAIN-SUFFIX,che168.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinacache.net,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaso.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaz.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaz.net,🎯 全球直连
+  - DOMAIN-SUFFIX,chuimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cibntv.net,🎯 全球直连
+  - DOMAIN-SUFFIX,clouddn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cloudxns.net,🎯 全球直连
+  - DOMAIN-SUFFIX,cn163.net,🎯 全球直连
+  - DOMAIN-SUFFIX,cnblogs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cnki.net,🎯 全球直连
+  - DOMAIN-SUFFIX,cnmstl.net,🎯 全球直连
+  - DOMAIN-SUFFIX,coolapk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,coolapkmarket.com,🎯 全球直连
+  - DOMAIN-SUFFIX,csdn.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ctrip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dangdang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dfcfw.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dianping.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dilidili.wang,🎯 全球直连
+  - DOMAIN-SUFFIX,douban.com,🎯 全球直连
+  - DOMAIN-SUFFIX,doubanio.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dpfile.com,🎯 全球直连
+  - DOMAIN-SUFFIX,duowan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dxycdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dytt8.net,🎯 全球直连
+  - DOMAIN-SUFFIX,easou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,eastday.com,🎯 全球直连
+  - DOMAIN-SUFFIX,eastmoney.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ecitic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ewqcxz.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fantasy.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,feng.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fengkongcloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fir.im,🎯 全球直连
+  - DOMAIN-SUFFIX,frdic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fresh-ideas.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,ganji.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ganjistatic1.com,🎯 全球直连
+  - DOMAIN-SUFFIX,geetest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,geilicdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ghpym.com,🎯 全球直连
+  - DOMAIN-SUFFIX,godic.net,🎯 全球直连
+  - DOMAIN-SUFFIX,guazi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,gwdang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,gzlzfm.com,🎯 全球直连
+  - DOMAIN-SUFFIX,haibian.com,🎯 全球直连
+  - DOMAIN-SUFFIX,haosou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hollisterco.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hongxiu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,huajiao.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hupu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,huxiucdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,huya.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ifeng.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ifengimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,images-amazon.com,🎯 全球直连
+  - DOMAIN-SUFFIX,infzm.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ipip.net,🎯 全球直连
+  - DOMAIN-SUFFIX,it168.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ithome.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ixdzs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jianguoyun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jianshu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jianshu.io,🎯 全球直连
+  - DOMAIN-SUFFIX,jianshuapi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jiathis.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jmstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jumei.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kaola.com,🎯 全球直连
+  - DOMAIN-SUFFIX,knewone.com,🎯 全球直连
+  - DOMAIN-SUFFIX,koowo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ksyungslb.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kuaidi100.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kugou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lancdns.com,🎯 全球直连
+  - DOMAIN-SUFFIX,landiannews.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lanzou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lanzoui.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lanzoux.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lemicp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,letitfly.me,🎯 全球直连
+  - DOMAIN-SUFFIX,lizhi.fm,🎯 全球直连
+  - DOMAIN-SUFFIX,lizhi.io,🎯 全球直连
+  - DOMAIN-SUFFIX,lizhifm.com,🎯 全球直连
+  - DOMAIN-SUFFIX,luoo.net,🎯 全球直连
+  - DOMAIN-SUFFIX,lvmama.com,🎯 全球直连
+  - DOMAIN-SUFFIX,lxdns.com,🎯 全球直连
+  - DOMAIN-SUFFIX,maoyan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,meilishuo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,meituan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,meituan.net,🎯 全球直连
+  - DOMAIN-SUFFIX,meizu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,migucloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,miguvideo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mobike.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mogu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mogucdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mogujie.com,🎯 全球直连
+  - DOMAIN-SUFFIX,moji.com,🎯 全球直连
+  - DOMAIN-SUFFIX,moke.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mubu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,myunlu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,nruan.com,🎯 全球直连
+  - DOMAIN-SUFFIX,nuomi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,onedns.net,🎯 全球直连
+  - DOMAIN-SUFFIX,onlinedown.net,🎯 全球直连
+  - DOMAIN-SUFFIX,oracle.com,🎯 全球直连
+  - DOMAIN-SUFFIX,oschina.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ourdvs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,polyv.net,🎯 全球直连
+  - DOMAIN-SUFFIX,qbox.me,🎯 全球直连
+  - DOMAIN-SUFFIX,qcloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qcloudcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qdaily.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qdmm.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qianqian.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qidian.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qihucdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qin.io,🎯 全球直连
+  - DOMAIN-SUFFIX,qiniu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qiniucdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qiniudn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qiushibaike.com,🎯 全球直连
+  - DOMAIN-SUFFIX,quanmin.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,qunar.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qunarzz.com,🎯 全球直连
+  - DOMAIN-SUFFIX,repaik.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ruguoapp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,runoob.com,🎯 全球直连
+  - DOMAIN-SUFFIX,sankuai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,segmentfault.com,🎯 全球直连
+  - DOMAIN-SUFFIX,sf-express.com,🎯 全球直连
+  - DOMAIN-SUFFIX,shumilou.net,🎯 全球直连
+  - DOMAIN-SUFFIX,simplecd.me,🎯 全球直连
+  - DOMAIN-SUFFIX,smzdm.com,🎯 全球直连
+  - DOMAIN-SUFFIX,snwx.com,🎯 全球直连
+  - DOMAIN-SUFFIX,soufunimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,sspai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,startssl.com,🎯 全球直连
+  - DOMAIN-SUFFIX,suning.com,🎯 全球直连
+  - DOMAIN-SUFFIX,synology.com,🎯 全球直连
+  - DOMAIN-SUFFIX,taihe.com,🎯 全球直连
+  - DOMAIN-SUFFIX,th-sjy.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tianqi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tianqistatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tianyancha.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tianyaui.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tietuku.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tiexue.net,🎯 全球直连
+  - DOMAIN-SUFFIX,tmiaoo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,trip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ttmeiju.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tudou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tuniu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tuniucdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,umengcloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,upyun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,uxengine.net,🎯 全球直连
+  - DOMAIN-SUFFIX,videocc.net,🎯 全球直连
+  - DOMAIN-SUFFIX,wandoujia.com,🎯 全球直连
+  - DOMAIN-SUFFIX,weather.com,🎯 全球直连
+  - DOMAIN-SUFFIX,weico.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,weidian.com,🎯 全球直连
+  - DOMAIN-SUFFIX,weiphone.com,🎯 全球直连
+  - DOMAIN-SUFFIX,weiphone.net,🎯 全球直连
+  - DOMAIN-SUFFIX,womai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,wscdns.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xdrig.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xhscdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiachufang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiaohongshu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiaojukeji.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xinhuanet.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xip.io,🎯 全球直连
+  - DOMAIN-SUFFIX,xitek.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiumi.us,🎯 全球直连
+  - DOMAIN-SUFFIX,xslb.net,🎯 全球直连
+  - DOMAIN-SUFFIX,xueqiu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yach.me,🎯 全球直连
+  - DOMAIN-SUFFIX,yeepay.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yhd.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yihaodianimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yinxiang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yinyuetai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yixia.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ys168.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yuewen.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yy.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yystatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zealer.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhangzishi.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,zhanqi.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,zhaopin.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhihu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhongsou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
+# 中国云服务商ip端
+# 阿里
+# 腾讯 qq
+# 百度 Baidu
+# 华为 huwei
+# 网易 NetEase
 # 360
-# 4399
-# 58
-# Alibaba
-# Baidu
-# Bilibili
-# Blizzard
-# ByteDance
-# CCTV
-# ChinaNet
-# DiDi
-# Douyu 斗鱼
-# Epic
-# HuaWei
-# Iflytek 科大讯飞
-# Iqiyi
-# JD
-# Kingsoft
-# Kuaishou 快手
-# Meitu
+  - IP-CIDR,8.128.0.0/10,🎯 全球直连,no-resolve
+  - IP-CIDR,8.208.0.0/12,🎯 全球直连,no-resolve
+  - IP-CIDR,14.1.112.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,41.222.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,41.223.119.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,43.242.168.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.112.212.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,47.52.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.56.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.74.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.76.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.80.0.0/12,🎯 全球直连,no-resolve
+  - IP-CIDR,47.235.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.236.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.240.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.244.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.246.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.250.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.252.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.0.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.240.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.248.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,72.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,103.38.56.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.52.76.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.206.40.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,110.76.21.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,110.76.23.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,112.125.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,116.251.64.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,119.38.208.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,119.38.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,119.42.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.95.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,140.205.1.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,140.205.122.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,147.139.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,149.129.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,155.102.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,161.117.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,163.181.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,170.33.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,198.11.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,205.204.96.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,19.28.0.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,45.40.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,49.51.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,62.234.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,94.191.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,103.7.28.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.116.50.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.231.60.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,109.244.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.128.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.136.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.139.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.140.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,115.159.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,119.28.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,120.88.56.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,121.51.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.28.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.204.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.211.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,132.232.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,134.175.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,146.56.192.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,148.70.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,150.109.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,152.136.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,188.131.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,203.195.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,203.205.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,210.4.138.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.128.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.132.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.148.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,212.64.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,212.129.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,45.113.192.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,63.217.23.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,63.243.252.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,103.235.44.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,104.193.88.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,106.12.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,114.28.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,119.63.192.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,180.76.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,182.61.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,185.10.104.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,202.46.48.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,203.90.238.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,43.254.0.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.249.212.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,49.4.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,78.101.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,78.101.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,81.52.161.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,85.97.220.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.31.200.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.69.140.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.218.216.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,114.115.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,114.116.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,116.63.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,116.66.184.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.96.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.128.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.136.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.141.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.142.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.243.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.244.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,116.71.251.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,117.78.0.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,119.3.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,119.8.0.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,119.8.32.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,121.36.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,121.36.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,121.37.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,122.112.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.0.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.64.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.100.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.104.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.112.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.240.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.248.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.128.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.160.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.164.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.168.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.176.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.192.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.0.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.64.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.79.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.80.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.96.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.112.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.125.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.192.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.223.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,159.138.224.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,168.195.92.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,185.176.76.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,197.199.0.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,197.210.163.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.1.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.2.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.4.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.8.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.52.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.54.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.57.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.0.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.4.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.8.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.11.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.13.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.20.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.22.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.24.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.26.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.29.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.33.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.38.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.40.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.43.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.48.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.50.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,42.186.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,45.127.128.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.195.24.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,45.253.132.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.253.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.254.48.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,59.111.0.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,59.111.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,103.71.120.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,103.71.128.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.71.196.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.71.200.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.12.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.18.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.24.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.28.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.38.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.40.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.44.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.48.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,103.72.128.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,103.74.24.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,103.74.48.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.126.92.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.129.252.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.131.252.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.135.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.196.64.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,106.2.32.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,106.2.64.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,114.113.196.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,114.113.200.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,115.236.112.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,115.238.76.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,123.58.160.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,223.252.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,101.198.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,101.198.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
+
+vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
+vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?encryption=none&security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.3%3A8880
+vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=%2F%3Fed#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Outline_Vpn%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#%F0%9F%87%B3%F0%9F%87%B1NL-89.19.216.18-2582
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A8090
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.162.200.28%3A3389
+vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-139.28.221.242%3A27393
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A3306
+vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?encryption=none&security=tls&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%207
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B9%20AT-95.164.9.144%3A2927
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySDRVWWtLRGppVjlGYlpNUEU4YzV6@46.226.164.2:16006#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AD%F0%9F%87%B0%20HK-46.226.164.2%3A16006
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?encryption=none&security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2ray1_ng%20%7C%209
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.134.94.175%3A8119
+vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@2.189.130.119:10082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.130.119%3A10082
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&security=tls&sni=kingOfIRaN.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%2011
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.111%3A6679
+
+vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
+vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?encryption=none&security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.3%3A8880
+vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=%2F%3Fed#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Outline_Vpn%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#%F0%9F%87%B3%F0%9F%87%B1NL-89.19.216.18-2582
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A8090
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.162.200.28%3A3389
+vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-139.28.221.242%3A27393
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A3306
+vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?encryption=none&security=tls&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%207
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B9%20AT-95.164.9.144%3A2927
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySDRVWWtLRGppVjlGYlpNUEU4YzV6@46.226.164.2:16006#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AD%F0%9F%87%B0%20HK-46.226.164.2%3A16006
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?encryption=none&security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2ray1_ng%20%7C%209
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.134.94.175%3A8119
+vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@2.189.130.119:10082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.130.119%3A10082
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&security=tls&sni=kingOfIRaN.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%2011
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.111%3A6679
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A5003
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&security=tls&sni=kingOfIRaN.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.111.114.133:7307#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A7307
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%87%A8%F0%9F%87%A6CA-23.162.200.28-2192
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A6679
+vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A32354
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.19:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A9101
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.86.148%3A8000
+vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?encryption=none&security=tls&sni=faRAHDIba.pagES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=FaRAhDibA.pAgEs.dEv&path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_vpnrog%20%7C%200
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.81-3444
+vless://f44e3aa9-aa2e-407d-e0a4-2b2cee184036@5.42.107.242:14244?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A14244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-205.134.180.137%3A443
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?encryption=none&security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=%2Ftelegram-%40Capoit-telegram-%40Capoit-telegram-%40Capoit%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%201
+vless://8a9fff15-c1d3-4e0f-fdda-dc1c4c2305ca@5.42.107.242:59062?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A59062
+vless://1ab9189b-652c-4a94-bbd4-6c0dd0c1a2a3@5.42.107.242:57348?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A57348
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:5000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A5000
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?encryption=none&security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40DailyV2RY%20%7C%20101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-188.212.132.20%3A52952
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-0730
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?encryption=none&security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2FqMrqKgy9xReUdR3d%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_vpnrog%20%7C%202
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?encryption=none&security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2Ftelegram-SiNABiGO%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40sinabigo%20%7C%205
+vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?encryption=none&security=tls&sni=ARiAMEHr-EYQ.PAGeS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ariameHr-Eyq.paGES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_vpnrog%20%7C%206
+vless://aebca481-d343-4ae8-a641-c598d253f0f1@104.21.232.99:80?encryption=none&security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.134.94.175-2143
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?encryption=none&security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2FqMrqKgy9xReUdR3d%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40proxy_mtm%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%200
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A8000
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Outline_Vpn%20%7C%208
+vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@3.226.223.214:8880?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-3.226.223.214%3A8880
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=PrOxYStorEPaNEL.EU.oRg&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=proxYsTOREPANEL.eu.oRG&path=%2FB5TOud1bHxlmxd7y%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40proxystore11%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm%E2%80%8Ctelegram-proxy_mtm%E2%80%8C%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Capoit%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?encryption=none&security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40v2ray1_ng%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40v2ray_swhil%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?encryption=none&security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2Ftelegram-SiNABiGO%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40sinabigo%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3

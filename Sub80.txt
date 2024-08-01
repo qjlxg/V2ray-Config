@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 166.36ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.sassanidempire.com-443 | 151.75ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.sassanidempire.com-443 | 166.47ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 151.78ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.sassanidempire.com-443 | 151.92ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.parthianempire.org-443 | 384.2ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.parthianempire.org-443 | 155.1ms
@@ -295,12 +299,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ac76e5fcdbb232e</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ac7ca13286b0790</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.161.209</span>
+      <span class="hidden" id="cf-footer-ip">172.200.199.251</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -389,12 +393,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ac76e5fda632316</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ac7ca134cf5c9bd</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.161.209</span>
+      <span class="hidden" id="cf-footer-ip">172.200.199.251</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -599,7 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:809#%F0%9F
 trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=ce.rutracker-cn.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://d39e7f86-4fa1-4f80-b9e1-0e7178d3ae4c@185.231.205.43:443?security=reality&sni=foxrayiranchannel.com&fp=ios&pbk=bipoTqiHv7UfPnGOItOQ5_fyEQk4-asjTDvImoDUpRk&sid=95d2&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://7f5e1438-0c8f-46d2-baf4-7025c264532e@91.195.240.12:443?security=tls&sni=hkjs.stablize.top&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.141:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
