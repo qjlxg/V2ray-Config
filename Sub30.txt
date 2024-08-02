@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               </h1>
+               <h2 class="cf-subheadline">Error 1027</h2>
+            </div>
+
+            <div class="cf-section cf-wrapper">
+               <p>
+               <span style="width:16px; display:inline-block; vertical-align:text-top">
+                  <svg
+                     fill="#b03340"
+                     xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 16 16"
+                  >
+                     <path
+                     d="M15.672,14.2,8.3,1.443a.352.352,0,0,0-.609,0L.328,14.2a.352.352,0,0,0,.3.527H15.368A.352.352,0,0,0,15.672,14.2ZM8.743,12.9a.221.221,0,0,1-.221.221H7.478a.221.221,0,0,1-.221-.221V11.86a.221.221,0,0,1,.221-.221H8.522a.221.221,0,0,1,.221.221Zm-.025-2.422H7.282L7.257,6.005H8.743Z"
+                     />
                   </svg>
                </span>
                <strong>
@@ -32,14 +47,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8acfac6eac0307ec</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8ad009210ef667e3</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-08-02 17:09:04 UTC</span>
+      <span class="cf-footer-item">2024-08-02 18:12:21 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.97.191.51</span>
+        <span class="hidden" id="cf-footer-ip">52.225.76.177</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -588,18 +603,3 @@ hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/
 
       "mtu": 1120
     },{
-      "type": "wireguard",
-      "tag": "Warp-IR7",
-      "server": "188.114.99.103",
-      "server_port": 5956,
-
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
