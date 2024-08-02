@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&sni=t6.teslacdn2.live&type=tcp&host=t6.teslacdn2.live#🔒 TR-TCP-TLS 🇫🇷 FR-217.182.76.235:443
-trojan://telegram-id-privatevpns@13.43.170.101:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.170.101:22222
-trojan://L2gXcKIcpL@152.42.252.70:10073?security=none&type=ws&host=content.cdn.viber.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-152.42.252.70:10073
-trojan://Watashi_VPN@104.17.148.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
 trojan://7c18cd10-243d-49f1-9d5f-90febae16653@54.95.216.253:666?security=tls&sni=2jpmax05.233235.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-54.95.216.253:666
 trojan://4f811851-23b7-408d-8c25-5e49db8ea7ec@45.140.169.83:30002?sni=ru01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-45.140.169.83:30002
 trojan://c061f710-4fb3-11ef-93c8-1239d0255272@15.204.234.166:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-15.204.234.166:443
@@ -603,3 +599,7 @@ ss://YWVzLTI1Ni1nY206enk4ZUNIbW9HNDhibEtvV2dONndCMg==@45.8.147.88:45961#🔒 SS-
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGR0tFcEo5Q1R4b2RFNXgxV2Y3d25F@128.199.69.28:3127#🔒 SS-TCP-NA 🇸🇬 SG-128.199.69.28:3127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGhtTw==@51.195.218.78:8388#🔒 SS-TCP-NA 🇬🇧 GB-51.195.218.78:8388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.148:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabUV4Wg==@15.235.163.25:8388#🔒 SS-TCP-NA 🇸🇬 SG-15.235.163.25:8388
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇬🇧 GB-51.195.149.115:45816
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.10:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8888

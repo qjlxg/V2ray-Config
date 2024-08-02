@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2087
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
-trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.57:43118
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
 trojan://NISHIKUITAN222@34.105.49.234:443?security=tls&sni=t726.ylks.link&type=ws&host=t726.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-34.105.49.234:443
 vmess://eyJzZXJ2aWNlbmFtZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgImFkZCI6ICIxNTEuMTAxLjEyOS41NyIsICJzbmkiOiAiIiwgImhvc3QiOiAiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCAiYWlkIjogIjAiLCAiaWQiOiAiNzRjNWQ5ZDYtNzk0Ny00YzJhLWFiMGMtMGNiN2M2ZmJjNmQwIiwgInBvcnQiOiAiODAiLCAicGF0aCI6ICJ3cy8/ZWQ9MjA0OCIsICJmcCI6ICIiLCAiYWxwbiI6ICIiLCAic2VlZCI6ICIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5PTkUgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTE1MS4xMDEuMTI5LjU3OjgwIiwgInYiOiAiMiIsICJuZXQiOiAid3MiLCAiaGVhZGVydHlwZSI6ICIiLCAidHlwZSI6ICJub25lIn0=
 vmess://eyJhZGQiOiAiMTc2LjEyNi4xMTMuMTYxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3YmU1ZmE4My04NGM0LTQxMDUtYThmNy1kODgwZjVkOTFhZmMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4NDQyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIE5MLTE3Ni4xMjYuMTEzLjE2MTo4NDQyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
@@ -603,3 +599,7 @@ vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@93.123.17.136:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.173:2053?security=tls&sni=joINMaHDiSERveR-6bp.pAgES.Dev&type=ws&host=jOinMAHdisERVER-6bP.PagES.Dev&path=%2FOZses1TcZtD8hKwG%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.173:2053
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@185.126.15.98:2456?security=tls&sni=xmlazaus2.hiiumaaisland.online&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-185.126.15.98:2456
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@104.21.12.212:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.212:2083
+vless://df77fe92-0fb3-45fa-bd2a-f42e1ee2be62@104.25.214.19:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.25.214.19:8080
+vless://2c2feeaf-a354-48d3-91b6-2af198e0941d@141.148.207.30:443?security=tls&flow=xtls-rprx-vision&sni=djdownloadin.xn--4gq62f52gopi49k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇮🇳 IN-141.148.207.30:443
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?security=tls&sni=xs.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.38:443
