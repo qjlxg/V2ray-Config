@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,27.0.236.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.246.56.0/22,🚀 节点选择,no-resolve
   - IP-CIDR,110.76.140.0/22,🚀 节点选择,no-resolve
   - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
   - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
@@ -603,3 +600,6 @@
   - DOMAIN-SUFFIX,baidupan.com,🎯 全球直连
   - DOMAIN-SUFFIX,baike.com,🎯 全球直连
   - DOMAIN-SUFFIX,biqudu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biquge.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bitauto.com,🎯 全球直连
+  - DOMAIN-SUFFIX,c-ctrip.com,🎯 全球直连
