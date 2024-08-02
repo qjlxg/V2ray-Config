@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.113:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.113:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.180:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.58.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.58.247:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.26.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.157:80
+vless://3108e0c0-2d4d-411f-b7cc-f1092b324216@178.239.157.164:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-178.239.157.164:8080
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.203.219:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.203.219:80
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.101:443?security=tls&sni=zdyo.linghang.buzz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.101:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.129.166:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.166:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.231:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.116.231:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.226.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.149:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.254.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.223:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.127.126:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.24.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.24.2:80
@@ -592,14 +603,3 @@ trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobs
 trojan://Watashi_VPN@104.17.147.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.42.19:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.19:2087
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.2:443
-trojan://auto@172.67.68.157:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.36:443
-trojan://telegram-id-privatevpns@13.60.141.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.141.14:22222
-trojan://REvil@172.66.44.171:443?sni=trauma.pages.dev&type=ws&host=trauma.pages.dev&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.66.44.171:443
-trojan://dba20dcb635e430fa4d3bfc303a149d2@162.159.129.17:80?security=none&type=ws&host=https.fa.wikipedia.org.xn--m39h.www.cdn.speedtest.net.e1.google.ru.zula.ir.1.1.1.xn--6bi8548mabeaana921b9b830dbbb0nn92a.tls.xn--mn8haaaaa252bbabbbb.xn--mn8haaaaa252bbabbbb.fake.xn--j9h1028mqmaoytii00aha21hfjrd.aparat.com.zula.ir.xn--g28h.dns-dynamic.net.&path=%2FTelegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.129.17:80
-trojan://telegram-id-privatevpns@18.197.253.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.197.253.103:22222
-trojan://865bc912-0b17-4bd1-b711-958d77232689@157.254.178.18:443?security=tls&sni=coal.zichuanlan.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-157.254.178.18:443
-trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.57:43118
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
-trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.222:443
