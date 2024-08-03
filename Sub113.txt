@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,203.104.128.0/19,🚀 节点选择,no-resolve
-  - DOMAIN-KEYWORD,1drv,🚀 节点选择
-  - DOMAIN-KEYWORD,onedrive,🚀 节点选择
-  - DOMAIN-KEYWORD,skydrive,🚀 节点选择
-  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
-  - DOMAIN-SUFFIX,oneclient.sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,onedrive.com,🚀 节点选择
   - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
   - DOMAIN-SUFFIX,photos.live.com,🚀 节点选择
   - DOMAIN-SUFFIX,skydrive.wns.windows.com,🚀 节点选择
@@ -603,3 +596,10 @@
   - DOMAIN-SUFFIX,cnblogs.com,🎯 全球直连
   - DOMAIN-SUFFIX,cnki.net,🎯 全球直连
   - DOMAIN-SUFFIX,cnmstl.net,🎯 全球直连
+  - DOMAIN-SUFFIX,coolapk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,coolapkmarket.com,🎯 全球直连
+  - DOMAIN-SUFFIX,csdn.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ctrip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dangdang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dfcfw.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dianping.com,🎯 全球直连
