@@ -3,6 +3,36 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2506,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "g9jx",
+      "mtu": 1280,
+      "fake_packets": "1-10"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "50-200",
+        "sleep": "5-15"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
       "tag": "block"
     }
   ],
@@ -565,41 +595,11 @@ trojan://telegram-id-directvpn@15.236.139.246:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@15.223.105.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 38
 trojan://telegram-id-directvpn@15.222.188.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 37
 trojan://telegram-id-directvpn@15.156.47.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 36
-trojan://telegram-id-directvpn@13.60.165.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 35
-trojan://telegram-id-directvpn@13.60.165.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 34
-trojan://telegram-id-directvpn@13.60.130.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
-trojan://telegram-id-directvpn@13.60.106.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 32
-trojan://telegram-id-directvpn@13.53.86.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
-trojan://telegram-id-directvpn@13.53.221.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 30
-trojan://telegram-id-directvpn@13.53.208.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
-trojan://telegram-id-directvpn@13.51.32.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
-trojan://telegram-id-directvpn@13.51.192.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 27
-trojan://telegram-id-directvpn@13.50.29.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 26
-trojan://telegram-id-directvpn@13.50.157.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 25
-trojan://telegram-id-directvpn@13.49.55.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 24
-trojan://telegram-id-directvpn@13.43.207.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 23
-trojan://telegram-id-directvpn@13.39.190.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 22
-trojan://telegram-id-directvpn@13.39.181.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 21
-trojan://telegram-id-directvpn@13.39.181.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 20
-trojan://telegram-id-directvpn@13.36.207.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 19
-trojan://telegram-id-directvpn@13.36.161.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 18
-trojan://telegram-id-directvpn@13.36.138.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 17
-trojan://tKadZAThEQ@188.245.59.155:57875?type=tcp&security=none#@vpnclashfa - 16
-trojan://tKadZAThEQ@188.245.59.155:57875?security=tls&headerType=none&type=tcp#@vpnclashfa - 15
-trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=tr1.mynode.work.gd#@vpnclashfa - 14
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#@vpnclashfa - 13
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@1sg04.170203.xyz:718?security=tls&headerType=none&type=tcp#@vpnclashfa - 12
-trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 11
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 10
-trojan://ZUbitpXFy8LK8mdWkU6Fvg@85.237.211.134:2083/?type=ws&security=tls&sni=c307a960c3f48cb0.gstatic.com#@vpnclashfa - 9
-trojan://Watashi_VPN@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@vpnclashfa - 8
-trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#@vpnclashfa - 7
-trojan://ImmWF6vjOb75qkrNcFOwrg@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#@vpnclashfa - 6
-trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?security=tls&sni=scarily.golfland.club&fp=chrome&type=tcp&headerType=none#@vpnclashfa - 5
-trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#@vpnclashfa - 4
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?security=tls&headerType=none&type=tcp&sni=jp03.156786.xyz#@vpnclashfa - 3
-trojan://2rKkSmjgP2@3.67.83.15:1935?security=tls&headerType=none&type=tcp&sni=x1germany.devefun.eu#@vpnclashfa - 2
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#@vpnclashfa - 1
-vmess://eyJhZGQiOiJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXMyZS0yMDI0MDExNi52MmZyZWV2cG4uY29tIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMyZWtqZHMzbmF5IiwicG9ydCI6IjgwIiwicHMiOiJAdnBuY2xhc2hmYSAtIDE1MVxuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXM0ZS0yMDI0MDExMS52MmZyZWV2cG4uY29tIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjE0OS1kc2tkczY1IiwicG9ydCI6IjgwIiwicHMiOiJAdnBuY2xhc2hmYSAtIDE1MFxuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicnViaWthLmlyLmdvb2dsZS5jb20ueG4tLWNyOGhhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLnhuLS1jcjhoYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEuYXBhcmF0LmNvbS52MnJheS5jb20uc2g4NDcuaXIueG4tLWNyOGhhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYS54bi0tZzI4aC5kbnMtZHluYW1pYy5uZXQuIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVGVsZWdyYW0vWFYycmF5IiwicG9ydCI6IjgwODAiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMTQ5XG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://telegram-id-directvpn@15.156.12.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 35
+trojan://telegram-id-directvpn@13.60.165.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 34
+trojan://telegram-id-directvpn@13.60.165.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
+trojan://telegram-id-directvpn@13.60.130.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 32
+trojan://telegram-id-directvpn@13.60.106.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
+trojan://telegram-id-directvpn@13.53.86.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 30
+trojan://telegram-id-directvpn@13.53.221.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
+trojan://telegram-id-directvpn@13.53.208.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
