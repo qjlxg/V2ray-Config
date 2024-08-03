@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,dcads.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dd.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dmp.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,game.weibo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,leju.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,log.mix.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,mobileads.dx.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,newspush.sinajs.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pay.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sax.mobile.sina.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sax.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,saxd.sina.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,🍃 应用净化
   - DOMAIN-SUFFIX,sdkapp.uve.weibo.com,🍃 应用净化
   - DOMAIN-SUFFIX,sdkclick.mobile.sina.cn,🍃 应用净化
   - DOMAIN-SUFFIX,slog.sina.com.cn,🍃 应用净化
@@ -603,3 +589,17 @@
   - DOMAIN-SUFFIX,apple.news,🍎 苹果服务
   - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
   - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,crashlytics.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
+  - DOMAIN-SUFFIX,itunes.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
+  - IP-CIDR,17.0.0.0/8,🍎 苹果服务,no-resolve
+  - IP-CIDR,63.92.224.0/19,🍎 苹果服务,no-resolve
+  - IP-CIDR,65.199.22.0/23,🍎 苹果服务,no-resolve
+  - IP-CIDR,139.178.128.0/18,🍎 苹果服务,no-resolve
+  - IP-CIDR,144.178.0.0/19,🍎 苹果服务,no-resolve
+  - IP-CIDR,144.178.36.0/22,🍎 苹果服务,no-resolve
+  - IP-CIDR,144.178.48.0/20,🍎 苹果服务,no-resolve
