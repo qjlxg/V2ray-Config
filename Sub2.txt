@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
   "logViewer": {
     "topMost": false,
     "wrapText": false,
@@ -598,8 +603,3 @@ vless://29f00915-4107-491d-ba71-c9328e845a43@190.93.247.155:80?encryption=none&t
 vless://ef3761cf-a11b-4719-bbaf-d2e374146812@172.67.209.221:2087?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-50&sni=blog.neper.xyz#283-%E7%BE%8E%E5%9B%BD_0803231828
 vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?encryption=none&type=ws&path=%40HAJIMAMADVPN%3Fed%3D2048&host=bia-channel-hajimamadvpn.timeclassic.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=bia-channel-hajimamadvpn.timeclassic.ir#284-%E7%BE%8E%E5%9B%BD_0803232797
 vless://9aaff036-05ad-4ba7-bea9-378412fd26a7@104.20.19.168:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=v2raylandd-87.upftsx.workers.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=v2raylandd-87.upftsx.workers.Dev#285-%E6%9C%AA%E7%9F%A5_0803236197
-vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-50&sni=gp.mrclothshop.fun#286-%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_080323013
-vless://14e5a805-79c1-4808-9495-9db7d63c1fb2@104.21.69.44:8880?encryption=none&type=httpupgrade&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.hoursebe.monster&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.hoursebe.monster#287-%E6%9C%AA%E7%9F%A5_080323671
-vless://78340383-60c4-459b-9b43-fd951add3800@185.148.105.52:80?encryption=none&type=ws&path=%2F&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&alpn=h3%2Ch2&fp=randomized&sni=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.#288-%E7%BE%8E%E5%9B%BD_0803232796
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:443?encryption=none&type=ws&path=%2Fyoutube-%E7%94%B1%25E9%259B%25B...&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=kk005.ylks.link#289-%E7%BE%8E%E5%9B%BD_0803232498
-vless://755711ef-3eb0-4ea5-bc72-ae1f263f29e1@104.17.148.22:2096?encryption=none&type=ws&path=%2Ftelegram-%40V2rayNG_City-----telegram-%40V2rayNG_City-----%40telegram-V2rayNG_City-----telegram-%40V2rayNG_City-----telegram-%40V2rayNG_City-----telegram-%40V2rayNG_City-----telegram-%40V2rayNG_City-----telegram-V2rayNG_City----9KsgRW1AnYtwZOVz&host=laj.iranianmobail.ir&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=laj.iranianmobail.ir#290-%E6%9C%AA%E7%9F%A5_0803231001
