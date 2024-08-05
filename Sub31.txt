@@ -3,6 +3,38 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://253e78fc-d3eb-454c-89e5-3268f76c6276@www.speedtest.net:8443?encryption=none&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&security=tls&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=grpc#RELAY🚩 | 01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech-8443 | 6.12ms
+vless://24a6ff52-e459-41ee-afb8-d771776ce08d@85.9.110.51:80?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷 | 85.9.110.51-80 | 176.85ms
+vless://2321a5f5-7437-4769-b3a7-dde7216e04ff@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=kony69.servernet.fun.&type=ws#RELAY🚩 | kony69.servernet.fun.-8080 | 5.88ms
+vless://20948265-ea02-416a-8ce4-3db7a80cc3f4@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#RELAY🚩 | dcc6.servernet.fun.-8080 | 6.23ms
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#RELAY🚩 | alecruiz.pages.dev-443 | 41.26ms
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@104.17.147.22:443?security=tls&sni=alecruiz.pages.dev&type=ws&host=alecruiz.pages.dev&path=%2FTelegram-proxy_mtm%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#RELAY🚩 | alecruiz.pages.dev-443 | 6.07ms
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@www.speedtest.net:443?path=%2Fparadise&security=tls&encryption=none&host=tymks.dfonni.info&type=ws&sni=tymks.dfonni.info#RELAY🚩 | tymks.dfonni.info-443 | 513.02ms
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2Ftelegram-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#RELAY🚩 | kingOfIRaN.Pages.DEV-443 | 49.64ms
+vless://19a418d4-5b19-47ea-9440-bee93095cb20@www.speedtest.net:8080?path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed&security=none&encryption=none&host=maznet---_-_---maznet.iMamhussaIn.sbs.&type=ws#RELAY🚩 | maznet---_-_---maznet.iMamhussaIn.sbs.-8080 | 6.35ms
+vless://188a6f86-29ee-485d-843b-9e12cccf3ef0@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#RELAY🚩 | dcc5.servernet.fun.-2095 | 6.33ms
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=TELEGRAM-%40V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#RELAY🚩 | bpb-worker-panel-h5f.pages.dev-443 | 39.03ms
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=%2FSiNABiGO_SiNABiGO_SiNABiGO-SiNABiGO_SiNABiGO_SiNABiGO-SiNABiGO_SiNABiGO_SiNABiGO-SiNABiGO_SiNABiGO_SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#RELAY🚩 | bpb-worker-panel-h5f.pages.dev-443 | 6.88ms
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=%2F%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#RELAY🚩 | bpb-worker-panel-h5f.pages.dev-443 | 6.04ms
+vless://13e706ae-0d80-45c2-8768-554ebf5d492d@172.67.193.108:443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&path=Join-Telegram-Channel-%40AstroVPN_official%2F#US🇺🇸 | no1.v2vless.xyz-443 | 36.37ms
+vless://13153e48-6e99-41c0-b81f-958467b2d07c@zula.ir:8080?path=%2F&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#RELAY🚩 | waded.narcoshop.ir.-8080 | 5.79ms
+vless://130e0f31-91cb-47f0-b58f-4ef9b21ead82@zula.ir:8080?path=%2F&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#RELAY🚩 | waded.narcoshop.ir.-8080 | 6.03ms
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?security=none&sni=sinaazizpor.wapgiz.workers.dev&type=ws#RELAY🚩 | sinaazizpor.wapgiz.workers.dev-8880 | 131.54ms
+vless://05a28ed9-13f6-4276-8f42-3a85fb17a9b1@104.18.5.2:2095?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Zone.xheykh.cOm.&type=ws#RELAY🚩 | Zone.xheykh.cOm.-2095 | 53.97ms
+vless://02605f30-2b41-4932-b4dc-3d4b4426049c@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#RELAY🚩 | dcc4.servernet.fun.-8080 | 6.22ms
+vless://018f11b1-e620-48f3-bd32-48bbeaaa68f5@95.164.68.37:8443?security=reality&sni=172.66.44.167&type=tcp&host=de1.x2fast.net&headerType=http&fp=chrome&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#REALITY|GI🇬🇮 | 95.164.68.37-8443 | 93.72ms
+vless://-ELiV2RAY-id-ELiV2RAY-@www.visa.com:8880?type=ws&path=%2FElenaTheGreatDicTaTor--Crypto.com%3Fed%3D8880&host=181.ELiV2.nEt.&security=none#RELAY🚩 | 181.ELiV2.nEt.-8880 | 53.82ms
+vless://253e78fc-d3eb-454c-89e5-3268f76c6276@www.speedtest.net:8443?encryption=none&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&security=tls&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=grpc#RELAY🚩 | 01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech-8443 | 5.77ms
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?encryption=none&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&security=tls&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#RELAY🚩 | 01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech-8443 | 5.79ms
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?encryption=none&sni=08.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&security=tls&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#RELAY🚩 | 08.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech-8443 | 210.91ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=ws&host=hidd2.afsharidempire.uk&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 144.32ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.afsharidempire.uk&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 99.39ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 86.35ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.afsharidempire.uk&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 93.75ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=hidd2.afsharidempire.uk&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 86.34ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 86.42ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=ws&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.sassanidempire.com-443 | 152.78ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 117.71ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.sassanidempire.com-443 | 114.3ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.sassanidempire.com-443 | 169.63ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 99.18ms
@@ -276,12 +308,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ae9c514e80dc577</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8aea1adfec71c595</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.200.199.163</span>
+      <span class="hidden" id="cf-footer-ip">20.186.67.174</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -370,12 +402,12 @@ trojan://3ea578c6-1eaa-4e15-bfe1-9f757b58e8f2@tj-hk.aikunapp.com:5100?allowInsec
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ae9c5150ab63b74</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8aea1ae00bc83932</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.200.199.163</span>
+      <span class="hidden" id="cf-footer-ip">20.186.67.174</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -571,35 +603,3 @@ vless://bcd9660c-6018-4fb2-e8ed-8fefb3c276a8@104.20.156.248:8443?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.174.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://c1087fe2-457d-366e-9d03-303133bf5b65@89.221.224.50:38860?security=tls&sni=is-gy.115cloud.link&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIzNy4xMjAuMTkzLjEwMiIsImFpZCI6IjY0IiwiaG9zdCI6IiIsImlkIjoiNTcxNzBmZjAtNzE4MC00NjY0LThmNjEtOGRlYmRkYTM0NWY3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjkyMCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxOTMuMjAzLjIwMy44OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyZWM4NjJhZi1iZDFjLTQ2ZjUtOTdhZi1iZmZiZTYxZTMxNjQiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiIyMDgyIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://f7d6d2d0-3d74-470e-8706-62fee6bff283@104.26.10.232:443?security=tls&sni=5646742256.goldeston.cfd&alpn=http/1.1,h2&type=grpc&serviceName=77313084&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:803#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:810#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:809#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=ce.rutracker-cn.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://d39e7f86-4fa1-4f80-b9e1-0e7178d3ae4c@185.231.205.43:443?security=reality&sni=foxrayiranchannel.com&fp=ios&pbk=bipoTqiHv7UfPnGOItOQ5_fyEQk4-asjTDvImoDUpRk&sid=95d2&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://7f5e1438-0c8f-46d2-baf4-7025c264532e@91.195.240.12:443?security=tls&sni=hkjs.stablize.top&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.141:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiI5NC4xMzEuMTQuMTc3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjJjNWZlZTEzLWYwOGItNGJhOC04NmRiLTI3ZGQ1MWNiOTc4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://81a22b78-3f31-45df-b2b9-702f56f71bd5@77.91.84.45:22?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=edaKSRy-jLqqq7IQzRWfiqrrT4VD8D-gLQjoZ05VKTg&sid=697a8acea036101f&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg==@8.210.231.146:1146#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://telegram-id-privatevpns@54.72.120.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=&type=tcp&headerType=http&host=&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://b3d8042a-b7d6-4c59-9c08-a5af1e35da38@37.27.5.58:8080?security=reality&sni=server-18667.prod.hosts.ooklaserver.net&fp=chrome&pbk=u49FhnzE8XRGRgMY_6sAxKPzbOmYMuRELcRPzZtnNh8&sid=9bb36487&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://a89c9199-0b1d-4470-f3ea-94725589deb8@104.18.202.232:80?security=&type=ws&path=/&host=GzfMVr.sPAMdEtEcTOr.WORLD&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@145.239.1.100:7306#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTEyOC1nY206SE9VeWk1MzA=@47.242.177.168:32259#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206clV4OG1xVXNJMA==@47.243.108.41:10841#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206R3hnd2dzRXFyTQ==@47.242.254.199:10625#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://75035d9c-d1df-4169-86d8-b65c1f697db4@104.21.3.52:443?security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://e30dbfd0-f15a-11ed-9080-1239d0255272@51.159.59.186:443?security=tls&sni=fr.test3.net&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZXJSaTY1SEdGVGg3NnNHZXNo@185.246.153.12:51348#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://4ef499ca-f784-4fef-8c76-afa530495644@162.159.130.234:2087?security=tls&sni=ShhProxyV2ray.digitalciity.Tech&type=ws&path=/&host=ShhProxyV2ray.digitalciity.Tech&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
