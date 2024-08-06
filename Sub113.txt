@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,emarbox.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,exosrv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,fancyapi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,feitian001.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,feixin2.com,🛑 全球拦截
   - DOMAIN-SUFFIX,flashtalking.com,🛑 全球拦截
   - DOMAIN-SUFFIX,fraudmetrix.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,g1.tagtic.cn,🛑 全球拦截
@@ -598,8 +603,3 @@
   - DOMAIN-SUFFIX,applogapi.autohome.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,c.autohome.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,cmx.autohome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dspmnt.autohome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pcd.autohome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,push.app.autohome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pvx.autohome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,rd.autohome.com.cn,🍃 应用净化
