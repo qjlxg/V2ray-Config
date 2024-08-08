@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&sni=krnode01.oportal.cc&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-52.231.36.138:443
-trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.194.170:8443
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@20.2.33.201:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.33.201:443
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.17:80?security=none&type=ws&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&path=%2Fus6#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.129.17:80
@@ -603,3 +601,5 @@ vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:2096?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.226:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.226:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.112.112:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.112.112:80
 vless://ea3ce414-1995-445f-83d7-ae7956ebde41@198.41.192.47:8080?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.192.47:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.233:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.228.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.105:80
