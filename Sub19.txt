@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.2.9:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.2.9:443
+trojan://moist@47.238.0.114:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇭🇰 HK-47.238.0.114:2096
+trojan://moist@47.236.158.158:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇸🇬 SG-47.236.158.158:2096
+trojan://M3lOal9RPR@146.56.171.71:30056?security=tls&sni=kkr100515a.go02.top#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.171.71:30056
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.137:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.137:2083
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
+trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:8443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.3.11:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.3.11:443
 trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
 trojan://10e904b6-8420-47dc-b76c-6d8f818944e9@172.232.236.174:443?security=tls&sni=web.whatsapp.net&type=tcp#🔒 TR-TCP-TLS 🇮🇩 ID-172.232.236.174:443
@@ -595,11 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.254:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.13:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.157.160:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.160:80
 vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-gb.brocdn.com&type=ws&host=cdn-gb.brocdn.com&path=/websocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.26.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.212.30:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.30:8080
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.217.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.217.114:80
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.189.219:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.170.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.170.125:80
-vless://51b48b68-dca3-4e47-bad1-f29df214ca21@172.66.47.42:2096?security=tls&sni=sd2.fitledge.ir&type=ws&host=sd2.fitledge.ir&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.42:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.242.202:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.242.202:80
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.195.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.195.1:80
