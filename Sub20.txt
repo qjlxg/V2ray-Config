@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
-trojan://2a706bc6-303d-4589-90b9-1779de85d081@210.87.202.56:443?#🔒 TR-TCP-NA 🇰🇷 KR-210.87.202.56:443
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443
-trojan://moist@47.238.0.114:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇭🇰 HK-47.238.0.114:2096
-trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.194.170:8443
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.148.22:80?security=none&type=ws#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
-trojan://Fvv4Bz926a@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn#🔒 TR-TCP-NA 🇨🇳 CN-42.236.73.72:443
 trojan://telegram-id-directvpn@18.135.244.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.135.244.130:22222
 trojan://lrdxw@172.67.197.210:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.210:443
 trojan://NISHIKUITAN222@8.219.0.48:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.0.48:8443
@@ -603,3 +595,11 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.121:443?security=tls&sni
 vless://0e5ee689-d40e-594e-9555-8ae7159c7bf7@104.21.87.187:2096?security=tls&sni=parmo.koyohi9973.wOrKErs.Dev&type=ws&host=parmo.koyohi9973.wOrKErs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.187:2096
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@104.18.30.6:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.30.6:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.159:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.159:443
+vless://93a23561-7665-4b2e-8824-85eed640d4de@104.18.22.19:80?security=none&type=ws&host=linood-fra.scriptboy.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.19:80
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.254.26:8443
+vless://d9a0b062-fb9d-4605-96e4-e7f2944e23e2@162.159.134.234:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:8080
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.29.106:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.29.106:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇹🇼 TW-61.220.41.143:36633
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.180.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.82:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.179.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.179.219:80
+vless://cc318fe0-3032-491d-9fe4-46b8b1401342@104.20.27.27:8443?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.27.27:8443
