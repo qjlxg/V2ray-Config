@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,yt.be,🌍 国外媒体
+  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
+#   - USER-AGENT,*YouTubeMusic*,🌍 国外媒体
+#   - USER-AGENT,*com.google.ios.youtubemusic*,🌍 国外媒体
 #   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
 #   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
   - DOMAIN,music.youtube.com,🌍 国外媒体
@@ -591,15 +603,3 @@
   - DOMAIN-SUFFIX,autonavi.com,🎯 全球直连
   - DOMAIN-SUFFIX,dingtalk.com,🎯 全球直连
   - DOMAIN-SUFFIX,ele.me,🎯 全球直连
-  - DOMAIN-SUFFIX,hichina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mmstat.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mxhichina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,soku.com,🎯 全球直连
-  - DOMAIN-SUFFIX,taobao.com,🎯 全球直连
-  - DOMAIN-SUFFIX,taobaocdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tbcache.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tbcdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
-  - DOMAIN-SUFFIX,ucweb.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
