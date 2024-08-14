@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.38.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.38.3:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.76.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.76.113:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.64.53:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.64.53:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.232.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.232.194:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.78.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.78.250:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.101.140:443?security=tls&sni=baipiao55.stunning-bassoon.pages.dev&type=ws&host=baipiao55.stunning-bassoon.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.101.140:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.134:443
@@ -603,3 +599,7 @@ trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.143.99:443?security=tls&sni
 trojan://UFKZr6IvK1@139.99.116.111:17686?security=tls&sni=sin.raspberryip.com&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🇸🇬 SG-139.99.116.111:17686
 trojan://auto@104.21.90.210:443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&host=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&path=%2Fabbas.ab841vpn.workers.dev%2F%3Fed%3D2560.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY.Telegram-%40ViP_FRAGMENT_V2RAY#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:443
 trojan://telegram-id-privatevpns@3.64.111.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.111.17:22222
+trojan://auto@172.66.44.249:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
+trojan://telegram-id-directvpn@35.176.238.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.238.211:22222
+trojan://Watashi_VPN@104.18.12.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
+trojan://KgrVcE92Pu@104.17.147.22:8443?sni=J0in-Telegram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.17.147.22:8443
