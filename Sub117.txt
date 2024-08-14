@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+# 使用模版：V2RaySE 默认模版
+# 节点数量：60
+####################################
+# !!当前配置文件请使用基于 Clash.Meta 内核程序
+mixed-port: 7890
+allow-lan: true
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enabled: true
+  listen: 0.0.0.0:1053
+  ipv6: true
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
     - '*.lan'
     - '*.linksys.com'
     - '*.linksyssmartwifi.com'
@@ -585,21 +603,3 @@ proxy-groups:
       - 201.58vtg99l.workers.dev_4
       - 备1_4
       - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
