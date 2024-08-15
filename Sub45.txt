@@ -3,30 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=VOkcnRNFk1GfvbwhkjdrG&mode=gun#d3%20tls%20grpc%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQzIHRscyBncnBjIGRpcmVjdCB2bWVzcyIsDQogICJhZGQiOiAiaGlkZDIuc2Fzc2FuaWRlbXBpcmUuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjE5YzgwY2U5LTA5MzUtNDFiOS1iMDc3LTI3NzYyMTMxNmE4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJndW4iLA0KICAiaG9zdCI6ICJoaWRkMi5zYXNzYW5pZGVtcGlyZS5jb20iLA0KICAicGF0aCI6ICJsaVV4VUdKVEdvUHZid2hramRyRyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoaWRkMi5zYXNzYW5pZGVtcGlyZS5jb20iLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
-tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:41087?sni=hidd2.sassanidempire.com&alpn=h3&congestion_control=cubic#d3%20TUIC
-hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:34007/?sni=hidd2.sassanidempire.com&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&insecure=0#d3%20Hysteria2
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#d4%20tls_h2%20WS%20direct%20vless
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s#d4%20tls_h2%20WS%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRsc19oMiBXUyBkaXJlY3Qgdm1lc3MiLA0KICAiYWRkIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxOWM4MGNlOS0wOTM1LTQxYjktYjA3Ny0yNzc2MjEzMTZhODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICIvbGlVeFVHSlRHb1BqZDA3dWk3M0xaZ3d4OHMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgImFscG4iOiAiaDIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXT7THAtMyBCv#d4%20tls_h2%20httpupgrade%20direct%20vless
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRsc19oMiBodHRwdXBncmFkZSBkaXJlY3Qgdm1lc3MiLA0KICAiYWRkIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxOWM4MGNlOS0wOTM1LTQxYjktYjA3Ny0yNzc2MjEzMTZhODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICIvbGlVeFVHSlRHb1A3VEhBdE15QkN2IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJhbHBuIjogImgyIiwNCiAgImZwIjogImNocm9tZSINCn0=
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#d4%20tls_h2%20grpc%20direct%20vless
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=VOkcnRNFk1GfvbwhkjdrG&mode=gun#d4%20tls_h2%20grpc%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRsc19oMiBncnBjIGRpcmVjdCB2bWVzcyIsDQogICJhZGQiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjE5YzgwY2U5LTA5MzUtNDFiOS1iMDc3LTI3NzYyMTMxNmE4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJndW4iLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICJsaVV4VUdKVEdvUHZid2hramRyRyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#d4%20tls%20WS%20direct%20vless
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s#d4%20tls%20WS%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRscyBXUyBkaXJlY3Qgdm1lc3MiLA0KICAiYWRkIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxOWM4MGNlOS0wOTM1LTQxYjktYjA3Ny0yNzc2MjEzMTZhODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICIvbGlVeFVHSlRHb1BqZDA3dWk3M0xaZ3d4OHMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXT7THAtMyBCv#d4%20tls%20httpupgrade%20direct%20vless
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRscyBodHRwdXBncmFkZSBkaXJlY3Qgdm1lc3MiLA0KICAiYWRkIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxOWM4MGNlOS0wOTM1LTQxYjktYjA3Ny0yNzc2MjEzMTZhODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICIvbGlVeFVHSlRHb1A3VEhBdE15QkN2IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImhpZGQyLnBhcnRoaWFuZW1waXJlLm9yZyIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogImNocm9tZSINCn0=
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#d4%20tls%20grpc%20direct%20vless
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=VOkcnRNFk1GfvbwhkjdrG&mode=gun#d4%20tls%20grpc%20direct%20trojan
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRscyBncnBjIGRpcmVjdCB2bWVzcyIsDQogICJhZGQiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjE5YzgwY2U5LTA5MzUtNDFiOS1iMDc3LTI3NzYyMTMxNmE4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJndW4iLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICJsaVV4VUdKVEdvUHZid2hramRyRyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
-tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:41088?sni=hidd2.parthianempire.org&alpn=h3&congestion_control=cubic#d4%20TUIC
-hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/?sni=hidd2.parthianempire.org&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&insecure=0#d4%20Hysteria2
-
-{
   "log": {
     "access": "",
     "error": "",
@@ -603,3 +579,27 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:809#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-581
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:810#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-573
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-097
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-575
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:803#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-576
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-108
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#%F0%9F%87%B0%F0%9F%87%BFKZ-213.156.137.67-090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%BA%F0%9F%87%B8US-40.172.39.144-266
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US-40.172.39.144-250
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-077
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%ADBH-15.184.90.97-258
+vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTQ4LjIyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXMtY2NzLnl1amkyMDIyLmV1Lm9yZyIsCiAgICAiaWQiOiAiNGI1ZTQ1NjUtMzIyZi00MjIzLWE4OTEtNzhhODRmMTg5NzI2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNy4xNDguMjItMDM5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-126
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-118
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%ADBH-15.184.90.97-252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-106
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-099
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ=@5.188.36.54:51348#%F0%9F%87%B9%F0%9F%87%B7TR-5.188.36.54-261
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-524
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-510
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:800#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-506
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-599
