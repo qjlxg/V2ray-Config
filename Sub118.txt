@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    - ntp3.*.com
     - ntp4.*.com
     - ntp5.*.com
     - ntp6.*.com
@@ -602,4 +603,3 @@ rules:
   - IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,224.0.0.0/4,🎯 全球直连,no-resolve
   - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
-  - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
