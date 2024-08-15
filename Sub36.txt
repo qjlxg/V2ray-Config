@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@13.50.185.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.185.150:22222
+trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-131.186.21.135:60954
+trojan://Watashi_VPN@104.17.147.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
+trojan://Watashi_VPN@104.18.13.229:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:8443
+trojan://telegram-id-privatevpns@3.64.111.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.111.17:22222
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.149.124:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@213.183.63.69:9031#🔒 SS-TCP-NA 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcm1ROWJTTElTTWhpQXNSc3lFSzR3@62.133.63.21:65262#🔒 SS-TCP-NA 🇹🇷 TR-62.133.63.21:65262
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VE5sZzN1V1VKRkJpSGxPa1JVQk92@5.42.75.106:30125#🔒 SS-TCP-NA 🇸🇪 SE-5.42.75.106:30125
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@139.162.80.75:39192#🔒 SS-TCP-NA 🇯🇵 JP-139.162.80.75:39192
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.28:3389
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50220#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50220
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50206#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50206
