@@ -3,6 +3,200 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
+  - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
+  - DOMAIN,instant.arubanetworks.com,🎯 全球直连
+  - DOMAIN,setmeup.arubanetworks.com,🎯 全球直连
+  - DOMAIN,router.asus.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hiwifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,leike.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,my.router,🎯 全球直连
+  - DOMAIN-SUFFIX,p.to,🎯 全球直连
+  - DOMAIN-SUFFIX,peiluyou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,phicomm.me,🎯 全球直连
+  - DOMAIN-SUFFIX,router.ctc,🎯 全球直连
+  - DOMAIN-SUFFIX,routerlogin.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zte.home,🎯 全球直连
+  - DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
+# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
+# 广告关键词
+# 广告联盟-国内****************
+# 广告联盟-国外****************
+# 垃圾站点****************
+# 运营商广告****************
+  - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
+  - DOMAIN-KEYWORD,admaster,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsage,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsensor,🛑 全球拦截
+  - DOMAIN-KEYWORD,adservice,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsmogo,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsrvmedia,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsserving,🛑 全球拦截
+  - DOMAIN-KEYWORD,adsystem,🛑 全球拦截
+  - DOMAIN-KEYWORD,adwords,🛑 全球拦截
+  - DOMAIN-KEYWORD,analysis,🛑 全球拦截
+  - DOMAIN-KEYWORD,applovin,🛑 全球拦截
+  - DOMAIN-KEYWORD,appsflyer,🛑 全球拦截
+  - DOMAIN-KEYWORD,domob,🛑 全球拦截
+  - DOMAIN-KEYWORD,duomeng,🛑 全球拦截
+  - DOMAIN-KEYWORD,dwtrack,🛑 全球拦截
+  - DOMAIN-KEYWORD,guanggao,🛑 全球拦截
+  - DOMAIN-KEYWORD,omgmta,🛑 全球拦截
+  - DOMAIN-KEYWORD,omniture,🛑 全球拦截
+  - DOMAIN-KEYWORD,openx,🛑 全球拦截
+  - DOMAIN-KEYWORD,partnerad,🛑 全球拦截
+  - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
+  - DOMAIN-KEYWORD,socdm,🛑 全球拦截
+  - DOMAIN-KEYWORD,supersonicads,🛑 全球拦截
+  - DOMAIN-KEYWORD,usage,🛑 全球拦截
+  - DOMAIN-KEYWORD,wlmonitor,🛑 全球拦截
+  - DOMAIN-KEYWORD,zjtoolbar,🛑 全球拦截
+  - DOMAIN-SUFFIX,09mk.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,100peng.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,114la.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,123juzi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,138lm.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,17un.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,2cnt.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,3gmimo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,3xx.vip,🛑 全球拦截
+  - DOMAIN-SUFFIX,51.la,🛑 全球拦截
+  - DOMAIN-SUFFIX,51taifu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,51yes.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,600ad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,6dad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,70e.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,86.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,8le8le.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,8ox.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,95558000.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,99click.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,99youmeng.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,a3p4.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,acs86.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,acxiom-online.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad-brix.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad-delivery.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad-locus.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad-plus.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad7.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adadapted.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adadvisor.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,adap.tv,🛑 全球拦截
+  - DOMAIN-SUFFIX,adbana.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adchina.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adcome.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ader.mobi,🛑 全球拦截
+  - DOMAIN-SUFFIX,adform.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,adfuture.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adhouyi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adinfuse.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adirects.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adjust.io,🛑 全球拦截
+  - DOMAIN-SUFFIX,adkmob.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adlive.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adlocus.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,admaji.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,admin6.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,admon.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adnyg.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adpolestar.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,adpro.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adpush.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adquan.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adreal.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ads8.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adsame.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adsmogo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adsmogo.org,🛑 全球拦截
+  - DOMAIN-SUFFIX,adsunflower.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adsunion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adtrk.me,🛑 全球拦截
+  - DOMAIN-SUFFIX,adups.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,aduu.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,advertising.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adview.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,advmob.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adwetec.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adwhirl.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adwo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adxmi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adyun.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,adzerk.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,agrant.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,agrantsem.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,aihaoduo.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ajapk.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,allyes.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,allyes.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,angsrvr.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,anquan.org,🛑 全球拦截
+  - DOMAIN-SUFFIX,anysdk.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,appads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,appboy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,appdriver.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,appjiagu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,applifier.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,appsflyer.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,atdmt.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,baifendian.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,banmamedia.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,baoyatu.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,baycode.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,bayimob.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,behe.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bfshan.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,biddingos.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,biddingx.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bjvvqu.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,bjxiaohua.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bloggerads.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,branch.io,🛑 全球拦截
+  - DOMAIN-SUFFIX,bsdev.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,bshare.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,btyou.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bugtags.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,buysellads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,c0563.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cacafly.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,casee.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,cdnmaster.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chance-ad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chanet.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,chartbeat.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chartboost.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chengadx.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,chmae.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickadu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicki.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,clicktracks.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,clickzs.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,cmcore.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnxad.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cnzzlink.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cocounion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coocaatv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cooguo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coolguang.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,coremetrics.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpmchina.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,cpx24.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,crasheye.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,crosschannel.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,customer-security.online,🛑 全球拦截
+  - DOMAIN-SUFFIX,daoyoudao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,datouniao.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ddapp.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianjoy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dianru.com,🛑 全球拦截
   - DOMAIN-SUFFIX,disqusads.com,🛑 全球拦截
   - DOMAIN-SUFFIX,domob.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,domob.com.cn,🛑 全球拦截
@@ -409,197 +603,3 @@
   - DOMAIN-SUFFIX,1kxun.mobi,🛑 全球拦截
   - DOMAIN-SUFFIX,26zsd.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,519397.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,626uc.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,915.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appget.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,appuu.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,coinhive.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,huodonghezi.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,vcbn65.xyz,🛑 全球拦截
-  - DOMAIN-SUFFIX,wanfeng1.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,wep016.top,🛑 全球拦截
-  - DOMAIN-SUFFIX,win-stock.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,zantainet.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,dh54wf.xyz,🛑 全球拦截
-  - DOMAIN-SUFFIX,g2q3e.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,114so.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,go.10086.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,hivedata.cc,🛑 全球拦截
-  - DOMAIN-SUFFIX,navi.gd.chinamobile.com,🛑 全球拦截
-# 包含常用应用的各种去广告规则。
-# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-# 163
-# 17173
-# 178
-# 2345
-# 360
-# 58
-# Alibaba
-# Adobe
-# Apple
-# AutoHome
-# Baidu
-# Book-app 起点 掌阅 书旗 宜搜
-# ByteDance 头条抖音
-# Dangdang
-# Duomi
-# Facebook
-# Fang
-# Google
-# JD
-# Kugou
-# Kuwo
-# Meizu flyme 魅族
-# Meitu
-# Miui 小米
-# Moji
-# Qingting.fm
-# QQ
-# RenRen
-# Sina
-# Sougou
-# Teleplus
-# Twitter
-# UC ali
-# Weifeng
-# WPS Office
-# Wi-Fi key
-# Ximalaya 喜马拉雅
-# Xunlei 迅雷app&看看
-# Yahoo
-# Zhihu
-# Ads in Video apps 下面都是 ********************
-# 6间房
-# Baofeng 暴风影音
-# Douyu
-# Fenghuang 凤凰TV
-# Funshion 风行
-# iqiyi PPS 爱奇艺
-# Ku6 酷6
-# LeTV 乐视
-# MGTV 芒果TV
-# Sohu 搜狐
-# PPTV、PPLive
-# QQ Live
-# Youku & Tudou
-# Youtube
-# Others ads in Video apps
-# Ads in Video apps end 上面都是 ********************
-# 常用网站广告
-  - DOMAIN-SUFFIX,a.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adgeo.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.126.net,🍃 应用净化
-  - DOMAIN-SUFFIX,bobo.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,c.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,clkservice.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,conv.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dsp-impr2.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dsp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fa.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,g.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,g1.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gb.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gorgon.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,haitaoad.nosdn.127.net,🍃 应用净化
-  - DOMAIN-SUFFIX,iadmatvideo.nosdn.127.net,🍃 应用净化
-  - DOMAIN-SUFFIX,img1.126.net,🍃 应用净化
-  - DOMAIN-SUFFIX,img2.126.net,🍃 应用净化
-  - DOMAIN-SUFFIX,ir.mail.126.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ir.mail.yeah.net,🍃 应用净化
-  - DOMAIN-SUFFIX,mimg.126.net,🍃 应用净化
-  - DOMAIN-SUFFIX,nc004x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,nc045x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,nex.corp.163.com,🍃 应用净化
-  - DOMAIN-SUFFIX,oimagea2.ydstatic.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pagechoice.net,🍃 应用净化
-  - DOMAIN-SUFFIX,prom.gome.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,qchannel0d.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,qt002x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,rlogs.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,static.flv.uuzuonline.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tb060x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tb104x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,union.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wanproxy.127.net,🍃 应用净化
-  - DOMAIN-SUFFIX,ydpushserver.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cvda.17173.com,🍃 应用净化
-  - DOMAIN-SUFFIX,imgapp.yeyou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log1.17173.com,🍃 应用净化
-  - DOMAIN-SUFFIX,s.17173cdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ue.yeyoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,vda.17173.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.wanmei.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gg.stargame.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dl.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,download.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,houtai.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,jifen.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,jifendownload.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,minipage.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,zhushou.2345.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,3600.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gamebox.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,jiagu.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,kuaikan.netmon.360safe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,leak.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,lianmeng.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pub.se.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,s.so.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,shouji.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,soft.data.weather.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.360safe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.m.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,update.360safe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.360.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,58.xgo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,brandshow.58.com,🍃 应用净化
-  - DOMAIN-SUFFIX,imp.xgo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,jing.58.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.xgo.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,track.58.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tracklog.58.com,🍃 应用净化
-  - DOMAIN-SUFFIX,acjs.aliyun.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adash-c.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adash-c.ut.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adashx4yt.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adashxgc.ut.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,afp.alicdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ai.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,alipaylog.com,🍃 应用净化
-  - DOMAIN-SUFFIX,atanx.alicdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,atanx2.alicdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fav.simba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,g.click.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,g.tbcdn.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,gma.alicdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gtmsdd.alicdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hydra.alibaba.com,🍃 应用净化
-  - DOMAIN-SUFFIX,m.simba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pindao.huoban.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,re.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,redirect.simba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,rj.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,sdkinit.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,show.re.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,simaba.m.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,simaba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,srd.simba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,strip.taobaocdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tns.simba.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tyh.taobao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,userimg.qunar.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yiliao.hupan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,3dns-2.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,3dns-3.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,activate-sea.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,activate-sjc0.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,activate.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adobe-dns-2.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adobe-dns-3.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adobe-dns.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ereg.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,geo2.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hl2rcv.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hlrcv.stage.adobe.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lm.licenses.adobe.com,🍃 应用净化
