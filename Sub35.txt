@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.118:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.118:80
-vless://758553c1-249c-55ff-81b0-aea66cb352be@190.93.247.119:443?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=%2Fvless%3Fed%3D8080#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.119:443
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.sha102.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.17:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.163.93:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.163.93:443
-vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.43:443
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.98:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.98:80
-vless://6b98729a-2d57-4915-b2a2-fe4026c9fbcf@5.202.12.194:4443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.12.194:4443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.249:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.21.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.48:80
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.76:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.76:2083
@@ -603,3 +596,10 @@ trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=av
 trojan://Watashi_VPN@104.17.147.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.3:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.3:443
 trojan://telegram-id-privatevpns@18.132.55.15:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.132.55.15:22222
+trojan://telegram-id-directvpn@15.157.145.197:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.145.197:22222
+trojan://Watashi_VPN@104.17.148.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
+trojan://ypDt8RkT7J@51.158.217.197:43118?security=tls&sni=riyyy.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.197:43118
+trojan://865bc912-0b17-4bd1-b711-958d77232689@157.254.178.18:443?security=tls&sni=coal.zichuanlan.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-157.254.178.18:443
+trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
+trojan://telegram-id-privatevpns@18.199.108.92:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.199.108.92:22222
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.9.55:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
