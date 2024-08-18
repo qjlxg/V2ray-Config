@@ -3,121 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
-#   - USER-AGENT,Niconico*,🌍 国外媒体
-  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
-  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
-#   - USER-AGENT,PBS*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
-#   - USER-AGENT,Pandora*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
-#   - USER-AGENT,SoundCloud*,🌍 国外媒体
-  - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
-  - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
-#   - USER-AGENT,Spotify*,🌍 国外媒体
-  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
-#   - USER-AGENT,TIDAL*,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidalhifi.com,🌍 国外媒体
-#   - USER-AGENT,TaiwanGood*,🌍 国外媒体
-  - DOMAIN,hamifans.emome.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,skyking.com.tw,🌍 国外媒体
-#   - USER-AGENT,TikTok*,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - DOMAIN-SUFFIX,byteoversea.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ibytedtos.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ipstatp.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,muscdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,musical.ly,🌍 国外媒体
-  - DOMAIN-SUFFIX,tik-tokapi.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktok.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,ttvnw,🌍 国外媒体
-  - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
-#   - USER-AGENT,Viu*,🌍 国外媒体
-  - PROCESS-NAME,com.viu.pad,🌍 国外媒体
-  - PROCESS-NAME,com.viu.phone,🌍 国外媒体
-  - PROCESS-NAME,com.vuclip.viu,🌍 国外媒体
-  - DOMAIN,api.viu.now.com,🌍 国外媒体
-  - DOMAIN,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.now.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.tv,🌍 国外媒体
-#   - USER-AGENT,*youtube*,🌍 国外媒体
-#   - USER-AGENT,YouTube*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtube*,🌍 国外媒体
-  - DOMAIN-KEYWORD,youtube,🌍 国外媒体
-  - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
-  - DOMAIN,yt3.ggpht.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,yt.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
-#   - USER-AGENT,*YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,*com.google.ios.youtubemusic*,🌍 国外媒体
-#   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
-  - DOMAIN,music.youtube.com,🌍 国外媒体
-# Telegram
-#PROCESS-NAME,Telegram.exe
-#PROCESS-NAME,org.telegram.messenger
-  - DOMAIN-SUFFIX,t.me,📲 电报信息
-  - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
-  - DOMAIN-SUFFIX,telegra.ph,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.me,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.org,📲 电报信息
-  - DOMAIN-SUFFIX,telesco.pe,📲 电报信息
-  - IP-CIDR,91.108.0.0/16,📲 电报信息,no-resolve
-  - IP-CIDR,109.239.140.0/24,📲 电报信息,no-resolve
-  - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
 # 长风网站，自动注入
   - DOMAIN-SUFFIX,v2rayse.com,🚀 节点选择
   - DOMAIN-SUFFIX,cff.pw,🚀 节点选择
@@ -603,3 +488,118 @@
 # Sohu Sogo
 # Sony
 # SteamCN
+# Tencent
+# Vip 唯品会
+# Ximalaya 喜马拉雅
+# Xunlei 迅雷
+# YYeTs 人人影视
+# Private Tracker
+# TeamViewer
+# Public Direct CDN 公共直连
+#DOMAIN-SUFFIX,ajax.aspnetcdn.com
+#DOMAIN-SUFFIX,ajax.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
+#DOMAIN-SUFFIX,code.jquery.com
+# AccelerateDirectSites
+  - DOMAIN-SUFFIX,13th.tech,🎯 全球直连
+  - DOMAIN-SUFFIX,423down.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chaipip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaplay.store,🎯 全球直连
+  - DOMAIN-SUFFIX,hrtsea.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kaikeba.com,🎯 全球直连
+  - DOMAIN-SUFFIX,laomo.me,🎯 全球直连
+  - DOMAIN-SUFFIX,mpyit.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftconnecttest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftncsi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qupu123.com,🎯 全球直连
+  - DOMAIN-SUFFIX,pdfwifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.biz,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cn,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--fiqs8s,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--55qx5d,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--io0a7i,🎯 全球直连
+  - DOMAIN-KEYWORD,365-213.com,🎯 全球直连
+  - DOMAIN-KEYWORD,365365304.com,🎯 全球直连
+  - DOMAIN-KEYWORD,-cn,🎯 全球直连
+  - DOMAIN-KEYWORD,360buy,🎯 全球直连
+  - DOMAIN-KEYWORD,alicdn,🎯 全球直连
+  - DOMAIN-KEYWORD,alimama,🎯 全球直连
+  - DOMAIN-KEYWORD,alipay,🎯 全球直连
+  - DOMAIN-KEYWORD,appzapp,🎯 全球直连
+  - DOMAIN-KEYWORD,baidupcs,🎯 全球直连
+  - DOMAIN-KEYWORD,bilibili,🎯 全球直连
+  - DOMAIN-KEYWORD,ccgslb,🎯 全球直连
+  - DOMAIN-KEYWORD,chinacache,🎯 全球直连
+  - DOMAIN-KEYWORD,duobao,🎯 全球直连
+  - DOMAIN-KEYWORD,jdpay,🎯 全球直连
+  - DOMAIN-KEYWORD,moke,🎯 全球直连
+  - DOMAIN-KEYWORD,qhimg,🎯 全球直连
+  - DOMAIN-KEYWORD,vpimg,🎯 全球直连
+  - DOMAIN-KEYWORD,xiami,🎯 全球直连
+  - DOMAIN-KEYWORD,xiaomi,🎯 全球直连
+  - DOMAIN-SUFFIX,360.com,🎯 全球直连
+  - DOMAIN-SUFFIX,360kuai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,360safe.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dhrest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhres.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhupdate.com,🎯 全球直连
+  - DOMAIN-SUFFIX,so.com,🎯 全球直连
+  - DOMAIN-SUFFIX,4399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,4399pk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,5054399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,img4399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,58.com,🎯 全球直连
+  - DOMAIN-SUFFIX,1688.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliapp.org,🎯 全球直连
+  - DOMAIN-SUFFIX,alibaba.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alibabacloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alibabausercontent.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicloudccp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliexpress.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alikunlun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alipay.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alipayobjects.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alisoft.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyuncdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyuncs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyundrive.com,🎯 全球直连
+  - DOMAIN-SUFFIX,amap.com,🎯 全球直连
+  - DOMAIN-SUFFIX,autonavi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dingtalk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ele.me,🎯 全球直连
+  - DOMAIN-SUFFIX,hichina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mmstat.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mxhichina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,soku.com,🎯 全球直连
+  - DOMAIN-SUFFIX,taobao.com,🎯 全球直连
+  - DOMAIN-SUFFIX,taobaocdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tbcache.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tbcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
+  - DOMAIN-SUFFIX,ucweb.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiami.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ykimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,youku.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidubcr.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidupcs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidustatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bcebos.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdurl.net,🎯 全球直连
+  - DOMAIN-SUFFIX,hao123.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hao123img.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jomodns.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 全球直连
+  - DOMAIN-SUFFIX,acg.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,acgvideo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,b23.tv,🎯 全球直连
