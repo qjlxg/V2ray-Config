@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@167.99.179.27:3389?encryption=auto&security=none&allowInsecure=1&fp=chrome&type=tcp&headerType=http&host=speedtest.tinkoff.ru#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20VM-TCP-NA%204%E2%83%A3
-vmess://04621bae-ab36-11ec-b909-0242ac120002@162.251.62.115:22324?encryption=auto&security=none&sni=162.251.62.115&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20VM-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.167:8119#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@167.99.179.27:3389?encryption=auto&security=none&allowInsecure=1&fp=chrome&type=tcp&headerType=http&host=google.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20VM-TCP-NA%204%E2%83%A3
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@38.91.106.227:443?encryption=auto&security=tls&sni=telegram.org&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=megaan.homes#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20VM-WS-TLS%204%E2%83%A3
@@ -603,3 +601,5 @@ vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@3.112.254.49:2086?allowInsecure=0&s
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@103.75.70.25:54310?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CJP_speednode_0282
 vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@103.232.213.26:57610?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15%7CJP_speednode_0283
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@115.88.75.154:30032?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/TG@ZDYZ2?ed=2560fp=random&security=tls#15%7CKR_speednode_0284
+vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@59.3.3.161:443?allowInsecure=0&sni=page-us-qg0.pages.dev&type=ws&host=page-us-qg0.pages.dev&path=/securityfp=chrome&security=tls#15%7CKR_speednode_0285
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@59.29.116.20:11965?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CKR_speednode_0286

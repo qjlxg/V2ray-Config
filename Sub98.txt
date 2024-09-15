@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@59.3.3.161:443?allowInsecure=0&sni=page-us-qg0.pages.dev&type=ws&host=page-us-qg0.pages.dev&path=/securityfp=chrome&security=tls#15%7CKR_speednode_0285
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@59.29.116.20:11965?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CKR_speednode_0286
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@59.30.19.182:10333?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CKR_speednode_0287
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@220.92.184.206:18080?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CKR_speednode_0288
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@222.103.193.226:18080?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15%7CKR_speednode_0289
@@ -603,3 +601,5 @@ dns:
     - joox.com
     - +.y.qq.com
     - +.music.tc.qq.com
+    - aqqmusic.tc.qq.com
+    - +.stream.qqmusic.qq.com
