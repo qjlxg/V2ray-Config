@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,r.l.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,s.p.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,sdk.m.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,stat.tudou.com,🍃 应用净化
+  - DOMAIN-SUFFIX,stat.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,stats.tudou.com,🍃 应用净化
+  - DOMAIN-SUFFIX,store.tv.api.3g.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,store.xl.api.3g.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,tdrec.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,test.ott.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,v.l.youku.com,🍃 应用净化
+  - DOMAIN-SUFFIX,val.api.youku.com,🍃 应用净化
   - DOMAIN-SUFFIX,wan.youku.com,🍃 应用净化
   - DOMAIN-SUFFIX,ykatr.youku.com,🍃 应用净化
   - DOMAIN-SUFFIX,ykrec.youku.com,🍃 应用净化
@@ -591,15 +603,3 @@
   - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
   - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
   - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
-#   - USER-AGENT,Niconico*,🌍 国外媒体
-  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
-  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
-#   - USER-AGENT,PBS*,🌍 国外媒体
