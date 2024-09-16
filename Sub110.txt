@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .footer {
+        display: flex;
+        justify-content: flex-end;
         align-items: baseline;
         gap: 5px;
         margin: 32px;
@@ -595,11 +603,3 @@ trojan://telegram-id-privatevpns@52.57.12.251:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.47.184.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 121
 trojan://telegram-id-privatevpns@52.29.134.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 120
 trojan://telegram-id-privatevpns@52.209.190.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 119
-trojan://telegram-id-privatevpns@52.17.177.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 118
-trojan://telegram-id-privatevpns@51.21.69.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 117
-trojan://telegram-id-privatevpns@51.21.68.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 116
-trojan://telegram-id-privatevpns@51.20.28.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 115
-trojan://telegram-id-privatevpns@51.20.14.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 114
-trojan://telegram-id-privatevpns@46.51.139.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 113
-trojan://telegram-id-privatevpns@46.137.79.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 112
-trojan://telegram-id-privatevpns@46.137.165.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 111
