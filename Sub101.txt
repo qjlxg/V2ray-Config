@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,g.koowo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,g.kuwo.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,kwmsg.kuwo.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,log.kuwo.cn,🍃 应用净化
   - DOMAIN-SUFFIX,mobilead.kuwo.cn,🍃 应用净化
   - DOMAIN-SUFFIX,msclick2.kuwo.cn,🍃 应用净化
   - DOMAIN-SUFFIX,msphoneclick.kuwo.cn,🍃 应用净化
@@ -599,7 +603,3 @@
   - DOMAIN-SUFFIX,mtalk.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,ocsp.pki.goog,🎯 全球直连
   - DOMAIN-SUFFIX,recaptcha.net,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,settings.crashlytics.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🎯 全球直连

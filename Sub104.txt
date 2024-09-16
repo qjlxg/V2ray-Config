@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,unrealengine.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dbankcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hc-cdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hicloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,huawei.com,🎯 全球直连
   - DOMAIN-SUFFIX,huaweicloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,huaweishop.net,🎯 全球直连
@@ -599,7 +603,3 @@
   - IP-CIDR,139.159.176.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,139.159.192.0/18,🎯 全球直连,no-resolve
   - IP-CIDR,159.138.0.0/18,🎯 全球直连,no-resolve
-  - IP-CIDR,159.138.64.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,159.138.79.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,159.138.80.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,159.138.96.0/20,🎯 全球直连,no-resolve
