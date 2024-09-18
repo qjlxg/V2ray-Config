@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "fRaG1.MaHSAamiNI.cc",
+          "alpn": [
+            "h2",
             "http/1.1"
           ],
           "fingerprint": "chrome",
@@ -425,7 +442,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8c503fc57c45e252 &bull; 2024-09-18 09:18:31 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8c5097307887cf65 &bull; 2024-09-18 10:18:11 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -450,12 +467,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c503fc57c45e252</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c5097307887cf65</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.89.131</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.36</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -586,20 +603,3 @@ vless://f32c843f-1c21-4c9a-d952-d3cf477ebac8@www.speedtest.net:2082?path=%2F%40s
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInVzMmUtMjAyNDAxMTYudjJmcmVldnBuLmNvbSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJhOGExMGZiLTljYTMtMzY3ZS1hMjM0LWNmMDlmODQxYmU0ZiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3VzMmVramRzM25heSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
 vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@zula.ir:2087?encryption=none&security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=random&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fc3afc49f.ab841-rcb.pages.dev%2F%3Fed%3D2048.@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).@AB_841(@BugFreeNet).#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083?encryption=none&security=tls&sni=id-falcunargo.sociy12386.workers.dev&fp=chrome&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F@V2raySeven@V2raySeven@V2raySeven@V2raySeven%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://a2b4d9d3-3773-4c39-9669-6e24bfc3b33b@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg66.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg66.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xNi42Ny4zOCIsICJwb3J0IjogIjg4ODAiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ5LW9sZC1tb2RlLTljMGRpYWIud2lyaXk3MzU0OC53b3JrZXJzLmRldiIsICJwYXRoIjogIi9vYmRpaS5jZmQvbGlua3dzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=`
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjEzIiwgImFpZCI6IDAsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwOTUiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=`
-vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==`
-vmess://eyJhZGQiOiAiMTcyLjY3LjExNi40OCIsICJhaWQiOiAiMCIsICJob3N0IjogIndhcC5ob3N0bWpqLmNvbSIsICJpZCI6ICIyMmExM2FhMi00ODU0LTQ0Y2ItZTA5MC1lYzcxYWI4NGIxZmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6IDIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
-vless://110184b3-37c8-4590-93ee-132cfb85c9c4@skk.moe:8880?encryption=none&security=none&type=ws&host=matin-sayad-poor-a7d3.jefalo5433.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xMzEuMTA4IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLCAicGF0aCI6ICIvbGluayIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xNi42Ny4zOCIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJhcmstcmVjaXBlLTM0MTAuc2loZWYyMzI5Ny53b3JrZXJzLmRldiIsICJwYXRoIjogIi9qYWhma2poYS5jZmQvbGlua3dzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.85:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://8a08a5ad-3cd3-4f8e-9190-6d5208945819@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg74.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg74.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?encryption=none&security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://690dbfb9-4ecb-4ef6-8c28-8c11d3da931c@104.19.54.50:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://690dbfb9-4ecb-4ef6-8c28-8c11d3da931c@172.66.213.38:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://690dbfb9-4ecb-4ef6-8c28-8c11d3da931c@104.17.88.212:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://690dbfb9-4ecb-4ef6-8c28-8c11d3da931c@203.32.121.53:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#👉🆔 @v2ray_configs_pool📡🇻🇬British Virgin Islands`
-vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.28.181:8080?encryption=none&security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-trojan://8ecdaae7-1334-59a0-91e3-cdb9f315626f@162.159.137.232:443/?type=ws&host=www.ocean12.WorkERs.dEv&path=trojan-ws%2F%3Fed%3D2048&security=tls&sni=www.ocean12.WorkERs.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android#%F0%9F%AA%8613%40oneclickvpnkeys
