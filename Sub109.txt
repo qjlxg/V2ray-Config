@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,47.240.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.244.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.246.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.250.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.252.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.0.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.240.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.248.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,72.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,103.38.56.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.52.76.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.206.40.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,110.76.21.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,110.76.23.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,112.125.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,116.251.64.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,119.38.208.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,119.38.224.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,119.42.224.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,139.95.0.0/16,🎯 全球直连,no-resolve
@@ -585,21 +603,3 @@ ss://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:443?security=tls&amp;enc
 ss://05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.newbackup.com#telegram
 ss://7bd66866-fbf4-4d10-a2cb-7188f37eaff7@speedtest.net:443?path=%2FTelegram%3A%40%55nlimitedDev-Telegram%3A%40%55nlimitedDev-Telegram%3A%40%55nlimitedDev%3Fed%3D8880&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40mehrosaboran
 ss://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=4.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.www.zula.ir.vu.cloudflare.com.mashtimJi.iR.&amp;type=ws#WS4-Irancell+%7C+%40ArV2ray
-ss://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.newbackup.com#telegram
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#@Hope_Net
-ss://telegram-id-ArV2ray@speedtest.net:443?encryption=none&amp;security=tls&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=dwojwh7.ir&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS7-ALL|@ArV2ray
-ss://8295c669-5ff6-4588-b628-29a37c80c756@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=barkatc12.ir&amp;type=ws&amp;sni=speedtest.net#WS-Config
-ss://d93bc0b4-864a-451a-9169-f31219268a0d@speedtest.net:443?security=tls&amp;sni=speedtest.net&amp;fp=firefox&amp;type=ws&amp;path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&amp;host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&amp;encryption=none#@UnlimitedDev
-ss://d381c71f-e8b6-478d-8f85-51f9a9fb623f@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.newbackup.com#telegram
-ss://3f50bea3-578c-4383-85c3-d96d0ff1833a@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=barkatc14.ir&amp;type=ws&amp;sni=speedtest.net#WS-Config
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.185:443?path=%2FH%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=en.mfa.gov.ir&amp;fp=randomized&amp;type=ws&amp;sni=en.mfa.gov.ir#%40V2ray1_Ng+ALL
-ss://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MTN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://43d4a2c2-996b-4910-a0fe-817fad873186@test3.vip-senior.info:40126/?encryption=none&amp;host=speedtest.net&amp;type=tcp&amp;headerType=http#@Hope_Net-join-us-on-Telegram
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.176:80?type=ws&amp;host=a.ssll.gay&amp;path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.66.219:443?security=tls&amp;sni=speedtest.net&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com&amp;path=%2F&amp;fp=chrome#@Hope_Net-join-us-on-Telegram
-ss://89eeb27d-1a8c-4d84-9ca4-75d614d19900@webshecan.webredirect.org:2083?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&amp;sni=www.theverge.com&amp;flow=xtls-rprx-vision&amp;sid=7f321171&amp;spx=%2F#%40Webshecan-mci2
-ss://7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@OVPN2
-ss://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=sewut8.ir&amp;type=ws#WS4-Irancell+%7C+%40ArV2ray
