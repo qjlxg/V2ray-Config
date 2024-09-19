@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#15%7CEE_speednode_0061
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chrome&security=tls#15%7CEE_speednode_0062
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chromefp=chromefp=chrome&security=tls#15%7CEE_speednode_0063
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.213:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#15%7CEE_speednode_0064
@@ -603,3 +602,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.212:80?security=&type=ws&
 mixed-port: 7890
 allow-lan: true
 log-level: info
+external-controller: 0.0.0.0:9090

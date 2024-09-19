@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - 901.dbodanwi.workers.dev_5
       - 302.j4tccyw7.workers.dev_5
       - 201.58vtg99l.workers.dev_5
       - 备1_5
@@ -603,3 +602,4 @@ rules:
   - DOMAIN-SUFFIX,revdepo.com,🛑 全球拦截
   - DOMAIN-SUFFIX,rubiconproject.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sape.ru,🛑 全球拦截
+  - DOMAIN-SUFFIX,scorecardresearch.com,🛑 全球拦截
