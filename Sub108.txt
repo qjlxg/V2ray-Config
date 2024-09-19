@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,huxiucdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,huya.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ifeng.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ifengimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,images-amazon.com,🎯 全球直连
-  - DOMAIN-SUFFIX,infzm.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ipip.net,🎯 全球直连
-  - DOMAIN-SUFFIX,it168.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ithome.com,🎯 全球直连
   - DOMAIN-SUFFIX,ixdzs.com,🎯 全球直连
   - DOMAIN-SUFFIX,jianguoyun.com,🎯 全球直连
   - DOMAIN-SUFFIX,jianshu.com,🎯 全球直连
@@ -603,3 +594,12 @@ vless://fef88096-2403-4c74-ae66-6bf2550d15cf@5.42.86.226:2087/?type=tcp&encrypti
 vless://a44f1c38-cd8e-46b3-8ff6-5f8b44bdc9a9@5.42.86.226:8880/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
 vless://3d32c031-4275-49ea-a399-7f58789f6605@5.42.86.226:10050/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
 vless://2d1da290-272e-486a-84ec-7e8f8a30971b@5.42.86.226:2085/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://35d0faf9-a86b-418b-96f1-ef7aedb374ff@5.42.86.226:2082/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eset.com&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://231226c1-a686-49f5-b978-3244c09a4c2e@5.42.86.226:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=taunusgaerten.com&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://f0fd9170-f57a-400f-b0a9-10b00356c288@5.42.86.226:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pantercon.net&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://3c6a1e97-4065-4ac2-abfd-093330a9db1f@5.42.86.226:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nachtzug.net&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://cbe912c7-c844-49b1-95ca-c669cde5626a@5.42.86.226:2086/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=gjU1nUloU0S2_dFGatoL9v17NxGUj0z9gZE-4jdvjCE&sid=ddfa75dbd4fb9247#t.me%2FConfig_Station
+vless://43bf16e7-5468-47e9-8fe7-f7f5b5724294@188.165.61.68:50972/?type=grpc&encryption=none&serviceName=%40asliveepn____%40asliveepn____%40asliveepn____%40asliveepn____%40asliveepn____%40asliveepn&sni=www.creativecommons.org&fp=firefox&security=reality&pbk=dF9Z5CTtdrTmJctnd6hDAZky9dp1p_MYVRe3UEE-hU8&sid=0c45f02a#t.me%2FConfig_Station
+vmess://eyJhZGQiOiJ0dXJraXllLnNpbml4Y2hpLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiJmOTI4MDk3Mi00NTQxLTRkNGUtOWU3NS0yNzM3OGJkNWNiYzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MTE5NSIsInBzIjoidC5tZS9Db25maWdfU3RhdGlvbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://ab07aa64-6ca1-46f5-a8d4-feece928900b@5.42.77.255:22/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ftp.debian.org&fp=chrome&security=reality&pbk=qkkRe20eA2QOB0ZZdsN_8i7Rv70qoxjPPCGFtK4Y0w0&sid=dfcbe217247ff449#t.me%2FConfig_Station
+vless://1a7078a8-8f03-4025-a530-776899e5e2fd@5.42.77.255:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=chrome&security=reality&pbk=qkkRe20eA2QOB0ZZdsN_8i7Rv70qoxjPPCGFtK4Y0w0&sid=dfcbe217247ff449#t.me%2FConfig_Station
