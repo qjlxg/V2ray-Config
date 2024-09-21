@@ -3,49 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,ads.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,aty.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,aty.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bd.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click2.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ctr.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,epro.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,epro.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,go.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,golden1.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,golden1.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hui.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lm.tv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lu.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pb.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.tv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,theta.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,um.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,uranus.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,uranus.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wl.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yule.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,afp.pplive.com,🍃 应用净化
-  - DOMAIN-SUFFIX,app.aplus.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,as.aplus.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,asimgs.pplive.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,de.as.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,jp.as.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pp2.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,btrace.video.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,c.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dp3.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,livep.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lives.l.qq.com,🍃 应用净化
   - DOMAIN-SUFFIX,livew.l.qq.com,🍃 应用净化
   - DOMAIN-SUFFIX,mcgi.v.qq.com,🍃 应用净化
   - DOMAIN-SUFFIX,mdevstat.qqlive.qq.com,🍃 应用净化
@@ -603,3 +560,46 @@
   - DOMAIN-SUFFIX,huluim.com,🌍 国外媒体
   - DOMAIN-SUFFIX,hulustream.com,🌍 国外媒体
   - DOMAIN-SUFFIX,happyon.jp,🌍 国外媒体
+  - DOMAIN-SUFFIX,hjholdings.jp,🌍 国外媒体
+  - DOMAIN-SUFFIX,hulu.jp,🌍 国外媒体
+  - DOMAIN-SUFFIX,prod.hjholdings.tv,🌍 国外媒体
+  - DOMAIN-SUFFIX,streaks.jp,🌍 国外媒体
+  - DOMAIN-SUFFIX,yb.uncn.jp,🌍 国外媒体
+#   - USER-AGENT,ITV_Player*,🌍 国外媒体
+  - DOMAIN,itvpnpmobile-a.akamaihd.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,itv.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,itvstatic.com,🌍 国外媒体
+#   - USER-AGENT,JOOX*,🌍 国外媒体
+#   - USER-AGENT,WeMusic*,🌍 国外媒体
+  - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
+  - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
+  - DOMAIN-KEYWORD,japonx,🌍 国外媒体
+  - DOMAIN-KEYWORD,japronx,🌍 国外媒体
+  - DOMAIN-SUFFIX,japonx.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,japonx.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,japonx.tv,🌍 国外媒体
+  - DOMAIN-SUFFIX,japonx.vip,🌍 国外媒体
+  - DOMAIN-SUFFIX,japronx.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,japronx.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,japronx.tv,🌍 国外媒体
+  - DOMAIN-SUFFIX,japronx.vip,🌍 国外媒体
+  - DOMAIN-SUFFIX,kfs.io,🌍 国外媒体
+  - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,kkbox.com.tw,🌍 国外媒体
+#   - USER-AGENT,KKTV*,🌍 国外媒体
+#   - USER-AGENT,com.kktv.ios.kktv*,🌍 国外媒体
+  - DOMAIN,kktv-theater.kk.stream,🌍 国外媒体
+  - DOMAIN,theater-kktv.cdn.hinet.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,kktv.com.tw,🌍 国外媒体
+  - DOMAIN-SUFFIX,kktv.me,🌍 国外媒体
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,litv.tv,🌍 国外媒体
+#   - USER-AGENT,LINE%20TV*,🌍 国外媒体
+#   - USER-AGENT,LINE*,🌍 国外媒体
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,linetv.tw,🌍 国外媒体
+  - DOMAIN-SUFFIX,profile.line-scdn.net,🌍 国外媒体
+#   - USER-AGENT,My5*,🌍 国外媒体
+  - DOMAIN,d349g9zuie06uo.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,channel5.com,🌍 国外媒体
