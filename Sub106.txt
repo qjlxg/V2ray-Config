@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
+#   - USER-AGENT,PBS*,🌍 国外媒体
+  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
+#   - USER-AGENT,Pandora*,🌍 国外媒体
+  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
+#   - USER-AGENT,SoundCloud*,🌍 国外媒体
   - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
   - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
@@ -592,14 +603,3 @@
 #DOMAIN-SUFFIX,code.jquery.com
 # AccelerateDirectSites
   - DOMAIN-SUFFIX,13th.tech,🎯 全球直连
-  - DOMAIN-SUFFIX,423down.com,🎯 全球直连
-  - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chaipip.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chinaplay.store,🎯 全球直连
-  - DOMAIN-SUFFIX,hrtsea.com,🎯 全球直连
-  - DOMAIN-SUFFIX,kaikeba.com,🎯 全球直连
-  - DOMAIN-SUFFIX,laomo.me,🎯 全球直连
-  - DOMAIN-SUFFIX,mpyit.com,🎯 全球直连
-  - DOMAIN-SUFFIX,msftconnecttest.com,🎯 全球直连
-  - DOMAIN-SUFFIX,msftncsi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qupu123.com,🎯 全球直连
