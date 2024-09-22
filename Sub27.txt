@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@161.81.234.137:23278/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@161.81.233.147:32378/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@114.34.202.224:10004/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@83.229.124.185:30002/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@155.248.178.58:80/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@220.135.37.112:81/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.163.37.32:81/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
@@ -603,3 +599,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TldJMU5XSmpPV1l5TldSa05EZGxZamxtTURNeFlUYzJ
       "server_port": 5956,
 
       "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
+      ],
+      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
