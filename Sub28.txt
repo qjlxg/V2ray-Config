@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      
-      "local_address": [
-          "172.16.0.2/32",
-          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
-      ],
-      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [205,184,52],  
 
       "mtu": 1120
@@ -122,7 +115,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8c7873d31aab2d21 &bull; 2024-09-23 06:24:33 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8c78bf9949b30a0d &bull; 2024-09-23 07:16:17 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -147,12 +140,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c7873d31aab2d21</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c78bf9949b30a0d</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.214.251</span>
+      <span class="hidden" id="cf-footer-ip">74.249.14.241</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +596,10 @@ vmess://ewogICAgImFkZCI6ICJqb2ludGhlcmVwdWJsaWMudGlueXRpbmF0aW50ZWQuaXIiLAogICAg
 vmess://ewogICAgImFkZCI6ICJuZXdzLnRoZTIuaXIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJUcmVlLkJsYW5rdS5NZSIsCiAgICAiaWQiOiAiM2VkOWFjNTMtY2UwMC00YWE1LTlmN2EtYTJlNmZhYjBlMTRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzczQ5NDA2IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNzUuMzQtMzc2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiUm9ja3AuQmxhbmt1Lk1lIgp9
 trojan://95b@154.17.22.35:50207?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com#%F0%9F%87%BA%F0%9F%87%B8US-154.17.22.35-079
 vmess://ewogICAgImFkZCI6ICJoNXY2Lmg1bmlsc2FjZW50ZXIyLmlyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiVHJlZS5CbGFua3UuTWUiLAogICAgImlkIjogIjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3M0OTQwNiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjgwLjEtMzc4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiUm9ja3AuQmxhbmt1Lk1lIgp9
+vmess://ewogICAgImFkZCI6ICJsb2dpbi50cmF2ZWxpbnRpbWUuaXIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJUcmVlLkJsYW5rdS5NZSIsCiAgICAiaWQiOiAiM2VkOWFjNTMtY2UwMC00YWE1LTlmN2EtYTJlNmZhYjBlMTRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzczQ5NDA2IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6bwn4e2Tk9XSEVSRS0wLjAuMC4wLTM3OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIlJvY2twLkJsYW5rdS5NZSIKfQ==
+vmess://ewogICAgImFkZCI6ICJpb25vcy5zaGFocnlhcjg0LmlyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiVHJlZS5CbGFua3UuTWUiLAogICAgImlkIjogIjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3M0OTQwNiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE3LjMyLTM4MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIlJvY2twLkJsYW5rdS5NZSIKfQ==
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNTQuNTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJUcmVlLkJsYW5rdS5NZSIsCiAgICAiaWQiOiAiM2VkOWFjNTMtY2UwMC00YWE1LTlmN2EtYTJlNmZhYjBlMTRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzczQ5NDA2IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuNTQuNTAtMzgxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiUm9ja3AuQmxhbmt1Lk1lIgp9
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuMjUwLjIwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiVHJlZS5CbGFua3UuTWUiLAogICAgImlkIjogIjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3M0OTQwNiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjI1MC4yMC0zODIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJSb2NrcC5CbGFua3UuTWUiCn0=
+vmess://ewogICAgImFkZCI6ICIxNjIuMTU5LjYyLjY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiVHJlZS5CbGFua3UuTWUiLAogICAgImlkIjogIjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3M0OTQwNiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTYyLjE1OS42Mi42OS0zODMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJSb2NrcC5CbGFua3UuTWUiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuMjE5LjIzMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIlRyZWUuQmxhbmt1Lk1lIiwKICAgICJpZCI6ICIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzNDk0MDYiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNi4yMTkuMjMwLTM4NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIlJvY2twLkJsYW5rdS5NZSIKfQ==
+vmess://ewogICAgImFkZCI6ICIxNjIuMjUxLjgyLjE4NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIlRyZWUuQmxhbmt1Lk1lIiwKICAgICJpZCI6ICIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzNDk0MDYiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE2Mi4yNTEuODIuMTg3LTM4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIlJvY2twLkJsYW5rdS5NZSIKfQ==
