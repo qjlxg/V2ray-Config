@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
   - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
   - DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
   - DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
@@ -602,4 +603,3 @@
   - DOMAIN-SUFFIX,bitauto.com,🎯 全球直连
   - DOMAIN-SUFFIX,c-ctrip.com,🎯 全球直连
   - DOMAIN-SUFFIX,camera360.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cdnmama.com,🎯 全球直连
