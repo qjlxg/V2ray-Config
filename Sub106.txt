@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
+#   - USER-AGENT,DAZN*,🌍 国外媒体
+  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,dazn-api.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,dazn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,dazndn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,indazn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,indaznlab.com,🌍 国外媒体
@@ -594,12 +603,3 @@
   - IP-CIDR,1.201.0.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,27.0.236.0/22,🚀 节点选择,no-resolve
   - IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.246.56.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,110.76.140.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
-  - DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
-  - DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line.me,🚀 节点选择
-  - DOMAIN-SUFFIX,line.naver.jp,🚀 节点选择
