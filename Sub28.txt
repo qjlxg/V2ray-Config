@@ -3,6 +3,41 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
+
+{"dns":{"independent_cache":true,"rules":[{"domain":["dns.google"],"server":"dns-direct"}],"servers":[{"address":"https://dns.google/dns-query","address_resolver":"dns-direct","strategy":"ipv4_only","tag":"dns-remote"},{"address":"local","address_resolver":"dns-local","detour":"direct","strategy":"ipv4_only","tag":"dns-direct"},{"address":"local","detour":"direct","tag":"dns-local"},{"address":"rcode://success","tag":"dns-block"}]},"inbounds":[{"listen":"127.0.0.1","listen_port":6450,"override_address":"8.8.8.8","override_port":53,"tag":"dns-in","type":"direct"},{"domain_strategy":"","endpoint_independent_nat":true,"inet4_address":["172.19.0.1/28"],"mtu":9000,"sniff":true,"sniff_override_destination":false,"stack":"mixed","tag":"tun-in","auto_route":true,"type":"tun"},{"domain_strategy":"","listen":"127.0.0.1","listen_port":2080,"sniff":true,"sniff_override_destination":false,"tag":"mixed-in","type":"mixed"}],"log":{"level":"warning"},"outbounds":[{"method":"chacha20-ietf-poly1305","password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"127.0.0.1","server_port":1080,"type":"shadowsocks","udp_over_tcp":true,"domain_strategy":"","tag":"proxy","detour":"shadowtls"},{"password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"hys10.afsharidempire.uk","server_port":443,"tls":{"enabled":true,"insecure":false,"server_name":"www.google.com","utls":{"enabled":true,"fingerprint":"chrome"}},"version":3,"type":"shadowtls","domain_strategy":"","tag":"shadowtls"},{"tag":"direct","type":"direct"},{"tag":"bypass","type":"direct"},{"tag":"block","type":"block"},{"tag":"dns-out","type":"dns"}],"route":{"auto_detect_interface":true,"rule_set":[],"rules":[{"outbound":"dns-out","port":[53]},{"inbound":["dns-in"],"outbound":"dns-out"},{"ip_cidr":["224.0.0.0/3","ff00::/8"],"outbound":"block","source_ip_cidr":["224.0.0.0/3","ff00::/8"]}]}}
+
+{"dns":{"independent_cache":true,"rules":[{"domain":["dns.google"],"server":"dns-direct"}],"servers":[{"address":"https://dns.google/dns-query","address_resolver":"dns-direct","strategy":"ipv4_only","tag":"dns-remote"},{"address":"local","address_resolver":"dns-local","detour":"direct","strategy":"ipv4_only","tag":"dns-direct"},{"address":"local","detour":"direct","tag":"dns-local"},{"address":"rcode://success","tag":"dns-block"}]},"inbounds":[{"listen":"127.0.0.1","listen_port":6450,"override_address":"8.8.8.8","override_port":53,"tag":"dns-in","type":"direct"},{"domain_strategy":"","endpoint_independent_nat":true,"inet4_address":["172.19.0.1/28"],"mtu":9000,"sniff":true,"sniff_override_destination":false,"stack":"mixed","tag":"tun-in","auto_route":true,"type":"tun"},{"domain_strategy":"","listen":"127.0.0.1","listen_port":2080,"sniff":true,"sniff_override_destination":false,"tag":"mixed-in","type":"mixed"}],"log":{"level":"warning"},"outbounds":[{"method":"chacha20-ietf-poly1305","password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"127.0.0.1","server_port":1080,"type":"shadowsocks","udp_over_tcp":true,"domain_strategy":"","tag":"proxy","detour":"shadowtls"},{"password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"2001:19f0:6c01:29bc:5400:4ff:fef3:f15d","server_port":443,"tls":{"enabled":true,"insecure":false,"server_name":"www.google.com","utls":{"enabled":true,"fingerprint":"chrome"}},"version":3,"type":"shadowtls","domain_strategy":"","tag":"shadowtls"},{"tag":"direct","type":"direct"},{"tag":"bypass","type":"direct"},{"tag":"block","type":"block"},{"tag":"dns-out","type":"dns"}],"route":{"auto_detect_interface":true,"rule_set":[],"rules":[{"outbound":"dns-out","port":[53]},{"inbound":["dns-in"],"outbound":"dns-out"},{"ip_cidr":["224.0.0.0/3","ff00::/8"],"outbound":"block","source_ip_cidr":["224.0.0.0/3","ff00::/8"]}]}}
+
+
+{
+  "outbounds": 
+  [
+    {
+      "type": "wireguard",
+      "tag": "Warp-IR2",
+      "server": "188.114.99.186",
+      "server_port": 5956,
+
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
+      ],
+      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [19,45,7],
+
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main2",
       "detour": "Warp-IR2",
       "server": "188.114.99.186",
       "server_port": 5956,
@@ -323,7 +358,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8c7f753b7aa75866 &bull; 2024-09-24 02:48:51 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8c7fa5c13b47820c &bull; 2024-09-24 03:21:59 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -348,12 +383,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c7f753b7aa75866</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8c7fa5c13b47820c</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.14.163</span>
+      <span class="hidden" id="cf-footer-ip">20.161.78.13</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -568,38 +603,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-278
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.66:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-238
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-262
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-281
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-245
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-640
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-220
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-260
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-280
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-243
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-266
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.95-283
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-636
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-215
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-222
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-217
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-209
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-643
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-254
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-609
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-275
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-538
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:445#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-240
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-546
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-618
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.95:5498#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.95-229
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-208
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-600
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#%F0%9F%87%AC%F0%9F%87%A7GB-51.68.206.229-542
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-635
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-255
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-637
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-548
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-296
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-549
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-233
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-276
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-615
