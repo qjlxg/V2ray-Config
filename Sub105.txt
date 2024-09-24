@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,223.87.182.101/32,🍃 应用净化,no-resolve
+  - IP-CIDR,223.87.182.102/32,🍃 应用净化,no-resolve
+  - IP-CIDR,223.87.182.11/32,🍃 应用净化,no-resolve
+  - IP-CIDR,223.87.182.52/32,🍃 应用净化,no-resolve
+  - DOMAIN-SUFFIX,azabu-u.ac.jp,🍃 应用净化
+  - DOMAIN-SUFFIX,couchcoaster.jp,🍃 应用净化
+  - DOMAIN-SUFFIX,delivery.dmkt-sp.jp,🍃 应用净化
+  - DOMAIN-SUFFIX,ehg-youtube.hitbox.com,🍃 应用净化
+  - DOMAIN-SUFFIX,nichibenren.or.jp,🍃 应用净化
+  - DOMAIN-SUFFIX,nicorette.co.kr,🍃 应用净化
+  - DOMAIN-SUFFIX,ssl-youtube.2cnt.net,🍃 应用净化
+  - DOMAIN-SUFFIX,youtube.112.2o7.net,🍃 应用净化
+  - DOMAIN-SUFFIX,youtube.2cnt.net,🍃 应用净化
+  - DOMAIN-SUFFIX,acsystem.wasu.tv,🍃 应用净化
+  - DOMAIN-SUFFIX,ads.cdn.tvb.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ads.wasu.tv,🍃 应用净化
+  - DOMAIN-SUFFIX,afp.wasu.tv,🍃 应用净化
+  - DOMAIN-SUFFIX,c.algovid.com,🍃 应用净化
+  - DOMAIN-SUFFIX,gg.jtertp.com,🍃 应用净化
   - DOMAIN-SUFFIX,gridsum-vd.cntv.cn,🍃 应用净化
   - DOMAIN-SUFFIX,kwflvcdn.000dn.com,🍃 应用净化
   - DOMAIN-SUFFIX,logstat.t.sfht.com,🍃 应用净化
@@ -584,22 +603,3 @@
   - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
 #   - USER-AGENT,Spotify*,🌍 国外媒体
   - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
-#   - USER-AGENT,TIDAL*,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidalhifi.com,🌍 国外媒体
-#   - USER-AGENT,TaiwanGood*,🌍 国外媒体
-  - DOMAIN,hamifans.emome.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,skyking.com.tw,🌍 国外媒体
-#   - USER-AGENT,TikTok*,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - DOMAIN-SUFFIX,byteoversea.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ibytedtos.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ipstatp.com,🌍 国外媒体
