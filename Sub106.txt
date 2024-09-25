@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,ykatr.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrec.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrectab.youku.com,🍃 应用净化
-  - IP-CIDR,117.177.248.17/32,🍃 应用净化,no-resolve
-  - IP-CIDR,117.177.248.41/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.176.139/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.176.176/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.180/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.182/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.184/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.43/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.47/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.80/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.182.101/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.182.102/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.182.11/32,🍃 应用净化,no-resolve
@@ -603,3 +590,16 @@
   - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
 #   - USER-AGENT,PBS*,🌍 国外媒体
   - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
+#   - USER-AGENT,Pandora*,🌍 国外媒体
+  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
+#   - USER-AGENT,SoundCloud*,🌍 国外媒体
+  - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
+  - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
+#   - USER-AGENT,Spotify*,🌍 国外媒体
+  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
