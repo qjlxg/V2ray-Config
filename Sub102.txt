@@ -3,6 +3,37 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - 901.dbodanwi.workers.dev_1
+      - 302.j4tccyw7.workers.dev_1
+      - 201.58vtg99l.workers.dev_1
+      - 备1_1
+      - 备2_1
+      - 201.myhmyhhuang1980.workers.dev_1
+      - feng1_1
+      - feng2_1
+      - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
+      - 备1_2
+      - 备2_2
+      - 201.myhmyhhuang1980.workers.dev_2
+      - feng1_2
+      - feng2_2
+      - feng3_2
+      - feng4_2
+      - feng5_2
+      - feng6_2
+      - 901.dbodanwi.workers.dev_3
+      - 302.j4tccyw7.workers.dev_3
       - 201.58vtg99l.workers.dev_3
       - 备1_3
       - 备2_3
@@ -572,34 +603,3 @@ rules:
   - DOMAIN-SUFFIX,adpush.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,adquan.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adreal.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,ads8.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsame.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsmogo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsmogo.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsunflower.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsunion.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adtrk.me,🛑 全球拦截
-  - DOMAIN-SUFFIX,adups.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,aduu.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,advertising.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adview.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,advmob.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwetec.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwhirl.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adwo.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adxmi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adyun.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adzerk.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,agrant.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,agrantsem.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,aihaoduo.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,ajapk.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,allyes.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,allyes.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,angsrvr.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,anquan.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,anysdk.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,appads.com,🛑 全球拦截
