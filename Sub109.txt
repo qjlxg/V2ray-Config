@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,45.127.128.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.195.24.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,45.253.132.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.253.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.254.48.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,59.111.0.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,59.111.128.0/17,🎯 全球直连,no-resolve
   - IP-CIDR,103.71.120.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,103.71.128.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,103.71.196.0/22,🎯 全球直连,no-resolve
@@ -596,10 +603,3 @@ ss://4f13392c-d746-47a5-89e3-3d196deba8ca@sport.k6n.ir:443?path=Join%3A%40oPeTa_
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=all1.svgspeedtest.net&amp;type=ws#%40Vpnmasi-ir9eu53j
 ss://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Aredigehamine251.ir&amp;fp=chrome&amp;type=ws&amp;sni=Speedtest.net#%40nofiltering2+all
-ss://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=v5ehst.net&amp;type=ws#WS8-Irancell+%7C+%40v2ray_swhil
-ss://2d6c7be7-a5c6-5da6-afa2-d3f5e59281dd@190.93.247.115:80?path=%2Fhttpupgrade&amp;security=none&amp;encryption=none&amp;host=Fi1.vless.site.&amp;type=httpupgrade#%40hopev2ray%F0%9F%92%9A
-ss://a687b7f8-53c7-486f-836f-8b10cc5e4d22@germany7---join.outline-vpn.fun:8443/?type=grpc&amp;encryption=none&amp;sni=expat.com&amp;fp=chrome&amp;security=reality&amp;pbk=DbDzIsSo-6GqjfoqsG6lC-XnvIIXR2ALc78tT0wjt0o&amp;sid=231d6598#@Capital_NET
-ss://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.102.154:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;type=ws#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://a154bae2-9b48-430b-85b9-2dbe5203c536@104.18.218.118:8443?path=%2FTelegram%2CVPN%43%55%53TOMIZE%2CTelegram%2CVPN%43%55%53TOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPN%43%55%53%54OMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPN%43%55%53TOMIZE.usa.speedtest.net.Naziitness.com#%40mehrosaboran
-ss://9e0af40e-b2c6-4634-a79a-1554efd60093@iTV2RAY.ddns.net:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=fKCqvEzVLiU1zAkzclsSQAJZCbHQoLhpu-RKnpMZgnk&amp;fp=chrome&amp;spx=%2FiTV2RAY&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=www.speedtest.net&amp;sid=767543c7#%40iTV2RAY+%2F+All+oprator+%2FAndroid
-ss://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=dm.XsV2ray.cfd#%40

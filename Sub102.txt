@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  ipv6: true
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
     - '*.lan'
     - '*.linksys.com'
     - '*.linksyssmartwifi.com'
@@ -596,10 +603,3 @@ proxy-groups:
       - 302.j4tccyw7.workers.dev_5
       - 201.58vtg99l.workers.dev_5
       - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
