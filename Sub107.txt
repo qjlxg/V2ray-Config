@@ -3,44 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,sway.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,trafficmanager.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,uservoice.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,virtualearth.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,visualstudio.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows-ppe.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windowsazure.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windowsupdate.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
-# Apple
-# 一般国内Apple肯定正常,不需要开代理
-  - DOMAIN,apple.comscoreresearch.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,akadns.net,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple-mapkit.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.co,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.news,🍎 苹果服务
-  - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,crashlytics.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
-  - DOMAIN-SUFFIX,itunes.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
-  - IP-CIDR,17.0.0.0/8,🍎 苹果服务,no-resolve
-  - IP-CIDR,63.92.224.0/19,🍎 苹果服务,no-resolve
-  - IP-CIDR,65.199.22.0/23,🍎 苹果服务,no-resolve
-  - IP-CIDR,139.178.128.0/18,🍎 苹果服务,no-resolve
-  - IP-CIDR,144.178.0.0/19,🍎 苹果服务,no-resolve
   - IP-CIDR,144.178.36.0/22,🍎 苹果服务,no-resolve
   - IP-CIDR,144.178.48.0/20,🍎 苹果服务,no-resolve
   - IP-CIDR,192.35.50.0/24,🍎 苹果服务,no-resolve
@@ -603,3 +565,41 @@
   - DOMAIN-SUFFIX,periscope.tv,🚀 节点选择
   - DOMAIN-SUFFIX,pinimg.com,🚀 节点选择
   - DOMAIN-SUFFIX,pinterest.com,🚀 节点选择
+  - DOMAIN-SUFFIX,potato.im,🚀 节点选择
+  - DOMAIN-SUFFIX,prfct.co,🚀 节点选择
+  - DOMAIN-SUFFIX,pscp.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,quora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
+  - DOMAIN-SUFFIX,shadowsocks.org,🚀 节点选择
+  - DOMAIN-SUFFIX,slack-edge.com,🚀 节点选择
+  - DOMAIN-SUFFIX,smartdnsproxy.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sndcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,soundcloud.com,🚀 节点选择
+  - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
+  - DOMAIN-SUFFIX,staticflickr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symauth.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symcb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symcd.com,🚀 节点选择
+  - DOMAIN-SUFFIX,textnow.com,🚀 节点选择
+  - DOMAIN-SUFFIX,textnow.me,🚀 节点选择
+  - DOMAIN-SUFFIX,thefacebook.com,🚀 节点选择
+  - DOMAIN-SUFFIX,thepiratebay.org,🚀 节点选择
+  - DOMAIN-SUFFIX,torproject.org,🚀 节点选择
+  - DOMAIN-SUFFIX,trustasiassl.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tumblr.co,🚀 节点选择
+  - DOMAIN-SUFFIX,tumblr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tvb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,txmblr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,v2ex.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vine.co,🚀 节点选择
+  - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
+  - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
+  - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
+  - IP-CIDR,13.32.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,13.35.0.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,18.184.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,18.208.0.0/13,🚀 节点选择,no-resolve
