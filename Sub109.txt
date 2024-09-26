@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,iqiyipic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ppsimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qiyi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qiyipic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qy.net,🎯 全球直连
-  - DOMAIN-SUFFIX,360buy.com,🎯 全球直连
-  - DOMAIN-SUFFIX,360buyimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jcloudcs.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jd.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jd.hk,🎯 全球直连
   - DOMAIN-SUFFIX,jdcloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,jdpay.com,🎯 全球直连
   - DOMAIN-SUFFIX,paipai.com,🎯 全球直连
@@ -603,3 +593,13 @@
   - IP-CIDR,197.210.163.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,197.252.1.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,197.252.2.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.4.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,197.252.8.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.52.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.54.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.57.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.0.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.4.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.8.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.11.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.13.0/24,🎯 全球直连,no-resolve
