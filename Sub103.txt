@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.36.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=/&host=mmdv2.pages.dev&encryption=none#%F0%9F%86%94FreakConfig%20%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:110#t.me/ConfigsHub
+vless://714ed5d4-d07e-459b-80cc-a65945b5ce63@shop.snappfoodi.com.:8081?security=reality&sni=Discord.com&fp=firefox&pbk=YsIMwJCi1GWR2wb36LFtuUJDKjPiI-py0ApJL-8Wdhk&sid=b7d1d4fed44b8223&spx=/?ed%3D80&type=tcp&encryption=none#[%F0%9F%87%A9%F0%9F%87%AA]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNjIuMTU5LjEuOTQiLCJhaWQiOiIwIiwiaG9zdCI6ImdyZWVuLW1vcm5pbmctY2UxOS5tZWhkaXBvc3Q2Njcud29ya2Vycy5kZXYiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5kZTA2LmluZGlhdmlkZW8uc2JzL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkYnwn4aUIEB2MnJheV9jb25maWdzX3Bvb2wiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3JlZW4tbW9ybmluZy1jZTE5Lm1laGRpcG9zdDY2Ny53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.111.184:443#t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&alpn=h2,http/1.1&fp=randomized&type=ws&path=/Telegram-@V2ray_Alpha/?ed%3D2560&host=BbF9c21a.TecHNETbpB.paGEs.dEv&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#[%F0%9F%87%A7%F0%9F%87%AD]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&path=/6b777a91&host=sherasheba.com#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
@@ -598,8 +603,3 @@ proxy-groups:
       - feng6_5
   - name: Ⓜ️ 微软服务
     type: select
-    proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
