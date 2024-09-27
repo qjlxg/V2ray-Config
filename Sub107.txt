@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,1.win7china.com,🍃 应用净化
-  - DOMAIN-SUFFIX,168.it168.com,🍃 应用净化
-  - DOMAIN-SUFFIX,2.win7china.com,🍃 应用净化
-  - DOMAIN-SUFFIX,801.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,801.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,803.tianya.cn,🍃 应用净化
   - DOMAIN-SUFFIX,803.tianyaui.cn,🍃 应用净化
   - DOMAIN-SUFFIX,806.tianya.cn,🍃 应用净化
   - DOMAIN-SUFFIX,806.tianyaui.cn,🍃 应用净化
@@ -603,3 +597,9 @@
   - DOMAIN-KEYWORD,ttvnw,🌍 国外媒体
   - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
   - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,🌍 国外媒体
+  - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
+  - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
+#   - USER-AGENT,Viu*,🌍 国外媒体
+  - PROCESS-NAME,com.viu.pad,🌍 国外媒体
