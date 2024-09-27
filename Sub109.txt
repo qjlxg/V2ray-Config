@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,kaikeba.com,🎯 全球直连
-  - DOMAIN-SUFFIX,laomo.me,🎯 全球直连
-  - DOMAIN-SUFFIX,mpyit.com,🎯 全球直连
-  - DOMAIN-SUFFIX,msftconnecttest.com,🎯 全球直连
-  - DOMAIN-SUFFIX,msftncsi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qupu123.com,🎯 全球直连
-  - DOMAIN-SUFFIX,pdfwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhenguanyu.biz,🎯 全球直连
-  - DOMAIN-SUFFIX,zhenguanyu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cn,🎯 全球直连
-  - DOMAIN-SUFFIX,xn--fiqs8s,🎯 全球直连
-  - DOMAIN-SUFFIX,xn--55qx5d,🎯 全球直连
-  - DOMAIN-SUFFIX,xn--io0a7i,🎯 全球直连
-  - DOMAIN-KEYWORD,365-213.com,🎯 全球直连
-  - DOMAIN-KEYWORD,365365304.com,🎯 全球直连
-  - DOMAIN-KEYWORD,-cn,🎯 全球直连
-  - DOMAIN-KEYWORD,360buy,🎯 全球直连
-  - DOMAIN-KEYWORD,alicdn,🎯 全球直连
-  - DOMAIN-KEYWORD,alimama,🎯 全球直连
-  - DOMAIN-KEYWORD,alipay,🎯 全球直连
-  - DOMAIN-KEYWORD,appzapp,🎯 全球直连
-  - DOMAIN-KEYWORD,baidupcs,🎯 全球直连
-  - DOMAIN-KEYWORD,bilibili,🎯 全球直连
-  - DOMAIN-KEYWORD,ccgslb,🎯 全球直连
-  - DOMAIN-KEYWORD,chinacache,🎯 全球直连
-  - DOMAIN-KEYWORD,duobao,🎯 全球直连
   - DOMAIN-KEYWORD,jdpay,🎯 全球直连
   - DOMAIN-KEYWORD,moke,🎯 全球直连
   - DOMAIN-KEYWORD,qhimg,🎯 全球直连
@@ -603,3 +577,29 @@
   - DOMAIN-SUFFIX,xueqiu.com,🎯 全球直连
   - DOMAIN-SUFFIX,yach.me,🎯 全球直连
   - DOMAIN-SUFFIX,yeepay.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yhd.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yihaodianimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yinxiang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yinyuetai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yixia.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ys168.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yuewen.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yy.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yystatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zealer.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhangzishi.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,zhanqi.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,zhaopin.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhihu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhongsou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
+# 中国云服务商ip端
+# 阿里
+# 腾讯 qq
+# 百度 Baidu
+# 华为 huwei
+# 网易 NetEase
+# 360
+  - IP-CIDR,8.128.0.0/10,🎯 全球直连,no-resolve
+  - IP-CIDR,8.208.0.0/12,🎯 全球直连,no-resolve
