@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,tkweb.baidu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tob-cms.bj.bcebos.com,🍃 应用净化
-  - DOMAIN-SUFFIX,toolbar.baidu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tracker.baidu.com,🍃 应用净化
   - DOMAIN-SUFFIX,tuijian.baidu.com,🍃 应用净化
   - DOMAIN-SUFFIX,tuisong.baidu.cn,🍃 应用净化
   - DOMAIN-SUFFIX,tuisong.baidu.com,🍃 应用净化
@@ -603,3 +599,7 @@
   - IP-CIDR,223.87.177.80/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.182.101/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.182.102/32,🍃 应用净化,no-resolve
+  - IP-CIDR,223.87.182.11/32,🍃 应用净化,no-resolve
+  - IP-CIDR,223.87.182.52/32,🍃 应用净化,no-resolve
+  - DOMAIN-SUFFIX,azabu-u.ac.jp,🍃 应用净化
+  - DOMAIN-SUFFIX,couchcoaster.jp,🍃 应用净化

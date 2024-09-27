@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJhZGQiOiIxNzIuNjYuMjEzLjMyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQ4MDRmMTRiLWMxZjgtNDUyZC1hNmVjLWVmZjE0OTBhZWFjOSIsIm5ldCI6ImdycGMiLCJwYXRoIjoibFJrR0NrWVM5WDVHRnpvWm9hdm4ya21KIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiaGRmeTZjMi5mcmVlYWlybGFpbmVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[%F0%9F%87%A6%F0%9F%87%AA]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImhvc3QiOiJydWJpa2EuaXIuZ29vZ2xlLmNvbS54bi0tY3I4aGFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEueG4tLWNyOGhhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYS5hcGFzcGVlZHRlc3QubmV0cmF0LmNvbS5ldS5jb20uc2RlMTAzLmlyLnhuLS1jcjhoYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEueG4tLWcyOGguZG5zLWR5bmFtaWMubmV0LiIsImlkIjoiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwibmV0Ijoid3MiLCJwYXRoIjoiL1QsRSxMLEUsRyxSLEEsTSxYLFYsMixSLEEsWSIsInBvcnQiOiI4MCIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:8080?security=&type=ws&path=/&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%20131ms
 vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlNIzp7Qr1ZJTuKEouKaoO+4jyDwnZen8J2XqfCdl5bhtIThtI/JtOqcsMmqyaIg4bSNyarJtOG0h8qAIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.8.215:8080?security=&type=ws&path=/?ed%3D2048&host=shuige3.cbj2bxt6.workers.dev&encryption=none#%F0%9F%86%94DeamNet_Proxy%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
@@ -603,3 +599,7 @@ proxy-groups:
       - 201.58vtg99l.workers.dev_1
       - 备1_1
       - 备2_1
+      - 201.myhmyhhuang1980.workers.dev_1
+      - feng1_1
+      - feng2_1
+      - feng3_1

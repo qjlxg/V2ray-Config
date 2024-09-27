@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
 #   - USER-AGENT,TIDAL*,🌍 国外媒体
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
@@ -603,3 +599,7 @@
   - DOMAIN-SUFFIX,xn--fiqs8s,🎯 全球直连
   - DOMAIN-SUFFIX,xn--55qx5d,🎯 全球直连
   - DOMAIN-SUFFIX,xn--io0a7i,🎯 全球直连
+  - DOMAIN-KEYWORD,365-213.com,🎯 全球直连
+  - DOMAIN-KEYWORD,365365304.com,🎯 全球直连
+  - DOMAIN-KEYWORD,-cn,🎯 全球直连
+  - DOMAIN-KEYWORD,360buy,🎯 全球直连
