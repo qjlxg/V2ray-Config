@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
+  - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
+  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
+  - DOMAIN,netflix.com.edgesuite.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,fast.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
@@ -594,12 +603,3 @@
 # 中国国内常见域名关键词直连
 # 360
 # 4399
-# 58
-# Alibaba
-# Baidu
-# Bilibili
-# Blizzard
-# ByteDance
-# CCTV
-# ChinaNet
-# DiDi
