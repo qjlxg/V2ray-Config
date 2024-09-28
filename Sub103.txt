@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - name: 🍃 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -598,8 +603,3 @@ rules:
   - DOMAIN-SUFFIX,eyereturn.com,🛑 全球拦截
   - DOMAIN-SUFFIX,fastapi.net,🛑 全球拦截
   - DOMAIN-SUFFIX,fastclick.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fastclick.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,flurry.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,gosquared.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,gtags.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,heyzap.com,🛑 全球拦截
