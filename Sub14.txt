@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
+trojan://telegram-id-directvpn@35.181.208.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.208.210:22222
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
 trojan://tg-dns68@162.159.152.82:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.82:443
 trojan://telegram-id-privatevpns@16.16.226.104:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.226.104:22222
@@ -601,5 +603,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.84:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.44.121:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.44.121:443
 vless://cb35f3d4-923e-4131-a886-1119dd90bcbf@104.23.103.47:80?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-kanal-telegram-proxy_mtm-telegram-proxy_mtm-proxy_mtm%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.23.103.47:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.172:443?security=tls&sni=mAhDIserVeR-8kQ.paGEs.deV&type=ws&host=mahdISErveR-8KQ.pAgeS.dEV&path=%2FmYGi6YLmmjRHOlpo%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:443
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.35:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.35:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.197.165:2083?security=tls&sni=MAhdiSeRVER-6aQ.pAgES.dEv&type=ws&host=MAhDIsERVEr-6Aq.pAges.dev&path=%2FVxTy8CsSHIKrewtJ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.197.165:2083
