@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://8ceda463-5162-4b65-b998-6d0a3ee87cfa@172.66.47.150:443?security=tls&sni=ntsafe.pages.dev&type=ws&host=ntsafe.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.150:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.6.95:2053?security=tls&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&type=ws&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&path=%2FTSBgGkLqaxnignSz%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.95:2053
-vless://97b11ee6-a62a-4e60-839c-de974a155089@209.46.30.55:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-209.46.30.55:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.15:443?security=tls&sni=hq.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.15:443
-vless://50ffa980-f8d9-4dc9-b8e1-4f923360b177@104.19.54.50:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.NTHerspeedtest.net.&path=%2Fwww.Speedtest.net%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:80
-vless://04bef300-74b8-5311-b875-a5df3d121a7a@45.149.12.115:80?security=none&type=ws&host=www.iranserever.com.k%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B00.%E6%88%BF%E9%96%93.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.115:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.204.150:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.185:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.185:443
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2096?security=tls&sni=folani.iiipok.WoRKeRS.DEv&type=ws&host=folani.iiipok.WoRKeRS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2096
 vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.197.20:80?type=ws&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.197.20:80
@@ -603,3 +596,10 @@ trojan://tg-dns68@172.66.47.128:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://telegram-id-privatevpns@13.39.145.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.145.50:22222
 trojan://telegram-id-directvpn@18.224.12.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.224.12.143:22222
+trojan://tg-dns68@162.159.153.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.192:443
+trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@104.16.201.94:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.16.201.94:443
+trojan://tg-dns68@162.159.152.209:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.209:443
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
+trojan://e8105dfd24414268b6c7652c63731097@198.41.202.5:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.202.5:443
+trojan://8bcddf84-79dd-45a0-b699-82089521faf6@104.22.13.192:443?security=tls&sni=users.darkvipshop.ir&type=grpc&serviceName=Nc7Q3KECggFLJS5e2Gnq3Uxd5#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.22.13.192:443
+trojan://auto@104.18.12.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
