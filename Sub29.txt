@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    {
-      "tag": "block",
-      "protocol": "blackhole",
-      "settings": {
-        "response": {
-          "type": "http"
-        }
-      }
-    }
-  ],
-  "routing": {
-    "domainStrategy": "AsIs",
-    "rules": [
-      {
-        "type": "field",
-        "inboundTag": [
           "api"
         ],
         "outboundTag": "api",
@@ -383,7 +367,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8caf55cdec3fcfe1 &bull; 2024-09-29 22:16:00 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8cafaed1ece5face &bull; 2024-09-29 23:16:47 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -408,12 +392,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8caf55cdec3fcfe1</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8cafaed1ece5face</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.234.40.26</span>
+      <span class="hidden" id="cf-footer-ip">13.88.170.241</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +587,19 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.56:5500#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.56-240
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.117-233
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.63:5001#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.63-257
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-275
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.46-752
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.117-746
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.117-229
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#%F0%9F%87%BA%F0%9F%87%B8US-142.202.49.84-756
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.230:2376#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.230-718
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.115:8091#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.115-722
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.16-740
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-282
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.39:9101#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.39-711
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.154:5500#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.154-753
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-262
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-266
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-252
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-270
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.46:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.46-726
