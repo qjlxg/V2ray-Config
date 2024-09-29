@@ -3,34 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-
-rules:
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-# 本地/局域网地址
-# Router managed 路由器管理域名
-  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
-  - DOMAIN-SUFFIX,lan,🎯 全球直连
-  - DOMAIN-SUFFIX,local,🎯 全球直连
-  - DOMAIN-SUFFIX,localhost,🎯 全球直连
-  - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
-  - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
-  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,224.0.0.0/4,🎯 全球直连,no-resolve
-  - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
-  - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
   - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
   - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
   - DOMAIN,instant.arubanetworks.com,🎯 全球直连
@@ -603,3 +575,31 @@ rules:
   - DOMAIN-SUFFIX,sharethis.com,🛑 全球拦截
   - DOMAIN-SUFFIX,smaato.com,🛑 全球拦截
   - DOMAIN-SUFFIX,smaato.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,smartadserver.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,smartnews-ads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,startapp.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,startappexchange.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,statcounter.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,steelhousemedia.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,stickyadstv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,supersonic.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,taboola.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tapjoy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,tapjoyads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficjunky.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,trafficjunky.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,tribalfusion.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,turn.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,uberads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,vidoomy.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,viglink.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,voicefive.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wedolook.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,yadro.ru,🛑 全球拦截
+  - DOMAIN-SUFFIX,yengo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,zedo.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,zemanta.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,11h5.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,1kxun.mobi,🛑 全球拦截
+  - DOMAIN-SUFFIX,26zsd.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,519397.com,🛑 全球拦截
