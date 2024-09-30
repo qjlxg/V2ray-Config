@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,clientservices.googleapis.com,🎯 全球直连
+  - DOMAIN-SUFFIX,crl.pki.goog,🎯 全球直连
+  - DOMAIN-SUFFIX,dl.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,fonts.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,googletagmanager.com,🎯 全球直连
@@ -599,7 +603,3 @@
   - DOMAIN-SUFFIX,twdvd.com,🚀 节点选择
   - DOMAIN-SUFFIX,unsplash.com,🚀 节点选择
   - DOMAIN-SUFFIX,eu,🚀 节点选择
-  - DOMAIN-SUFFIX,hk,🚀 节点选择
-  - DOMAIN-SUFFIX,jp,🚀 节点选择
-  - DOMAIN-SUFFIX,kr,🚀 节点选择
-  - DOMAIN-SUFFIX,sg,🚀 节点选择
