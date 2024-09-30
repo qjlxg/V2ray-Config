@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://trojan@104.21.3.52:443?security=tls&sni=speedtest.org&path=%2F%3Fed%3D2560&alpn=h2&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.3.52:443
+trojan://tg-dns68@162.159.153.237:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.237:443
+trojan://tg-dns68@162.159.152.132:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.132:443
+trojan://tg-dns68@162.159.153.177:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.177:443
 trojan://tg-dns68@162.159.152.120:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.120:443
 trojan://A98XMiF6NA@38.59.241.39:10000?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-38.59.241.39:10000
 trojan://tg-dns68@162.159.153.197:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.197:443
@@ -599,7 +603,3 @@ vless://370293a9-2757-4425-cfc0-d487035c26d6@162.159.153.2:2082?security=none&ty
 vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.66.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.24.31.103:443?security=tls&sni=vfarid.xcdi.wOrKErs.deV&type=ws&host=vfarid.xcdi.wOrKErs.deV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.31.103:443
 vless://35caec98-86de-4f38-a011-eb7e134446c7@104.21.92.185:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%2FX2nrNV7R1e_TTqGK%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.185:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.3:80?security=tls&sni=xp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.3:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
-vless://15c2491a-01d2-4d36-b4c4-7095682368cd@104.17.227.60:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhVhQEtbuL9Nwd&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.227.60:443
