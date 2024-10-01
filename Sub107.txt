@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,cloudpush.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cm.passport.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cupid.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gamecenter.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ifacelog.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mbdlog.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,meta.video.qiyi.com,🍃 应用净化
   - DOMAIN-SUFFIX,msg.71.am,🍃 应用净化
   - DOMAIN-SUFFIX,msg1.video.qiyi.com,🍃 应用净化
   - DOMAIN-SUFFIX,msg2.video.qiyi.com,🍃 应用净化
@@ -603,3 +595,11 @@
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🌍 国外媒体
   - DOMAIN-SUFFIX,js-agent.newrelic.com,🌍 国外媒体
 #   - USER-AGENT,encoreTVB*,🌍 国外媒体
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net,🌍 国外媒体
+  - DOMAIN,content.jwplatform.com,🌍 国外媒体
+  - DOMAIN,edge.api.brightcove.com,🌍 国外媒体
+  - DOMAIN,videos-f.jwpsrv.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,encoretvb.com,🌍 国外媒体
+#   - USER-AGENT,FOX%20NOW*,🌍 国外媒体
+  - DOMAIN-SUFFIX,fox.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,foxdcg.com,🌍 国外媒体
