@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    - stun.*.*.*
+    - '*.mcdn.bilivideo.cn'
+  nameserver:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  fallback-filter:
+    geoip: false
+    ipcidr:
       - 240.0.0.0/4
       - 0.0.0.0/32
 
@@ -595,11 +603,3 @@ rules:
   - DOMAIN-KEYWORD,adsmogo,🛑 全球拦截
   - DOMAIN-KEYWORD,adsrvmedia,🛑 全球拦截
   - DOMAIN-KEYWORD,adsserving,🛑 全球拦截
-  - DOMAIN-KEYWORD,adsystem,🛑 全球拦截
-  - DOMAIN-KEYWORD,adwords,🛑 全球拦截
-  - DOMAIN-KEYWORD,analysis,🛑 全球拦截
-  - DOMAIN-KEYWORD,applovin,🛑 全球拦截
-  - DOMAIN-KEYWORD,appsflyer,🛑 全球拦截
-  - DOMAIN-KEYWORD,domob,🛑 全球拦截
-  - DOMAIN-KEYWORD,duomeng,🛑 全球拦截
-  - DOMAIN-KEYWORD,dwtrack,🛑 全球拦截

@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,windows.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,windows.net,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,windowsazure.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,windowsupdate.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
+# Apple
 # 一般国内Apple肯定正常,不需要开代理
   - DOMAIN,apple.comscoreresearch.com,🍎 苹果服务
   - DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
@@ -595,11 +603,3 @@
   - DOMAIN-SUFFIX,quora.com,🚀 节点选择
   - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
   - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,shadowsocks.org,🚀 节点选择
-  - DOMAIN-SUFFIX,slack-edge.com,🚀 节点选择
-  - DOMAIN-SUFFIX,smartdnsproxy.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sndcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,soundcloud.com,🚀 节点选择
-  - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
-  - DOMAIN-SUFFIX,staticflickr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symauth.com,🚀 节点选择
