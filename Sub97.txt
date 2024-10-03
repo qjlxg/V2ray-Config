@@ -3,6 +3,41 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,info.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,ios-informationplatform.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,minfo.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,mo.res.wpscdn.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,news.docer.com,🍃 应用净化
+  - DOMAIN-SUFFIX,notify.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,pc.uf.ksosoft.com,🍃 应用净化
+  - DOMAIN-SUFFIX,pcfg.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,pixiu.shangshufang.ksosoft.com,🍃 应用净化
+  - DOMAIN-SUFFIX,push.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,rating6.kingsoft-office-service.com,🍃 应用净化
+  - DOMAIN-SUFFIX,up.wps.kingsoft.com,🍃 应用净化
+  - DOMAIN-SUFFIX,wpsweb-dc.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,c.51y5.net,🍃 应用净化
+  - DOMAIN-SUFFIX,cdsget.51y5.net,🍃 应用净化
+  - DOMAIN-SUFFIX,news-imgpb.51y5.net,🍃 应用净化
+  - DOMAIN-SUFFIX,wifiapidd.51y5.net,🍃 应用净化
+  - DOMAIN-SUFFIX,wkanc.51y5.net,🍃 应用净化
+  - DOMAIN-SUFFIX,adse.ximalaya.com,🍃 应用净化
+  - DOMAIN-SUFFIX,linkeye.ximalaya.com,🍃 应用净化
+  - DOMAIN-SUFFIX,location.ximalaya.com,🍃 应用净化
+  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,🍃 应用净化
+  - DOMAIN-SUFFIX,biz5.kankan.com,🍃 应用净化
+  - DOMAIN-SUFFIX,float.kankan.com,🍃 应用净化
+  - DOMAIN-SUFFIX,hub5btmain.sandai.net,🍃 应用净化
+  - DOMAIN-SUFFIX,hub5emu.sandai.net,🍃 应用净化
+  - DOMAIN-SUFFIX,logic.cpm.cm.kankan.com,🍃 应用净化
+  - DOMAIN-SUFFIX,upgrade.xl9.xunlei.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ad.wretch.cc,🍃 应用净化
+  - DOMAIN-SUFFIX,ads.yahoo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,adserver.yahoo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,adss.yahoo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,analytics.query.yahoo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,analytics.yahoo.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ane.yahoo.co.jp,🍃 应用净化
   - DOMAIN-SUFFIX,ard.yahoo.co.jp,🍃 应用净化
   - DOMAIN-SUFFIX,beap-bc.yahoo.com,🍃 应用净化
   - DOMAIN-SUFFIX,clicks.beap.bc.yahoo.com,🍃 应用净化
@@ -568,38 +603,3 @@
   - DOMAIN-SUFFIX,aiv-cdn.net,🌍 国外媒体
   - DOMAIN-SUFFIX,aiv-delivery.net,🌍 国外媒体
   - DOMAIN-SUFFIX,amazon.jobs,🌍 国外媒体
-  - DOMAIN-SUFFIX,amazonuniversity.jobs,🌍 国外媒体
-  - DOMAIN-SUFFIX,amazonvideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,media-amazon.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pv-cdn.net,🌍 国外媒体
-#   - URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,🌍 国外媒体
-#   - USER-AGENT,AppleNews*,🌍 国外媒体
-#   - USER-AGENT,com.apple.news*,🌍 国外媒体
-  - DOMAIN,gspe1-ssl.ls.apple.com,🌍 国外媒体
-  - DOMAIN,np-edge.itunes.apple.com,🌍 国外媒体
-  - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tv.apple.com,🌍 国外媒体
-#   - USER-AGENT,BBCiPlayer*,🌍 国外媒体
-  - DOMAIN-KEYWORD,bbcfmt,🌍 国外媒体
-  - DOMAIN-KEYWORD,uk-live,🌍 国外媒体
-  - DOMAIN,aod-dash-uk-live.akamaized.net,🌍 国外媒体
-  - DOMAIN,aod-hls-uk-live.akamaized.net,🌍 国外媒体
-  - DOMAIN,vod-dash-uk-live.akamaized.net,🌍 国外媒体
-  - DOMAIN,vod-thumb-uk-live.akamaized.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.co.uk,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.net.uk,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbci.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbci.co.uk,🌍 国外媒体
-  - DOMAIN-SUFFIX,bidi.net.uk,🌍 国外媒体
-#   - USER-AGENT,Anime*,🌍 国外媒体
-  - DOMAIN,bahamut.akamaized.net,🌍 国外媒体
-  - DOMAIN,gamer-cds.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN,gamer2-cds.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,bahamut.com.tw,🌍 国外媒体
-  - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
-#   - USER-AGENT,DAZN*,🌍 国外媒体
-  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
-  - DOMAIN,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
