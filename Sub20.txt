@@ -3,38 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      "reserved": [205,184,52],  
-
-      "mtu": 1120
-    },{
-      "type": "wireguard",
-      "tag": "Warp-IR10",
-      "server": "188.114.99.105",
-      "server_port": 946,
-
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main10",
-      "detour": "Warp-IR10",
-      "server": "188.114.99.105",
-      "server_port": 946,
-      
-      "local_address": [
-          "172.16.0.2/32",
-          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
-      ],
-      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [205,184,52],  
 
@@ -82,7 +50,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8cca76ef3ddc7ed5 &bull; 2024-10-03 05:17:13 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8ccad8a58e1881f4 &bull; 2024-10-03 06:23:55 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -107,12 +75,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8cca76ef3ddc7ed5</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ccad8a58e1881f4</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.172.17.134</span>
+      <span class="hidden" id="cf-footer-ip">20.97.191.50</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -142,12 +110,7 @@ vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@www.speedtest.net:8443?path=/%54%65
 vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@104.17.234.114:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8080&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🇺🇸]t.me/ConfigsHub`
 vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@speedtest.net:443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D443&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇨🇦]t.me/ConfigsHub`
 vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42NC4xNzUuMjEzIiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJpcDExLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xMTYuNDgiLCAicG9ydCI6IDgwLCAiaWQiOiAiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ3YXAuaG9zdG1qai5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjk0LjE0MC4wLjExMCIsICJwb3J0IjogODg4MCwgImlkIjogIjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiZm9vZC56aGFhbC5pciIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYVVuaXRlZCBBcmFiIEVtaXJhdGVzIn0=`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogInloMy5mcmVlaDEueHl6IiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiODJjYjkzYTMtNjVhOS00ZGFjLWEyYTctZDk5N2I2YzI2ZDZhIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJsYXJnZXItbWFya2V0aW5nLWFtb3VudHMtc2tpbi50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIjgyY2I5M2EzLTY1YTktNGRhYy1hMmE3LWQ5OTdiNmMyNmQ2YS12bSIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIzLjIyNy4zOC4yMyIsICJwb3J0IjogODA4MCwgImlkIjogIjM0YzBiYjVlLWMxMjAtNDMyZC05YzU4LWJkN2Q4MmM3Mzk3YiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAidWgtbGF3eWVycy1pbnN0cnVtZW50cy1rZXJuZWwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIzNGMwYmI1ZS1jMTIwLTQzMmQtOWM1OC1iZDdkODJjNzM5N2Itdm0iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xNTIuMTcwIiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJtYWhpbHUuc2l0ZSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInloMS5kdGt1NDEueHl6IiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ1aC1sYXd5ZXJzLWluc3RydW1lbnRzLWtlcm5lbC50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIjM0YzBiYjVlLWMxMjAtNDMyZC05YzU4LWJkN2Q4MmM3Mzk3Yi12bSIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE2Mi4xNTkuNS42IiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiZDljNWVjNmEtYThkOC00NzMyLTg0NDctNTZmYmQyZjkzZTk2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJwY3MtcmVmZXJlbmNlZC1jYW1lcmEtY29uY2VybnMudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICJkOWM1ZWM2YS1hOGQ4LTQ3MzItODQ0Ny01NmZiZDJmOTNlOTYtdm0iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE2Mi4xNTkuMTM0LjIzIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiOWIxOTZiNTAtMzdmMi00ZjRiLWIxNzUtMDYyNzNhZGM2MjA3IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJjaGFtcGlvbnNoaXAtYmlkZGluZy1veHlnZW4tYnJvY2h1cmUudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICI5YjE5NmI1MC0zN2YyLTRmNGItYjE3NS0wNjI3M2FkYzYyMDctdm0iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
@@ -231,6 +194,10 @@ vmess://eyJhZGQiOiAiMTA0LjI2LjE1LjE0OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://18e0aaed-f7bb-4523-9ce6-8b199db1420a@speedtest.net:443?path=%2F%3Fed%3D8880&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=v2rayfast7.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://b20b8c83-257e-40ab-a10d-b049ab69b40b@viptcpondertoooo.holabpql.ir:3030?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye`
 vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidXJ5LXVuaXQtYzAzMGVoZWk4LnBvZ2V0NzExMzgud29ya2Vycy5kZXYiLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICIyMDg2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==`
+vless://3e570ca5-59bb-4d35-9530-e0234ca54ef4@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG`vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@www.speedtest.net:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D2480&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#[🇺🇸]t.me/ConfigsHub`
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-095
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.139-096
@@ -603,3 +570,36 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=c
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.64.14-413
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.13:443?security=tls&sni=pjp1.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.38.13-414
 trojan://xl87654321@199.59.243.225:443?security=tls&sni=stonebreak.online#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.225-415
+trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-416
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.71.16-417
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download#%F0%9F%87%AB%F0%9F%87%B7FR-54.37.220.201-418
+trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com#%F0%9F%87%BF%F0%9F%87%A6ZA-13.244.104.87-419
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.37.136-420
+trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-421
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top#%F0%9F%87%B3%F0%9F%87%B1NL-37.48.65.144-422
+trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=corona.jakarta.go.id#%F0%9F%8F%81RELAY-104.18.21.18-423
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.18:443?security=tls&sni=pjp2.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.38.18-424
+trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz#%F0%9F%8F%81RELAY-104.31.16.120-425
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.24.20.239:443?security=tls&sni=c2mt.ciscocdn1.live#%F0%9F%8F%81RELAY-104.24.20.239-426
+trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-5.75.152.12-427
+trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.210.182.170-428
+trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@172.67.196.38:443?security=tls&sni=c5mt.cdncisco.org#%F0%9F%8F%81RELAY-172.67.196.38-429
+trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.127.212-430
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-431
+trojan://26a663656e575c0b@5.44.249.51:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.51-432
+trojan://4bacb8f1a089763b@5.44.249.50:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.50-433
+trojan://8ddcc360-5223-11ee-bc2d-1239d0255272@104.31.16.14:443?security=tls&sni=fr1.test3.net#%F0%9F%8F%81RELAY-104.31.16.14-434
+trojan://0c6a3341e8d5ab17@5.44.249.42:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.42-435
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@my02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-48.210.48.138-436
+trojan://0c6a3341e8d5ab17@5.44.249.44:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.44-437
+trojan://26a663656e575c0b@5.44.249.52:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.52-438
+trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.22.136:443?security=tls&sni=de1.test3.net#%F0%9F%8F%81RELAY-104.18.22.136-439
+trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=de1.test3.net#%F0%9F%8F%81RELAY-162.159.137.232-440
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-441
+trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.122.175:443?security=tls&sni=de1.test3.net#%F0%9F%8F%81RELAY-104.16.122.175-442
+trojan://mnk8fd@104.21.51.9:443?security=tls&sni=aws-uae-1.f1cflined.com#%F0%9F%8F%81RELAY-104.21.51.9-443
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co#%F0%9F%8F%81RELAY-172.67.131.245-444
+trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B3IN-43.205.109.9-445
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live#%F0%9F%8F%81RELAY-104.17.245.1-446
+trojan://3ad41c7b-b772-3f96-9986-66d1a2b79820cmynw@45.79.73.131:443?security=tls&sni=kaizen-us-14.cmy-dns.com#%F0%9F%87%BA%F0%9F%87%B8US-45.79.73.131-447
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-448
