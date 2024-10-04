@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN,vod-thumb-uk-live.akamaized.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.co.uk,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,bbc.net.uk,🌍 国外媒体
   - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,🌍 国外媒体
   - DOMAIN-SUFFIX,bbci.co,🌍 国外媒体
   - DOMAIN-SUFFIX,bbci.co.uk,🌍 国外媒体
@@ -603,3 +598,8 @@
   - IP-CIDR,203.208.39.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,203.208.40.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,203.208.41.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.43.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.50.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.226/32,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.34/32,🚀 节点选择,no-resolve
