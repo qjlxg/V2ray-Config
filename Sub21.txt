@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@114.201.80.59:50003?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@175.195.48.68:10116?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@118.40.112.188:10081?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@58.124.161.15:32400?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@14.45.213.201:50001?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@125.134.169.165:12101?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@121.162.208.57:50001?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@219.249.144.205:10001?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=freenodes.repe.gay&type=ws&sni=freenodes.repe.gay#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
@@ -603,3 +598,8 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
       }
     },
     {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
