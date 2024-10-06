@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,203.208.39.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,203.208.40.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,203.208.41.0/24,🚀 节点选择,no-resolve
   - IP-CIDR,203.208.43.0/24,🚀 节点选择,no-resolve
@@ -603,3 +602,4 @@
   - DOMAIN-SUFFIX,51cto.com,🎯 全球直连
   - DOMAIN-SUFFIX,51job.com,🎯 全球直连
   - DOMAIN-SUFFIX,51jobcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,56.com,🎯 全球直连
