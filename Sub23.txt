@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
           "packets": "tlshello",
           "length": "10-20",
           "interval": "1-3"
@@ -400,7 +406,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8ce69dd72c5fcf17 &bull; 2024-10-06 15:17:08 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8ce6f884fb4f9c37 &bull; 2024-10-06 16:19:02 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -425,12 +431,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ce69dd72c5fcf17</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ce6f884fb4f9c37</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.190.140.16</span>
+      <span class="hidden" id="cf-footer-ip">20.55.14.238</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -597,9 +603,3 @@ vless://fd086800-ffae-4336-a55b-143913e6cec2@iranserver.com:80?path=%2FTelegram%
 vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔
 vless://7b12481d-e386-4311-84dd-d570b8a96976@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@23.23.151.109:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#[🇨🇦]t.me/ConfigsHub`
-vless://de790803-7401-48d3-b8a4-2d9b38f5036f@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&encryption=none#[🇺🇸]t.me/ConfigsHub`
-vless://3f237bec-4c4f-4310-a550-de946c3f323c@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedee.ir&encryption=none#[🇨🇦]t.me/ConfigsHub`
-vless://3fecfaf1-02c1-436d-83b2-d43ddd82fd59@Speedtest.net:443?path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&security=tls&encryption=none&host=sobip.ir&type=ws&sni=Speedtest.net#👉🆔
-vless://23e0549a-9bf5-4a4d-b79a-355696fd35a3@Speedtest.net:443?path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&security=tls&encryption=none&host=sobivip.com&type=ws&sni=Speedtest.net#👉🆔
-vless://c3552891-01b2-4ce0-b5ce-6eb8efc87619@151.101.2.228:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimitemergency.net&type=ws#👉🆔
