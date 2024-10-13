@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,43.242.168.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.112.212.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,47.52.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,47.56.0.0/15,🎯 全球直连,no-resolve
   - IP-CIDR,47.74.0.0/15,🎯 全球直连,no-resolve
   - IP-CIDR,47.76.0.0/14,🎯 全球直连,no-resolve
@@ -600,6 +603,3 @@ ss://Parsashonam-69@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryptio
 ss://1d1be63a-1383-447c-89f3-a1040ba97676@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.drlimitemergency.net#telegram
 ss://bm9uZTpiYWNiY2FhLWFiYWMtYWJhYy1iYWRjLWJiYmFjY2FhYWNiYw==@127.0.0.1:1080#@Hope_Net
 ss://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MCI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.12.117:443#%40HELIX_Servers
-ss://1d1be63a-1383-447c-89f3-a1040ba97676@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimitemergency.net&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome#telegram
-ss://90fdaaaf-44fb-443a-a666-c5a6fadafddc@adroll.com:443?path=%2F%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=w.ir&amp;fp=firefox&amp;type=ws&amp;sni=adroll.com#@Hope_Net-join-us-on-Telegram
