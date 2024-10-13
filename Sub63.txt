@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
       - feng5_2
       - feng6_2
       - 901.dbodanwi.workers.dev_3
@@ -603,3 +599,7 @@ rules:
   - DOMAIN-SUFFIX,aihaoduo.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,ajapk.com,🛑 全球拦截
   - DOMAIN-SUFFIX,allyes.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,allyes.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,angsrvr.com,🛑 全球拦截
