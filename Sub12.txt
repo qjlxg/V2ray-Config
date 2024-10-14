@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,fonts.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,googletagmanager.com,🎯 全球直连
   - DOMAIN-SUFFIX,googletagservices.com,🎯 全球直连
@@ -3601,5 +3603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.188:
 vless://58c741fe-d085-542e-a5f7-d4cfbc410797@104.19.206.73:80?encryption=none&security=none&type=ws&host=242b9.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#t.me%2Fpeterjest
 vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:443?encryption=none&security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.64.146.66:2087?encryption=none&security=tls&sni=vfarid.xcdi.wORKERS.deV&alpn=http%2F1.1&type=ws&host=vfarid.xcdi.wORKERS.deV&path=vless-ws%2F%3Fed%3D2048#t.me%2Fpeterjest
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.214.246:2096?security=tls&sni=vfarid.xcdi.woRKerS.DEv&alpn=http%2F1.1&type=ws&host=vfarid.xcdi.woRKerS.DEv&path=trojan-ws%2F%3Fed%3D2048#t.me%2Fpeterjest
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560#t.me%2Fpeterjest
