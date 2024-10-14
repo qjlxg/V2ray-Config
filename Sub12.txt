@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,alt4-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alt5-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alt6-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alt7-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alt8-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,app-measurement.com,🎯 全球直连
+  - DOMAIN-SUFFIX,c.android.clients.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cache.pack.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,clickserve.dartsearch.net,🎯 全球直连
+  - DOMAIN-SUFFIX,clientservices.googleapis.com,🎯 全球直连
+  - DOMAIN-SUFFIX,crl.pki.goog,🎯 全球直连
   - DOMAIN-SUFFIX,dl.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
@@ -3592,14 +3603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.196.20:2053?encryption=none&
 vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?encryption=none&security=tls&sni=ConfigTell.felafel.org&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc&serviceName=%40ConfigTell&mode=gun#t.me%2Fpeterjest
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.110.91:2053?encryption=none&security=tls&sni=bPb-v.pAGEs.deV&alpn=http%2F1.1&type=ws&host=BPb-V.pagEs.DeV&path=%2FE7xnlvHEF5Dd3Zws%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
 vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@172.67.209.25:443?encryption=none&security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F#t.me%2Fpeterjest
-vless://ef4faf0e-ce58-4a06-a77e-2753c3ec5cd0@151.101.66.228:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#t.me%2Fpeterjest
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.1.191:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&alpn=http%2F1.1&type=ws&host=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws%2F%3Fed%3D2048#t.me%2Fpeterjest
-vless://f4b02459-fde7-442a-a285-75ed3c318f76@85.133.200.207:2053?encryption=none&security=none&type=tcp&headerType=http&host=neshan.org#t.me%2Fpeterjest
-vless://694f4e1e-5768-4065-a9be-5f3945c6b4c4@151.101.2.216:80?encryption=none&security=none&type=ws&host=barkatc1.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.25.136.207:443?encryption=none&security=tls&sni=BPB-V.PAGES.dEV&alpn=http%2F1.1&type=ws&host=bPb-V.PAGEs.DeV&path=%2F3N4UHKuJWhCUhUcD%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.135:443?encryption=none&security=tls&sni=bpB-v.pAGeS.DeV&alpn=http%2F1.1&type=ws&host=Bpb-V.PageS.DeV&path=%2FSKu2eSIp7CHhWpsP%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
-vless://172165bd-8604-40fc-8e7b-db94a23cc002@151.101.2.216:80?encryption=none&security=none&type=ws&host=tehran1.ir&path=%2FTelegram-------%40PROXY_MTM-_-_-_-Telegram-------%40PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM%2F%3Fed%3D2048#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.75:443?encryption=none&security=tls&sni=bpB-v.PagES.dev&alpn=http%2F1.1&type=ws&host=bPB-v.PAgES.Dev&path=%2FmP9SjxpnLgbSy8X0%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.13:443?encryption=none&security=tls&sni=BPB-V.paGEs.Dev&alpn=http%2F1.1&type=ws&host=bpb-V.pageS.deV&path=%2FRZNUeKfQI5UNvHQ2%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.72:2053?encryption=none&security=tls&sni=bPb-V.paGES.DeV&alpn=http%2F1.1&type=ws&host=BpB-v.PaGES.dEV&path=%2FDiOY4d2HdDv22JMW%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.110.11:443?encryption=none&security=tls&sni=bPB-V.PaGEs.dev&alpn=http%2F1.1&type=ws&host=BPB-v.PAGEs.Dev&path=%2FZzaL9EftLpfbUFC6%2FMTI5LjE1OS4yNDEuMTcy#t.me%2Fpeterjest
