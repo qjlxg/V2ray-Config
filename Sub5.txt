@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-                  <svg
-                     fill="#b03340"
                      xmlns="http://www.w3.org/2000/svg"
                      viewBox="0 0 16 16"
                   >
@@ -40,14 +38,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8d306b9429b1c97b</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8d30c5edda47c9bc</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-10-15 14:15:15 UTC</span>
+      <span class="cf-footer-item">2024-10-15 15:16:56 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">40.76.119.140</span>
+        <span class="hidden" id="cf-footer-ip">20.81.159.71</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -890,7 +888,7 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d306ba849de1fe3 &bull; 2024-10-15 14:15:19 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d30c672dfd1c988 &bull; 2024-10-15 15:17:17 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -915,12 +913,12 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d306ba849de1fe3</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d30c672dfd1c988</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.76.119.140</span>
+      <span class="hidden" id="cf-footer-ip">20.81.159.71</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -3603,3 +3601,5 @@ vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?encryption=none&se
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.50.197:443?encryption=none&security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.50.197%3A443
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRVx1RDgzQ1x1RERFQSBJcmVsYW5kIiwNCiAgImFkZCI6ICI5NS4xNjQuNDQuNzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICIzODUzNTAzMS1jY2MzLTRhOTQtYmQ1NC1jNjg4MDY0ODY0MDYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdvb2dsZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3MiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiZ29vZ2xlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.136:80?encryption=none&security=none&type=ws&host=us3.rtacg.com&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.183.136%3A80
+vless://e6a047f0-734b-4bd7-82aa-367f2d88f4a4@172.67.223.175:443?encryption=none&security=tls&sni=httpstmev2rayvmessfree.raminramin006.workers.dev&type=ws&host=httpstmev2rayvmessfree.raminramin006.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.223.175%3A443
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRF8wNTI5MTM2NjgiLA0KICAiYWRkIjogIjE3Mi42Ny4yMjkuMTkiLA0KICAicG9ydCI6ICIyMDg2IiwNCiAgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNhNi50ZWhtZTEwMC5mdW4iLA0KICAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
