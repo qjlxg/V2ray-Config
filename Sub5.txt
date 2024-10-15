@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-vless://fb773829-ebe0-49b6-a55c-6cae72992326@anonymousswi.shoponetop.com.:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=safari&type=grpc&serviceName=xyz&sni=anonymousswi.shoponetop.com.#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://620f6f14-3d86-4de8-91cd-37ef2ffd2e58@185.146.173.146:2095?path=%2Ftelegram-%40ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%3Fed%3D2048&security=none&encryption=none&host=V2ray-_-_-_-_-_-M9hoOSbgAU-lpAshK92.81Mv78Aq-0jS.ArviNbalUch.IR.&type=ws#👉🆔 @v2ray_configs_pool
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#👉🆔 @v2ray_configs_pool
 vless://Telegram-%69%70%56%32%52%61%79-ftr@185.146.173.58:80?type=ws&path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&security=none#👉🆔 @v2ray_configs_pool
 vless://Telegram-%69%70%56%32%52%61%79-ito@185.146.173.58:80?type=ws&path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#👉🆔 @v2ray_configs_pool
@@ -795,7 +787,7 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d2eb6e70d030612 &bull; 2024-10-15 09:17:09 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d2f111c5fbb1026 &bull; 2024-10-15 10:18:44 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -820,12 +812,12 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d2eb6e70d030612</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d2f111c5fbb1026</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.67.133.151</span>
+      <span class="hidden" id="cf-footer-ip">20.172.2.102</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -3603,3 +3595,11 @@ vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.61.91:8080?encryption=none&s
 vless://97d6eb0f-964a-4edb-a064-11c1488bf51d@172.64.111.9:443?encryption=none&security=tls&sni=ua1.v2vless.xyz&type=ws&host=ua1.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#%F0%9F%87%BA%F0%9F%87%A6%40ALPHA_V2RAY_FAZAYI-ALL
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@172.67.135.195:443?encryption=none&security=tls&sni=who-doesnt-care.BacheBiaPain.IR&alpn=http%2F1.1&type=ws&host=who-doesnt-care.BacheBiaPain.IR&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#%F0%9F%94%97%20Vauth%20-%202054
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI5MTMzNzMiLA0KICAiYWRkIjogIjEwNC4xOS41Ny44NCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImMwNDUzYTE2LTY3ZTktNGVhYi1iZGM5LWI5NjI0YWQ2YmQyOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGt2Ni54bGI4LmV1Lm9yZyIsDQogICJwYXRoIjogIi8/ZWQ9MjA0OFx1MDAyNlRlbGVncmFtXHVEODNDXHVEREU4XHVEODNDXHVEREYzIEBXYW5nQ2FpXzgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOFVTKEF6YWROZXQudC5tZSlfMDM4IiwNCiAgImFkZCI6ICIxMDQuMTkuMzIuMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwNCiAgInBhdGgiOiAiL2l2aWRlb3Muc2JzL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.211.134:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.211.134%3A443
+vless://76434743-2a94-4cfd-8170-8e3971419b36@172.66.44.237:443?encryption=none&security=tls&sni=pardazeshvpn-tg85.pages.dev&type=ws&host=pardazeshvpn-tg85.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.44.237%3A443
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI5MTMzMDMyIiwNCiAgImFkZCI6ICIxMDQuMTkuNTcuMTk4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoa3Y2LnhsYjguZXUub3JnIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4XHUwMDI2VGVsZWdyYW1cdUQ4M0NcdURERThcdUQ4M0NcdURERjMgQFdhbmdDYWlfOCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://0c052229-289f-4ac5-a29e-abb91f7da5d9@188.121.119.39:443?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40FreakConfig%20%7C%205
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2FSiNABiGO-SiNABiGO%3Fed#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Outlinev2rayNG%20%7C%204
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI5MTMzNjAiLA0KICAiYWRkIjogIjEwNC4xNi40NS40NiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImMwNDUzYTE2LTY3ZTktNGVhYi1iZGM5LWI5NjI0YWQ2YmQyOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYWtoay54bGI4LmV1Lm9yZyIsDQogICJwYXRoIjogIi8/ZWQ9MjA0OFx1MDAyNlRlbGVncmFtXHVEODNDXHVEREU4XHVEODNDXHVEREYzIEBXYW5nQ2FpXzgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMEhLXzM3IEBXYW5nQ2FpXzgiLA0KICAiYWRkIjogIjEwNC4xOS41Ny4zNyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImMwNDUzYTE2LTY3ZTktNGVhYi1iZGM5LWI5NjI0YWQ2YmQyOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGt2Ni54bGI4LmV1Lm9yZyIsDQogICJwYXRoIjogIi8/ZWQ9MjA0OFx1MDAyNlRlbGVncmFtXHVEODNDXHVEREU4XHVEODNDXHVEREYzIEBXYW5nQ2FpXzgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
