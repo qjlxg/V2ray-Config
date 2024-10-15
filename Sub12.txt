@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,wan.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykatr.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrec.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrectab.youku.com,🍃 应用净化
   - IP-CIDR,117.177.248.17/32,🍃 应用净化,no-resolve
   - IP-CIDR,117.177.248.41/32,🍃 应用净化,no-resolve
   - IP-CIDR,223.87.176.139/32,🍃 应用净化,no-resolve
@@ -3603,3 +3599,7 @@ trojan://telegram-id-privatevpns@13.38.154.57:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@51.44.61.140:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-directvpn@51.20.145.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@34.250.158.245:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://caabacb-acba-baca-dcba-babbbcaaaccc@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://8d4a8689-e8fd-4405-9834-3f812c528db0@naiu-other.05vr9nyqg5.download:13035?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https%3A%2F%2Ft.me%2Fmftizi
+trojan://telegram-id-privatevpns@13.43.221.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
+trojan://telegram-id-privatevpns@18.171.97.166:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
